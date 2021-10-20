@@ -1,1 +1,7 @@
+.DS_Store
+
 venv/
+.venv
+editions
+*.csv
+*.psd
