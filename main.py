@@ -107,8 +107,7 @@ def generate_candy_machine_edition(psd, traits):
                 layer.visible = True
                 sublayer[0].visible = True
 
-    image = psd.composite(force=True, alpha=1.0, layer_filter=lambda l: l.visible)
-    image.save(f"{editionsPath}/{filename}.png")
+    psd.composite(force=True).save(f"{editionsPath}/{filename}.png")
 
     json_data = {
         "name": f"Michael Bisping Ed. {filename}",
@@ -141,7 +140,6 @@ def generate_editions(csv_filename, psd_filename):
         "Invalid or no PSD file provided"
 
     with open(csv_filename, "r") as f:
-        psd = PSDImage.open(psd_filename)
         typer.echo(f"Using {psd_filename} and {csv_filename}")
 
         reader = csv.reader(f)
@@ -151,12 +149,17 @@ def generate_editions(csv_filename, psd_filename):
             if idx == 0:
                 header = row
                 continue
-            
+
+            # For testing generation of specific editions
+            # if int(row[0]) not in [2, 3]:
+            #     continue
+
             traits = {
                 trait_name: row[i]
                 for i, trait_name in enumerate(header)
             }
 
+            psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
             generate_candy_machine_edition(psd, traits)
         typer.echo(f"Elapsed time: {time.time() - start} secs")
