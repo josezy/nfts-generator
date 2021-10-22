@@ -5,3 +5,5 @@ venv/
 editions
 *.csv
 *.psd
+
+.vscode
