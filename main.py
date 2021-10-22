@@ -6,56 +6,137 @@ import typer
 from random import choices
 from psd_tools import PSDImage
 
-editionsPath = './editions'
+editionsPath = "./editions"
 
 
-HANDs_CHOICES = ['diamond gloves', 'gold gloves copy', 'solana gloves ', 'clock ', 'blue wrist gloves', 'red wrist gloves', 'gloves with blood', '204 belt', '199 belt', 'holding mic copy', 'BUTCHER FULL SUIT', 'hand wraps ', 'hand wraps blood', 'Bare fists', 'knuckle duster spikes', 'knuckle duster ', None]
-hats_CHOICES = ['butcher hat', 'elvis hair ', 'headphones copy', 'DJ headset ', 'headgear boxing  red', 'headgear boxing  blue', 'mohawk red', 'mohawk black', 'army helmet ', 'halo ', 'crown', 'snapback black', 'snapback red', None]
-Body_CHOICES = ['jiu jitsu robe ', 'suit ', 'butcher', 't-shirt quitters never win', 'leather jacket copy', 'blood body ', 'body tattoo conceive believe', 'medal rockhold', 'clock ', 'Count full suit', 'army clothes copy', 'flag around back', 'punk jacket ', None]
-in_mouth_CHOICES = ['cigarette copy', 'cigar copy', None]
-eye_accessories_CHOICES = ['sunglasses 1', 'sunglasses 2 ', 'cyan', 'pink', 'green', 'red', 'yellow', 'orange', 'union jack laser', 'fallout eye left', 'fallout eye right', 'hippie sunglasses ', 'solana sunglasses ', 'eye patch', 'gold terminator ', 'red terminator ', 'false eye uk ', None]
-face_changes_CHOICES = ['grey beard ', 'tyson tattoo', 'black eye', 'stitches', 'closed eye', 'blood copy', None]
-teeth_CHOICES = ['UK', 'gold', 'solana', 'vampire', 'missing teeth', 'diamond grill', 'falling out mouth copy', 'gold tooth ', None]
-background_CHOICES = ["Layer 293", "Layer 294", "Layer 295", "Layer 296", "Layer 297", "Layer 298", "Layer 299", "Layer 300"]
-bodies_CHOICES = ["mike bald", "mike normal", "brains out", "half skeleton"]
+BACKGROUND_CHOICES = {
+    "Count's Lair": 0.008,
+    "Octagon": 0.012,
+    "Union Jack": 0.008,
+    "Solana": 0.04,
+    "Black": 0.15,
+    "Mustard": 0.07,
+    "Green": 0.07,
+    "Purple": 0.06,
+    "Teal": 0.10,
+    "Blue": 0.10,
+    "Red": 0.10,
+    "Blockasset": 0.032,
+    None: 0.25,
+}
+BASE_CHOICES = {
+    "Half Skull": 0.03,
+    "Brains": 0.07,
+    "Standard": 0.65,
+    "Bald": 0.25,
+    None: 0.0,
+}
+MOUTH_CHOICES = {
+    "Union Jack Mouthguard": 0.06,
+    "Cigarette": 0.09,
+    "Cigar": 0.12,
+    "Gold Mouthguard": 0.05,
+    "Solana Mouthguard": 0.14,
+    "Vampire Teeth": 0.04,
+    "Missing Teeth": 0.07,
+    "Diamond Grill": 0.02,
+    "Falling Mouthguard": 0.07,
+    "Gold Tooth": 0.04,
+    None: 0.3,
+}
+FACE_CHOICES = {
+    "Old Mike": 0.0,
+    "Iron Mike": 0.0,
+    "Black Eye": 0.0,
+    "Stitches": 0.0,
+    "Closed Eye": 0.0,
+    "Bloody": 0.0,
+    "Gold Terminator": 0.0,
+    "Red Terminator": 0.0,
+    None: 0.3,
+}
+EYES_CHOICES = {
+    "Cyan Laser Eyes": 0.0,
+    "Pink Laser Eyes": 0.0,
+    "Green Laser Eyes": 0.0,
+    "Red Laser Eyes": 0.0,
+    "Yellow Laser Eyes": 0.0,
+    "Orange Laser Eyes": 0.0,
+    "Union Jack Laser Eyes": 0.0,
+    "Bye Bye Eye": 0.0,
+    "Hippie Shades": 0.0,
+    "Solana Shades": 0.0,
+    "Shades": 0.0,
+    "Eye Patch": 0.0,
+    "False Eye UK": 0.0,
+    None: 0.3,
+}
+CLOTHING_CHOICES = {
+    "Jiu Jitsu Robe ": 0.0,
+    "Suit": 0.0,
+    "Butcher": 0.0,
+    "Quitters Never Win": 0.0,
+    "Leather Jacket": 0.0,
+    "Bloody Body": 0.0,
+    "Inspirational Tattoo": 0.0,
+    "Countdown": 0.0,
+    "The Count": 0.0,
+    "Soldier": 0.0,
+    "Patriot": 0.0,
+    "Punk Jacket": 0.0,
+    None: 0.3,
+}
+HEAD_CHOICES = {
+    "Butcher Hat": 0.0,
+    "Elvis Hair": 0.0,
+    "Announcer": 0.0,
+    "DJ Mikey B": 0.0,
+    "Red Training Headgear": 0.0,
+    "Blue Training Headgear": 0.0,
+    "Red Mohawk": 0.0,
+    "Black Mohawk": 0.0,
+    "Army Helmet ": 0.0,
+    "Crown": 0.0,
+    "Black Snapback": 0.0,
+    "Red Snapback": 0.0,
+    None: 0.3,
+}
+ACCESSORIES_CHOICES = {
+    "Diamond Gloves": 0.0,
+    "Gold Gloves": 0.0,
+    "Solana Gloves": 0.0,
+    "Blue Wrist Gloves": 0.0,
+    "Red Wrist Gloves": 0.0,
+    "Bloody Gloves": 0.0,
+    "204 Belt": 0.0,
+    "199 Belt": 0.0,
+    "Microphone": 0.0,
+    "Wraps": 0.0,
+    "Bloody Wraps": 0.0,
+    "Bare Fists": 0.0,
+    "Knuckle Duster Spikes": 0.0,
+    "Knuckle Duster": 0.0,
+    None: 0.3,
+}
+
 
 TRAITS = {
-  "HANDs": {
-    "choices": HANDs_CHOICES,
-    "weights": [1/len(HANDs_CHOICES) for _ in range(len(HANDs_CHOICES))]
-  },
-  "hats": {
-    "choices": hats_CHOICES,
-    "weights": [1/len(hats_CHOICES) for _ in range(len(hats_CHOICES))]
-  },
-  "Body": {
-    "choices": Body_CHOICES,
-    "weights": [1/len(Body_CHOICES) for _ in range(len(Body_CHOICES))]
-  },
-  "in mouth": {
-    "choices": in_mouth_CHOICES,
-    "weights": [1/len(in_mouth_CHOICES) for _ in range(len(in_mouth_CHOICES))]
-  },
-  "eye accessories": {
-    "choices": eye_accessories_CHOICES,
-    "weights": [1/len(eye_accessories_CHOICES) for _ in range(len(eye_accessories_CHOICES))]
-  },
-  "face changes": {
-    "choices": face_changes_CHOICES,
-    "weights": [1/len(face_changes_CHOICES) for _ in range(len(face_changes_CHOICES))]
-  },
-  "teeth": {
-    "choices": teeth_CHOICES,
-    "weights": [1/len(teeth_CHOICES) for _ in range(len(teeth_CHOICES))]
-  },
-  "backgrounds": {
-    "choices": background_CHOICES,
-    "weights": [1/len(background_CHOICES) for _ in range(len(background_CHOICES))]
-  },
-  "bodies": {
-    "choices": bodies_CHOICES,
-    "weights": [1/len(bodies_CHOICES) for _ in range(len(bodies_CHOICES))]
-  },
+    "BACKGROUND": BACKGROUND_CHOICES,
+    "BASE": BASE_CHOICES,
+    "MOUTH": MOUTH_CHOICES,
+    "FACE": FACE_CHOICES,
+    "EYES": EYES_CHOICES,
+    "CLOTHING": CLOTHING_CHOICES,
+    "HEAD": HEAD_CHOICES,
+    "ACCESSORIES": ACCESSORIES_CHOICES,
+}
+
+CATEGORIES = {
+    "Common": [],
+    "Uncommon": [],
+    "Rare": [],
+    "Super Rare": [],
+    "Epic": [],
 }
 
 
@@ -69,9 +150,9 @@ def reset_visibility(psd):
 
 def generate_nft_traits(traits):
     nft_traits = {}
-    for trait, trait_data in traits.items():
-        nft_traits[trait] = choices(
-            population=trait_data["choices"], weights=trait_data["weights"], k=1
+    for trait_name, trait_data in traits.items():
+        nft_traits[trait_name] = choices(
+            population=list(trait_data.keys()), weights=list(trait_data.values()), k=1
         )
 
     return nft_traits
@@ -86,18 +167,18 @@ def read_nft_traits(file):
 
 
 def generate_candy_machine_edition(psd, traits):
-    filename = traits['id']
+    filename = traits["id"]
     typer.echo(f"Processing edition {filename}")
 
     for layer in psd[0]:
-        if layer.name == traits['bodies']:
+        if layer.name == traits["bodies"]:
             layer.visible = True
 
-        if layer.name == 'backgrounds':
+        if layer.name == "backgrounds":
             layer.visible = True
-            backgrounds = [l for l in layer if l.name == 'backgrounds 2'][0]
+            backgrounds = [l for l in layer if l.name == "backgrounds 2"][0]
             backgrounds.visible = True
-            background = [l for l in backgrounds if l.name == traits['backgrounds']][0]
+            background = [l for l in backgrounds if l.name == traits["backgrounds"]][0]
             background.visible = True
 
         if layer.name in traits:
@@ -125,10 +206,7 @@ def generate_candy_machine_edition(psd, traits):
                     "share": 50,
                 },
             ],
-            "files": [{
-                "uri": f"{filename}.png",
-                "type": "image/png"
-            }],
+            "files": [{"uri": f"{filename}.png", "type": "image/png"}],
         },
     }
     with open(f"{editionsPath}/{filename}.json", "w") as outfile:
@@ -136,8 +214,9 @@ def generate_candy_machine_edition(psd, traits):
 
 
 def generate_editions(csv_filename, psd_filename):
-    assert len(psd_filename) > 4 and psd_filename.split('.')[-1] == 'psd',\
-        "Invalid or no PSD file provided"
+    assert (
+        len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
+    ), "Invalid or no PSD file provided"
 
     with open(csv_filename, "r") as f:
         typer.echo(f"Using {psd_filename} and {csv_filename}")
@@ -154,10 +233,7 @@ def generate_editions(csv_filename, psd_filename):
             # if int(row[0]) not in [2, 3]:
             #     continue
 
-            traits = {
-                trait_name: row[i]
-                for i, trait_name in enumerate(header)
-            }
+            traits = {trait_name: row[i] for i, trait_name in enumerate(header)}
 
             psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
@@ -171,8 +247,8 @@ def main(
     generate: bool = False,
     read: bool = False,
     nft_file: str = None,
-    psd_filename: str = 'base.psd',
-    csv_filename: str = 'traits.csv',
+    psd_filename: str = "base.psd",
+    csv_filename: str = "traits.csv",
 ):
 
     nft_traits = []
@@ -180,24 +256,23 @@ def main(
     if read and nft_file:
         read_nft_traits(nft_file)
     elif read and not nft_file:
-        raise ValueError('NFT file not provided')
+        raise ValueError("NFT file not provided")
 
     if generate:
         generate_editions(csv_filename, psd_filename)
 
     else:
         with typer.progressbar(range(count)) as progress:
-            for i in progress:
+            for _ in progress:
                 nft_traits.append(generate_nft_traits(TRAITS))
 
-
     if not generate and not read:
-        with open("traits.csv", "w") as f:
+        with open(csv_filename, "w") as f:
             # create the csv writer
             writer = csv.writer(f)
 
             # write the header
-            writer.writerow(["id"] + [trait for trait in TRAITS])
+            writer.writerow(["id"] + list(TRAITS.keys()))
 
             for count, traits in enumerate(nft_traits):
                 writer.writerow([count + start_at] + [v[0] for v in traits.values()])
