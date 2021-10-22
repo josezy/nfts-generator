@@ -170,26 +170,17 @@ def read_nft_traits(file):
 
 
 def generate_candy_machine_edition(psd, traits):
-    filename = traits["id"]
+    filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
 
     for layer in psd[0]:
-        if layer.name == traits["bodies"]:
-            layer.visible = True
+        if layer.name.upper() not in traits:
+            continue
 
-        if layer.name == "backgrounds":
-            layer.visible = True
-            backgrounds = [l for l in layer if l.name == "backgrounds 2"][0]
-            backgrounds.visible = True
-            background = [l for l in backgrounds if l.name == traits["backgrounds"]][0]
-            background.visible = True
-
-        if layer.name in traits:
-            t_name = traits[layer.name]
-            sublayer = [l for l in layer if l.name == t_name]
-            if len(sublayer) == 1:
-                layer.visible = True
-                sublayer[0].visible = True
+        layer.visible = True
+        sublayer = [l for l in layer if l.name == traits[layer.name.upper()]]
+        if len(sublayer) == 1:
+            sublayer[0].visible = True
 
     psd.composite(force=True).save(f"{editionsPath}/{filename}.png")
 
@@ -275,7 +266,7 @@ def main(
             writer = csv.writer(f)
 
             # write the header
-            writer.writerow(["id"] + list(TRAITS.keys()))
+            writer.writerow(["ID"] + list(TRAITS.keys()))
 
             for count, traits in enumerate(nft_traits):
                 writer.writerow([count + start_at] + [v[0] for v in traits.values()])
