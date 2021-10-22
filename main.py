@@ -202,6 +202,10 @@ def generate_candy_machine_edition(psd, traits):
             ],
             "files": [{"uri": f"{filename}.png", "type": "image/png"}],
         },
+        "attributes": [
+            {"trait_type": trait_name, "value": trait_value}
+            for trait_name, trait_value in traits.items()
+        ],
     }
     with open(f"{editionsPath}/{filename}.json", "w") as outfile:
         json.dump(json_data, outfile)
