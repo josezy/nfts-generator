@@ -16,44 +16,50 @@ TRAITS = {
         "Old Mike": 5,
     },
     "HEAD": {
-        None: 85,
-        "Announcer": 7.5,
-        "DJ Mikey B": 5,
-        "Crown": 2.5,
+        None: 55,
+        "Sparring Headgear": 17,
+        "Snapback": 13,
+        "Announcer": 9,
+        "DJ Mikey B": 6,
+        "Crown": 1,
     },
     "FACE": {
-        None: 75,
-        "Bloody": 15,
-        "Red Terminator": 8,
+        None: 62,
+        "Bloody": 22,
+        "Red Terminator": 14,
         "Gold Terminator": 2,
     },
     "MOUTH": {
-        None: 75,
-        "Falling Mouthguard": 15,
-        "Diamond Grill": 9.75,
+        None: 68,
+        "Falling Mouthguard": 21.75,
+        "Diamond Grill": 10,
         "Dosbrak Bandana": 0.25,
     },
     "EYES": {
-        None: 94,
-        "Wayfarers": 6,
+        None: 80,
+        "Wayfarers": 20,
     },
     "ACCESSORIES": {
-        None: 49,
-        "Gold Gloves": 24,
-        "199 Belt": 19,
-        "Microphone": 4.2,
-        "Knuckle Duster Spikes": 3.3,
-        "Diamond Gloves": 0.5,
+        None: 20,
+        "Bloody Wraps": 22,
+        "Bloody Gloves": 20,
+        "Gold Gloves": 15,
+        "199 Belt": 13,
+        "Microphone": 10,
+        "Knuckle Duster Spikes": 5,
+        "Diamond Gloves": 2,
     },
     "CLOTHING": {
-        None: 50,
-        "Bloody Body": 16,
-        "Jiu Jitsu Robe": 15,
-        "Suit": 7,
-        "Punk Jacket": 7,
-        "Patriot Flag": 2.5,
+        None: 20,
+        "Bloody Body": 19,
+        "Jiu Jitsu Robe": 14,
+        "Suit": 12,
+        "Tattoo": 11,
+        "Punk Jacket": 10,
+        "Butcher": 6,
+        "Patriot Flag": 5,
         "The Count": 2,
-        "Astronaut": 0.5,
+        "Astronaut": 1,
     },
     "BACKGROUND": {
         "Teal": 20,
@@ -84,15 +90,35 @@ def reset_visibility(psd):
             layer.visible = False
 
 
+def review_and_fix_special_cases(nft_traits):
+
+    # 'Microphone' trait should only show with 'Suit' trait
+    if nft_traits['ACCESSORIES'] == 'Microphone':
+        nft_traits['CLOTHING'] = 'Suit'
+
+    # 'Wayfarer' trait should not show with 'Sparring Headgear' trait
+    if nft_traits['HEAD'] == 'Sparring Headgear':
+        nft_traits['EYES'] = None
+
+    # 'Astronaut' should show with 'Standard' base trait only please
+    if nft_traits['CLOTHING'] == 'Astronaut':
+        nft_traits['BASE'] = 'Standard'
+
+    # 'Dosbrak Bandana' trait should not show with 'Sparring Headgear' trait
+    if nft_traits['HEAD'] == 'Sparring Headgear':
+        nft_traits['MOUTH'] = 'Diamond Grill'
+
+    return nft_traits
+
 def generate_nft_traits(traits):
     nft_traits = {}
     for trait_name, trait_data in traits.items():
         weights = [weight / 100 for weight in trait_data.values()]
         nft_traits[trait_name] = choices(
             population=list(trait_data.keys()), weights=weights, k=1
-        )
+        )[0]
 
-    return nft_traits
+    return review_and_fix_special_cases(nft_traits)
 
 
 def read_nft_traits(file):
@@ -207,7 +233,7 @@ def main(
             writer.writerow(["ID"] + list(TRAITS.keys()))
 
             for count, traits in enumerate(nft_traits):
-                writer.writerow([count + start_at] + [v[0] for v in traits.values()])
+                writer.writerow([count + start_at] + list(traits.values()))
 
         typer.echo(f"Processed {count+1} images")
 
