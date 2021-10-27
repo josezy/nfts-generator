@@ -9,129 +9,62 @@ from psd_tools import PSDImage
 editionsPath = "./editions"
 
 
-BACKGROUND_CHOICES = {
-    "Count's Lair": 0.008,
-    "Octagon": 0.012,
-    "Union Jack": 0.008,
-    "Solana": 0.04,
-    "Black": 0.15,
-    "Mustard": 0.07,
-    "Green": 0.07,
-    "Purple": 0.06,
-    "Teal": 0.10,
-    "Blue": 0.10,
-    "Red": 0.10,
-    "Blockasset": 0.032,
-    None: 0.25,
-}
-BASE_CHOICES = {
-    "Half Skull": 0.03,
-    "Brains": 0.07,
-    "Standard": 0.65,
-    "Bald": 0.25,
-    None: 0.0,
-}
-MOUTH_CHOICES = {
-    "Union Jack Mouthguard": 0.06,
-    "Cigarette": 0.09,
-    "Cigar": 0.12,
-    "Gold Mouthguard": 0.05,
-    "Solana Mouthguard": 0.14,
-    "Vampire Teeth": 0.04,
-    "Missing Teeth": 0.07,
-    "Diamond Grill": 0.02,
-    "Falling Mouthguard": 0.07,
-    "Gold Tooth": 0.04,
-    None: 0.3,
-}
-FACE_CHOICES = {
-    "Old Mike": 0.17,
-    "Iron Mike": 0.10,
-    "Black Eye": 0.0,
-    "Stitches": 0.15,
-    "Closed Eye": 0.0,
-    "Bloody": 0.15,
-    "Gold Terminator": 0.01,
-    "Red Terminator": 0.02,
-    None: 0.4,
-}
-EYES_CHOICES = {
-    "Cyan Laser Eyes": 0.04,
-    "Pink Laser Eyes": 0.09,
-    "Green Laser Eyes": 0.09,
-    "Red Laser Eyes": 0.09,
-    "Yellow Laser Eyes": 0.09,
-    "Orange Laser Eyes": 0.09,
-    "Union Jack Laser Eyes": 0.02,
-    "Bye Bye Eye": 0.002,
-    "Hippie Shades": 0.05,
-    "Solana Shades": 0.05,
-    "Shades": 0.04,
-    "Eye Patch": 0.005,
-    "False Eye UK": 0.02,
-    ### Missing layers ###
-    # "Black Eye": 0.005,
-    # "Closed Eye": 0.018,
-    None: 0.3,
-}
-CLOTHING_CHOICES = {
-    "Jiu Jitsu Robe ": 0.10,
-    "Suit": 0.12,
-    "Butcher": 0.02,
-    "Quitters Never Win": 0.06,
-    "Leather Jacket": 0.12,
-    "Bloody Body": 0.11,
-    "Inspirational Tattoo": 0.06,
-    "Countdown": 0.06,
-    "The Count": 0.01,
-    "Soldier": 0.02,
-    "Patriot": 0.002,
-    "Punk Jacket": 0.018,
-    None: 0.3,
-}
-HEAD_CHOICES = {
-    "Butcher Hat": 0.02,
-    "Elvis Hair": 0.06,
-    "Announcer": 0.09,
-    "DJ Mikey B": 0.038,
-    "Red Training Headgear": 0.09,
-    "Blue Training Headgear": 0.09,
-    "Red Mohawk": 0.06,
-    "Black Mohawk": 0.06,
-    "Army Helmet ": 0.01,
-    "Crown": 0.002,
-    "Black Snapback": 0.09,
-    "Red Snapback": 0.09,
-    None: 0.3,
-}
-ACCESSORIES_CHOICES = {
-    "Diamond Gloves": 0.008,
-    "Gold Gloves": 0.03,
-    "Solana Gloves": 0.05,
-    "Blue Wrist Gloves": 0.09,
-    "Red Wrist Gloves": 0.09,
-    "Bloody Gloves": 0.09,
-    "204 Belt": 0.016,
-    "199 Belt": 0.016,
-    "Microphone": 0.05,
-    "Wraps": 0.09,
-    "Bloody Wraps": 0.05,
-    "Bare Fists": 0.09,
-    "Knuckle Duster Spikes": 0.03,
-    "Knuckle Duster": 0.05,
-    None: 0.25,
-}
-
-
 TRAITS = {
-    "BACKGROUND": BACKGROUND_CHOICES,
-    "BASE": BASE_CHOICES,
-    "MOUTH": MOUTH_CHOICES,
-    "FACE": FACE_CHOICES,
-    "EYES": EYES_CHOICES,
-    "CLOTHING": CLOTHING_CHOICES,
-    "HEAD": HEAD_CHOICES,
-    "ACCESSORIES": ACCESSORIES_CHOICES,
+    "BASE": {
+        "Standard": 80,
+        "Bald": 15,
+        "Old Mike": 5,
+    },
+    "HEAD": {
+        None: 85,
+        "Announcer": 7.5,
+        "DJ Mikey B": 5,
+        "Crown": 2.5,
+    },
+    "FACE": {
+        None: 75,
+        "Bloody": 15,
+        "Red Terminator": 8,
+        "Gold Terminator": 2,
+    },
+    "MOUTH": {
+        None: 75,
+        "Falling Mouthguard": 15,
+        "Diamond Grill": 9.75,
+        "Dosbrak Bandana": 0.25,
+    },
+    "EYES": {
+        None: 94,
+        "Wayfarers": 6,
+    },
+    "ACCESSORIES": {
+        None: 49,
+        "Gold Gloves": 24,
+        "199 Belt": 19,
+        "Microphone": 4.2,
+        "Knuckle Duster Spikes": 3.3,
+        "Diamond Gloves": 0.5,
+    },
+    "CLOTHING": {
+        None: 50,
+        "Bloody Body": 16,
+        "Jiu Jitsu Robe": 15,
+        "Suit": 7,
+        "Punk Jacket": 7,
+        "Patriot Flag": 2.5,
+        "The Count": 2,
+        "Astronaut": 0.5,
+    },
+    "BACKGROUND": {
+        "Teal": 20,
+        "Black": 20,
+        "Red": 20,
+        "Purple": 15,
+        "Mustard": 15,
+        "Blockasset": 5,
+        "Octagon": 4.2,
+        "Count's Lair": 0.8,
+    },
 }
 
 CATEGORIES = {
@@ -154,8 +87,9 @@ def reset_visibility(psd):
 def generate_nft_traits(traits):
     nft_traits = {}
     for trait_name, trait_data in traits.items():
+        weights = [weight / 100 for weight in trait_data.values()]
         nft_traits[trait_name] = choices(
-            population=list(trait_data.keys()), weights=list(trait_data.values()), k=1
+            population=list(trait_data.keys()), weights=weights, k=1
         )
 
     return nft_traits
