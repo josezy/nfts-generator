@@ -172,7 +172,7 @@ def generate_candy_machine_edition(psd, traits):
         json.dump(json_data, outfile)
 
 
-def generate_editions(csv_filename, psd_filename, range=[]):
+def generate_editions(csv_filename, psd_filename, traits_list=[]):
     assert (
         len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
     ), "Invalid or no PSD file provided"
@@ -188,7 +188,7 @@ def generate_editions(csv_filename, psd_filename, range=[]):
                 header = row
                 continue
 
-            if len(range) > 0 and int(row[0]) not in range:
+            if len(traits_list) > 0 and int(row[0]) not in traits_list:
                 continue
 
             traits = {trait_name: row[i] for i, trait_name in enumerate(header)}
@@ -225,22 +225,19 @@ def main(
 
             worker_pool = []
             worker_count = multiprocessing.cpu_count()
-            span = int(total_traits / worker_count)
-            remaining = total_traits % worker_count
-            for i in range(worker_count):
-                p = multiprocessing.Process(
-                    target=generate_editions,
-                    args=(csv_filename, psd_filename),
-                    kwargs={'range': [i * span, (i + 1) * span - 1]}
-                )
-                p.start()
-                worker_pool.append(p)
 
-            if remaining > 0:
+            l = list(range(total_traits))
+            splited = [l[i::worker_count] for i in range(worker_count)]
+
+            for i in range(worker_count):
+
+                if i >= total_traits:
+                    break
+
                 p = multiprocessing.Process(
                     target=generate_editions,
                     args=(csv_filename, psd_filename),
-                    kwargs={'range': [total_traits - remaining, total_traits - 1]}
+                    kwargs={'traits_list': splited[i]}
                 )
                 p.start()
                 worker_pool.append(p)
