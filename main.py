@@ -2,6 +2,7 @@ import csv
 import json
 import time
 import typer
+import multiprocessing
 
 from random import choices
 from psd_tools import PSDImage
@@ -171,7 +172,7 @@ def generate_candy_machine_edition(psd, traits):
         json.dump(json_data, outfile)
 
 
-def generate_editions(csv_filename, psd_filename):
+def generate_editions(csv_filename, psd_filename, range=[]):
     assert (
         len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
     ), "Invalid or no PSD file provided"
@@ -187,9 +188,8 @@ def generate_editions(csv_filename, psd_filename):
                 header = row
                 continue
 
-            # For testing generation of specific editions
-            # if int(row[0]) not in [2, 3]:
-            #     continue
+            if len(range) > 0 and int(row[0]) not in range:
+                continue
 
             traits = {trait_name: row[i] for i, trait_name in enumerate(header)}
 
@@ -207,6 +207,7 @@ def main(
     nft_file: str = None,
     psd_filename: str = "base.psd",
     csv_filename: str = "traits.csv",
+    multiprocess: bool = False,
 ):
 
     nft_traits = []
@@ -217,7 +218,38 @@ def main(
         raise ValueError("NFT file not provided")
 
     if generate:
-        generate_editions(csv_filename, psd_filename)
+        if multiprocess:
+
+            with open(csv_filename) as fp:
+                total_traits = len(fp.readlines()) - 1
+
+            worker_pool = []
+            worker_count = multiprocessing.cpu_count()
+            span = int(total_traits / worker_count)
+            remaining = total_traits % worker_count
+            for i in range(worker_count):
+                p = multiprocessing.Process(
+                    target=generate_editions,
+                    args=(csv_filename, psd_filename),
+                    kwargs={'range': [i * span, (i + 1) * span - 1]}
+                )
+                p.start()
+                worker_pool.append(p)
+
+            if remaining > 0:
+                p = multiprocessing.Process(
+                    target=generate_editions,
+                    args=(csv_filename, psd_filename),
+                    kwargs={'range': [total_traits - remaining, total_traits - 1]}
+                )
+                p.start()
+                worker_pool.append(p)
+
+            for p in worker_pool:
+                p.join()
+
+        else:
+            generate_editions(csv_filename, psd_filename)
 
     else:
         with typer.progressbar(range(count)) as progress:
