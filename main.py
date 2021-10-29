@@ -139,7 +139,7 @@ def generate_candy_machine_edition(psd, traits):
             continue
 
         layer.visible = True
-        sublayer = [l for l in layer if l.name == traits[layer.name.upper()]]
+        sublayer = [l for l in layer if l.name.strip() == traits[layer.name.upper()]]
         if len(sublayer) == 1:
             sublayer[0].visible = True
 
