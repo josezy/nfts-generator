@@ -18,38 +18,44 @@ TRAITS = {
         "Old Mike": 5,
     },
     "HEAD": {
-        None: 55,
-        "Sparring Headgear": 17,
+        None: 54,
+        "Sparring Headgear": 14,
         "Snapback": 13,
-        "Announcer": 9,
+        "Announcer": 12,
         "DJ Mikey B": 6,
         "Crown": 1,
     },
     "FACE": {
-        None: 62,
-        "Bloody": 22,
-        "Red Terminator": 14,
+        None: 68,
+        "Bloody": 20,
+        "Red Terminator": 10,
         "Gold Terminator": 2,
     },
     "MOUTH": {
-        None: 68,
-        "Falling Mouthguard": 21.75,
-        "Diamond Grill": 10,
+        None: 72,
+        "Cigar": 12,
+        "Falling Mouthguard": 11,
+        "Diamond Grill": 4.75,
         "Dosbrak Bandana": 0.25,
     },
     "EYES": {
-        None: 80,
-        "Wayfarers": 20,
+        None: 62,
+        "Wayfarers": 18,
+        "Bruised Eye": 13,
+        "Laser Eyes": 7,
     },
     "ACCESSORIES": {
-        None: 20,
-        "Bloody Wraps": 22,
-        "Bloody Gloves": 20,
-        "Gold Gloves": 15,
-        "199 Belt": 13,
+        None: 15,
+        "Bare Fists": 15,
+        "Gloves": 14,
+        "Bloody Wraps": 12,
+        "Bloody Gloves": 11,
         "Microphone": 10,
-        "Knuckle Duster Spikes": 5,
-        "Diamond Gloves": 2,
+        "SOL Gloves": 8,
+        "Gold Gloves": 7,
+        "199 Belt": 4.5,
+        "Knuckle Duster Spikes": 2.5,
+        "Diamond Gloves": 1,
     },
     "CLOTHING": {
         None: 20,
@@ -73,14 +79,6 @@ TRAITS = {
         "Octagon": 4.2,
         "Count's Lair": 0.8,
     },
-}
-
-CATEGORIES = {
-    "Common": [],
-    "Uncommon": [],
-    "Rare": [],
-    "Super Rare": [],
-    "Epic": [],
 }
 
 
@@ -134,6 +132,9 @@ def read_nft_traits(file):
 def generate_candy_machine_edition(psd, traits):
     filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
+
+    # Signature
+    psd[1].visible = True
 
     for layer in psd[0]:
         if layer.name.upper() not in traits:
