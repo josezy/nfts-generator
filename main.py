@@ -248,7 +248,7 @@ def main(
                 p.join()
 
         else:
-            generate_editions(csv_filename, psd_filename, traits_list=([trait_id] if trait_id else []))
+            generate_editions(csv_filename, psd_filename, traits_list=[] if trait_id is None else [trait_id])
 
     else:
         with typer.progressbar(range(count)) as progress:
