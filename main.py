@@ -92,21 +92,14 @@ def reset_visibility(psd):
 
 def review_and_fix_special_cases(nft_traits):
 
-    # 'Microphone' trait should only show with 'Suit' trait
-    if nft_traits['ACCESSORIES'] == 'Microphone':
-        nft_traits['CLOTHING'] = 'Suit'
+    if nft_traits['CLOTHING'] == 'Butcher':
+        nft_traits['ACCESSORIES'] = None
+        nft_traits['HEAD'] = None
+        if nft_traits['MOUTH'] == 'Dosbrak Bandana':
+            nft_traits['MOUTH'] = 'Diamond Grill'
 
-    # 'Wayfarer' trait should not show with 'Sparring Headgear' trait
-    if nft_traits['HEAD'] == 'Sparring Headgear':
-        nft_traits['EYES'] = None
-
-    # 'Astronaut' should show with 'Standard' base trait only please
-    if nft_traits['CLOTHING'] == 'Astronaut':
-        nft_traits['BASE'] = 'Standard'
-
-    # 'Dosbrak Bandana' trait should not show with 'Sparring Headgear' trait
-    if nft_traits['HEAD'] == 'Sparring Headgear':
-        nft_traits['MOUTH'] = 'Diamond Grill'
+    if nft_traits['BASE'] == 'Bald' and nft_traits['CLOTHING'] == 'Astronaut':
+        nft_traits['CLOTHING'] = 'The Count'
 
     return nft_traits
 
