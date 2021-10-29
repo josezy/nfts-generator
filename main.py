@@ -4,6 +4,7 @@ import time
 import typer
 import multiprocessing
 
+from typing import Optional
 from random import choices
 from psd_tools import PSDImage
 
@@ -208,6 +209,7 @@ def main(
     psd_filename: str = "base.psd",
     csv_filename: str = "traits.csv",
     multiprocess: bool = False,
+    trait_id: Optional[int] = None,
 ):
 
     nft_traits = []
@@ -246,7 +248,7 @@ def main(
                 p.join()
 
         else:
-            generate_editions(csv_filename, psd_filename)
+            generate_editions(csv_filename, psd_filename, traits_list=([trait_id] if trait_id else []))
 
     else:
         with typer.progressbar(range(count)) as progress:
