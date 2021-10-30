@@ -1,0 +1,2001 @@
+ID,BASE,HEAD,FACE,MOUTH,EYES,ACCESSORIES,CLOTHING,BACKGROUND
+0,Young,,Sweat,,,Yellow Ball,Black Jersey,Orange
+1,Standard,Wooly Hat,,,,Confetti,Blue Jersey,Red
+2,Standard,BA Snapback,England Paint,,,Yellow Ball,Blue Jersey,Black
+3,Standard,BA Snapback,,Gold Mouthguard,Bloody Eye,Captain Armband,Suit,Team
+4,Standard,Wooly Hat,,,Wayfarers,,White Jersey,Black
+5,Old,Winner Hat,,Diamond Grill,,Pigskin Ball,Red Jersey,Green
+6,Standard,Winner Hat,,Gold Mouthguard,Wayfarers,League Trophy,White Jersey,Red
+7,Standard,,Sweat,,,Pigskin Ball,Suit,Blockasset
+8,Standard,Winner Hat,,Medal,Laser Eyes,Captain Armband,White Jersey,Green
+9,Standard,BA Snapback,England Paint,,,,Blue Jersey,Orange
+10,Standard,,,,,Captain Armband,White Jersey,Red
+11,Standard,,,Gold Mouthguard,Bloody Eye,Yellow Ball,Flag,Black
+12,Standard,,,Gold Mouthguard,,Captain Armband,Red Jersey,Green
+13,Standard,,Sweat,,Bloody Eye,League Trophy,Blue Jersey,Orange
+14,Standard,Winner Hat,,Diamond Grill,Wayfarers,,Managers Jacket,Red
+15,Standard,,England Paint,,Wayfarers,Medals,White Jersey,Red
+16,Young,,,Medal,,,White Jersey,Blue
+17,Standard,,,,Bloody Eye,Boot Award,Blue Jersey,Blue
+18,Standard,Wooly Hat,,Gold Mouthguard,,Captain Armband,White Jersey,Black
+19,Standard,BA Snapback,,Diamond Grill,,Confetti,White Jersey,Red
+20,Standard,Title Crown,Sweat,,Laser Eyes,Yellow Ball,Training Hoodie,Red
+21,Old,,,,Wayfarers,Boot Award,Red Jersey,Orange
+22,Old,,,,,Medals,Managers Jacket,Orange
+23,Standard,,,,Laser Eyes,,White Jersey,Blue
+24,Old,,,Medal,Wayfarers,Confetti,White Jersey,Green
+25,Standard,Wooly Hat,,,,Pigskin Ball,Red Jersey,Blue
+26,Standard,Wooly Hat,,,Bloody Eye,Yellow Card,Suit,Green
+27,Standard,,,,,Captain Armband,White Jersey,Red
+28,Standard,,England Paint,Gold Mouthguard,,Pigskin Ball,Managers Jacket,Black
+29,Standard,Title Crown,,Gold Mouthguard,,League Trophy,Blue Jersey,Blockasset
+30,Old,Winner Hat,Ad Beard,,Laser Eyes,Pigskin Ball,Suit,Green
+31,Standard,Winner Hat,,Gold Mouthguard,Laser Eyes,Pigskin Ball,White Jersey,Black
+32,Old,Winner Hat,,,Wayfarers,Medals,Suit,Orange
+33,Standard,,,,,Pigskin Ball,Blue Jersey,Orange
+34,Standard,Winner Hat,,Gold Mouthguard,Laser Eyes,,Training Hoodie,Black
+35,Old,,,,,Pigskin Ball,Suit,Blue
+36,Old,,,,Bloody Eye,European Trophy,White Jersey,Team
+37,Old,,,,Laser Eyes,Confetti,Red Jersey,Orange
+38,Standard,,England Paint,,Bloody Eye,Medals,White Jersey,Blue
+39,Standard,BA Snapback,,,,Yellow Card,White Jersey,Orange
+40,Standard,,,Gold Mouthguard,,Pigskin Ball,Suit,Red
+41,Old,,Sweat,,,Yellow Ball,Flag,Orange
+42,Standard,Winner Hat,England Paint,,,Confetti,Managers Jacket,Black
+43,Standard,Winner Hat,,,Bloody Eye,,Managers Jacket,Blue
+44,Standard,Wooly Hat,England Paint,,,Pigskin Ball,Red Jersey,Team
+45,Standard,,Sweat,Gold Mouthguard,Bloody Eye,Medals,Blue Jersey,Blue
+46,Standard,BA Snapback,,,,,Red Jersey,Green
+47,Standard,Winner Hat,,Diamond Grill,,Boot Award,Red Jersey,Red
+48,Standard,,,Gold Mouthguard,,,Managers Jacket,Team
+49,Standard,,Ad Beard,,,Yellow Card,White Jersey,Red
+50,Standard,,England Paint,,,Confetti,Suit,Orange
+51,Standard,BA Snapback,,,Bloody Eye,Pigskin Ball,Training Hoodie,Blue
+52,Young,BA Snapback,,Gold Mouthguard,,Yellow Ball,Blue Jersey,Green
+53,Old,Winner Hat,,,Wayfarers,Confetti,Suit,Black
+54,Standard,,,,Laser Eyes,Captain Armband,White Jersey,Orange
+55,Standard,Title Crown,England Paint,,,Pigskin Ball,Managers Jacket,Team
+56,Old,,,,,Captain Armband,Managers Jacket,Red
+57,Standard,,,,Bloody Eye,Medals,Blue Jersey,Blue
+58,Standard,,,Diamond Grill,,Medals,Black Jersey,Blockasset
+59,Standard,,Ad Beard,,,Captain Armband,White Jersey,Black
+60,Standard,Title Crown,,,Wayfarers,,White Jersey,Black
+61,Standard,,England Paint,,,,Black Jersey,Red
+62,Old,Title Crown,Sweat,,Laser Eyes,Captain Armband,White Jersey,Green
+63,Standard,,England Paint,,,Captain Armband,Black Jersey,Blue
+64,Standard,BA Snapback,,,Laser Eyes,Yellow Ball,Astronaut,Blockasset
+65,Young,BA Snapback,,,,Yellow Ball,Red Jersey Torn,Green
+66,Standard,Wooly Hat,,,Laser Eyes,Pigskin Ball,Suit,Orange
+67,Old,BA Snapback,,,,Yellow Card,Blue Jersey,Stadium
+68,Standard,Winner Hat,,,Laser Eyes,Yellow Card,Red Jersey,Red
+69,Standard,,Sweat,,Wayfarers,Pigskin Ball,White Jersey,Orange
+70,Standard,,,,Laser Eyes,Yellow Ball,Flag,Green
+71,Standard,,,,Bloody Eye,League Trophy,White Jersey,Blockasset
+72,Old,,,,Wayfarers,Captain Armband,Red Jersey,Blockasset
+73,Young,,,Gold Mouthguard,Wayfarers,European Trophy,White Jersey,Green
+74,Old,BA Snapback,,,,Yellow Ball,Black Jersey,Blue
+75,Standard,Winner Hat,England Paint,,,Yellow Card,Flag,Green
+76,Standard,Title Crown,England Paint,Gold Mouthguard,,Captain Armband,Managers Jacket,Green
+77,Standard,,Sweat,,,European Trophy,Flag,Green
+78,Standard,,,,Laser Eyes,Pigskin Ball,Training Hoodie,Team
+79,Standard,Wooly Hat,,,,,White Jersey,Blue
+80,Standard,,,Diamond Grill,,Yellow Card,White Jersey,Blue
+81,Standard,,,,,Medals,Blue Jersey,Blue
+82,Old,Winner Hat,,,,,Blue Jersey,Orange
+83,Standard,,England Paint,Medal,,Captain Armband,Suit,Orange
+84,Standard,,,Gold Mouthguard,Wayfarers,Medals,Red Jersey,Blue
+85,Old,,,Medal,,Captain Armband,Suit,Green
+86,Standard,Winner Hat,,,Wayfarers,Pigskin Ball,White Jersey,Red
+87,Old,BA Snapback,,,,Captain Armband,Flag,Black
+88,Standard,,,,,Yellow Card,Blue Jersey,Blue
+89,Standard,,,,,,White Jersey,Blue
+90,Standard,,Sweat,,Bloody Eye,Captain Armband,Training Hoodie,Green
+91,Old,,,,,,White Jersey,Black
+92,Young,,,Gold Mouthguard,Bloody Eye,Pigskin Ball,Suit,Green
+93,Standard,,Sweat,Medal,Wayfarers,European Trophy,Red Jersey,Blue
+94,Standard,Winner Hat,Sweat,,,Captain Armband,Red Jersey,Red
+95,Standard,BA Snapback,Sweat,,,Confetti,Red Jersey,Black
+96,Standard,BA Snapback,England Paint,,Wayfarers,Yellow Card,Red Jersey,Blockasset
+97,Standard,,Sweat,Dosbrak Bandana,,Medals,Red Jersey,Black
+98,Standard,Winner Hat,,Gold Mouthguard,Wayfarers,Captain Armband,Blue Jersey,Green
+99,Standard,,,,,Captain Armband,Flag,Black
+100,Standard,Title Crown,Sweat,Gold Mouthguard,,Pigskin Ball,Red Jersey,Red
+101,Old,BA Snapback,,Gold Mouthguard,,European Trophy,Training Hoodie,Red
+102,Standard,,,,Wayfarers,Yellow Ball,Red Jersey,Red
+103,Standard,BA Snapback,,,,Pigskin Ball,Managers Jacket,Blue
+104,Standard,Title Crown,,,,,Red Jersey,Green
+105,Standard,BA Snapback,,,,Yellow Ball,Red Jersey,Red
+106,Standard,,,Diamond Grill,,Medals,Flag,Red
+107,Standard,,Sweat,Medal,,Yellow Ball,White Jersey,Green
+108,Standard,Winner Hat,Sweat,,,Confetti,Red Jersey,Red
+109,Standard,,,,,Yellow Ball,Blue Jersey,Red
+110,Standard,,,,,Yellow Ball,Blue Jersey,Black
+111,Standard,,,,,Captain Armband,Blue Jersey,Black
+112,Standard,,,,,,Blue Jersey,Orange
+113,Standard,,Sweat,,Wayfarers,Confetti,White Jersey,Red
+114,Standard,BA Snapback,,,Bloody Eye,Yellow Ball,White Jersey,Blue
+115,Standard,Wooly Hat,,,,Captain Armband,Red Jersey,Black
+116,Standard,,,Dosbrak Bandana,,Boot Award,Red Jersey,Blue
+117,Standard,,Sweat,,Wayfarers,,Black Jersey,Blue
+118,Standard,,,,,,Astronaut,Black
+119,Standard,,,Gold Mouthguard,,Confetti,Black Jersey,Green
+120,Standard,,,Medal,Bloody Eye,Diamond Ball,Suit,Red
+121,Standard,BA Snapback,,,,Confetti,White Jersey,Green
+122,Standard,Title Crown,,,,Yellow Card,Suit,Blue
+123,Old,,,,,Yellow Card,Red Jersey,Red
+124,Standard,Winner Hat,,,Bloody Eye,Medals,White Jersey,Red
+125,Old,Wooly Hat,Ad Beard,,,Boot Award,Suit,Orange
+126,Old,BA Snapback,Sweat,,,Medals,White Jersey,Red
+127,Old,,,,,Captain Armband,Red Jersey,Green
+128,Standard,Winner Hat,,Diamond Grill,,European Trophy,White Jersey,Black
+129,Standard,Winner Hat,Sweat,,,European Trophy,Suit,Blockasset
+130,Standard,Title Crown,Sweat,Medal,Wayfarers,,Astronaut,Black
+131,Standard,,Sweat,Medal,,Captain Armband,Red Jersey,Orange
+132,Old,,,,,Yellow Ball,Managers Jacket,Red
+133,Old,BA Snapback,,Gold Mouthguard,,League Trophy,White Jersey,Red
+134,Standard,,,,,Yellow Ball,Blue Jersey,Orange
+135,Old,,,,,,Training Hoodie,Blue
+136,Standard,Wooly Hat,,,Laser Eyes,Medals,Black Jersey,Red
+137,Standard,,,,,Pigskin Ball,Training Hoodie,Blockasset
+138,Standard,,,,,,Red Jersey,Blockasset
+139,Standard,Winner Hat,,,Laser Eyes,Medals,White Jersey,Team
+140,Standard,Winner Hat,,,Bloody Eye,Captain Armband,Training Hoodie,Team
+141,Old,,,Gold Mouthguard,,Pigskin Ball,Blue Jersey,Team
+142,Old,BA Snapback,,,,,Suit,Blue
+143,Old,Title Crown,,,Laser Eyes,,Blue Jersey,Orange
+144,Old,Wooly Hat,,,Wayfarers,League Trophy,Flag,Blue
+145,Standard,,England Paint,,Bloody Eye,Confetti,Training Hoodie,Black
+146,Standard,Wooly Hat,,,,Yellow Ball,Blue Jersey,Blue
+147,Standard,,Sweat,,Bloody Eye,Captain Armband,Red Jersey,Red
+148,Old,Wooly Hat,,Gold Mouthguard,Wayfarers,Boot Award,Suit,Red
+149,Standard,Title Crown,Sweat,,Wayfarers,Pigskin Ball,Red Jersey,Red
+150,Standard,Title Crown,,Medal,,,Red Jersey,Blue
+151,Standard,Wooly Hat,,,,Boot Award,Flag,Orange
+152,Standard,Title Crown,England Paint,Gold Mouthguard,Wayfarers,Captain Armband,Red Jersey,Orange
+153,Standard,,England Paint,,Bloody Eye,Yellow Ball,Red Jersey Torn,Red
+154,Standard,,,,Wayfarers,Confetti,Red Jersey,Orange
+155,Young,,,Medal,Wayfarers,Pigskin Ball,Blue Jersey,Green
+156,Standard,,,Gold Mouthguard,,Pigskin Ball,Flag,Orange
+157,Old,,,Medal,,Captain Armband,Training Hoodie,Orange
+158,Standard,Winner Hat,,Diamond Grill,,Yellow Card,Astronaut,Orange
+159,Standard,Title Crown,,,Bloody Eye,,White Jersey,Red
+160,Standard,,,,,Pigskin Ball,White Jersey,Orange
+161,Young,BA Snapback,Sweat,,,Pigskin Ball,Red Jersey,Blue
+162,Standard,Winner Hat,,,,League Trophy,Black Jersey,Black
+163,Standard,,England Paint,,,European Trophy,Red Jersey,Blockasset
+164,Standard,,England Paint,,Bloody Eye,Confetti,White Jersey,Green
+165,Standard,Crown,,Gold Mouthguard,Wayfarers,Medals,Red Jersey,Red
+166,Standard,,,,,European Trophy,Black Jersey,Black
+167,Standard,Winner Hat,,Diamond Grill,Laser Eyes,League Trophy,Red Jersey,Blue
+168,Standard,,Sweat,,,Captain Armband,Black Jersey,Red
+169,Standard,,Sweat,,,Yellow Card,Training Hoodie,Red
+170,Standard,,,Gold Mouthguard,,Yellow Ball,Suit,Red
+171,Standard,,,,Bloody Eye,Captain Armband,White Jersey,Team
+172,Standard,,,,,Diamond Ball,Blue Jersey,Orange
+173,Standard,Wooly Hat,Sweat,,,Yellow Ball,White Jersey,Black
+174,Standard,,,,,Medals,Black Jersey,Black
+175,Standard,BA Snapback,,Diamond Grill,,Medals,Blue Jersey,Black
+176,Standard,Title Crown,,,,Yellow Ball,Suit,Green
+177,Old,,Sweat,,,Yellow Ball,Suit,Green
+178,Standard,,Ad Beard,,Wayfarers,Yellow Ball,Training Hoodie,Black
+179,Standard,,,Medal,,European Trophy,Flag,Red
+180,Old,Winner Hat,,,Wayfarers,Pigskin Ball,Blue Jersey,Green
+181,Standard,,,,Wayfarers,Medals,Red Jersey,Black
+182,Standard,Winner Hat,,Medal,,Yellow Ball,Red Jersey,Black
+183,Standard,Title Crown,England Paint,,Wayfarers,Pigskin Ball,Blue Jersey,Red
+184,Standard,Wooly Hat,Sweat,Gold Mouthguard,,Captain Armband,Red Jersey,Red
+185,Standard,,,Gold Mouthguard,,,Suit,Red
+186,Old,Winner Hat,,,,Pigskin Ball,Black Jersey,Black
+187,Young,Winner Hat,,,Wayfarers,Confetti,White Jersey,Blue
+188,Standard,,,,,Pigskin Ball,Blue Jersey,Red
+189,Standard,Wooly Hat,,,,Captain Armband,Flag,Blue
+190,Standard,,,Medal,,Pigskin Ball,Blue Jersey,Green
+191,Standard,,Sweat,,,Medals,Red Jersey,Blue
+192,Standard,BA Snapback,,,,Yellow Ball,White Jersey,Black
+193,Old,Wooly Hat,,Gold Mouthguard,,Medals,Blue Jersey,Red
+194,Standard,BA Snapback,,,Laser Eyes,Captain Armband,White Jersey,Blockasset
+195,Old,BA Snapback,,,,,White Jersey,Orange
+196,Standard,,,,Wayfarers,Pigskin Ball,Blue Jersey,Red
+197,Standard,Wooly Hat,Sweat,,Wayfarers,Confetti,Blue Jersey,Green
+198,Standard,Wooly Hat,,,,Yellow Card,Training Hoodie,Red
+199,Standard,,Sweat,Medal,,Captain Armband,White Jersey,Red
+200,Standard,,Sweat,,,Captain Armband,Red Jersey,Black
+201,Old,,Sweat,,,Captain Armband,Flag,Blue
+202,Standard,Winner Hat,,,,Medals,White Jersey,Black
+203,Old,BA Snapback,,Medal,,Yellow Ball,White Jersey,Orange
+204,Old,Wooly Hat,,,Wayfarers,Yellow Ball,White Jersey,Red
+205,Standard,Wooly Hat,,Medal,,Medals,Blue Jersey,Green
+206,Standard,,England Paint,Diamond Grill,,Yellow Ball,Black Jersey,Green
+207,Standard,,,,Wayfarers,,Red Jersey,Blue
+208,Standard,Wooly Hat,England Paint,,,Captain Armband,Suit,Green
+209,Standard,Winner Hat,,Medal,Wayfarers,League Trophy,Training Hoodie,Green
+210,Standard,,,,Laser Eyes,,Blue Jersey,Green
+211,Standard,,,Medal,Bloody Eye,Medals,Flag,Red
+212,Old,,,,,Confetti,Managers Jacket,Black
+213,Young,,,,Bloody Eye,,Blue Jersey,Blue
+214,Old,,Sweat,,,Yellow Ball,Black Jersey,Green
+215,Standard,BA Snapback,,Gold Mouthguard,Bloody Eye,Yellow Ball,White Jersey,Orange
+216,Standard,BA Snapback,,,,Yellow Ball,Blue Jersey,Blue
+217,Standard,Winner Hat,,Gold Mouthguard,,Yellow Card,Blue Jersey,Black
+218,Old,BA Snapback,Sweat,,,Yellow Card,Training Hoodie,Black
+219,Old,,Sweat,Gold Mouthguard,Bloody Eye,,Blue Jersey,Black
+220,Standard,,,,,,Red Jersey,Blue
+221,Young,,,,Wayfarers,Yellow Card,Managers Jacket,Blue
+222,Standard,BA Snapback,England Paint,,Bloody Eye,Yellow Card,Red Jersey,Red
+223,Standard,,Sweat,,,Confetti,Suit,Red
+224,Standard,,,,,League Trophy,Suit,Blue
+225,Standard,,Sweat,,,Yellow Ball,Suit,Red
+226,Standard,Wooly Hat,,,,Yellow Card,White Jersey,Green
+227,Standard,,,,,Captain Armband,Red Jersey Torn,Black
+228,Standard,,,,Bloody Eye,Confetti,Red Jersey,Green
+229,Standard,BA Snapback,,,Wayfarers,League Trophy,White Jersey,Orange
+230,Old,Title Crown,,,Laser Eyes,Medals,Suit,Red
+231,Standard,BA Snapback,,Diamond Grill,,Pigskin Ball,Blue Jersey,Red
+232,Standard,,,Medal,Wayfarers,,Red Jersey,Blockasset
+233,Standard,,England Paint,,,Yellow Card,Suit,Red
+234,Standard,BA Snapback,England Paint,,,Boot Award,Red Jersey,Orange
+235,Old,BA Snapback,,Gold Mouthguard,,Yellow Ball,Red Jersey,Blue
+236,Standard,BA Snapback,,Medal,Wayfarers,Yellow Card,Suit,Green
+237,Standard,,,,,Yellow Ball,White Jersey,Green
+238,Old,,,,Laser Eyes,Pigskin Ball,White Jersey,Green
+239,Standard,,,,,Yellow Card,Managers Jacket,Black
+240,Standard,,England Paint,,,,Blue Jersey,Green
+241,Old,Winner Hat,Sweat,Gold Mouthguard,Wayfarers,Confetti,Training Hoodie,Blue
+242,Standard,,,Gold Mouthguard,,Yellow Ball,Black Jersey,Orange
+243,Standard,,Sweat,,Bloody Eye,Medals,White Jersey,Team
+244,Standard,Winner Hat,Sweat,,,Captain Armband,Flag,Green
+245,Standard,,England Paint,,,Captain Armband,Training Hoodie,Orange
+246,Old,Crown,Sweat,Gold Mouthguard,Bloody Eye,League Trophy,Training Hoodie,Black
+247,Young,Winner Hat,,Medal,,Pigskin Ball,Black Jersey,Blue
+248,Standard,,Sweat,,Bloody Eye,,Blue Jersey,Black
+249,Standard,Title Crown,Sweat,,Wayfarers,Confetti,Blue Jersey,Red
+250,Standard,BA Snapback,Sweat,,Laser Eyes,Captain Armband,White Jersey,Green
+251,Standard,Winner Hat,,Medal,Bloody Eye,Captain Armband,White Jersey,Red
+252,Standard,,,,,,Red Jersey,Black
+253,Old,Wooly Hat,,,,Pigskin Ball,Suit,Red
+254,Standard,Title Crown,,,Wayfarers,Captain Armband,Black Jersey,Green
+255,Standard,BA Snapback,,Medal,,Captain Armband,Suit,Blue
+256,Old,Winner Hat,,,,Confetti,Blue Jersey,Blue
+257,Old,,,,,Medals,Managers Jacket,Black
+258,Old,Winner Hat,,Diamond Grill,,European Trophy,Suit,Orange
+259,Standard,Winner Hat,,Diamond Grill,Laser Eyes,Yellow Ball,Blue Jersey,Black
+260,Standard,,Sweat,,Bloody Eye,Yellow Ball,Red Jersey Torn,Black
+261,Standard,,,Gold Mouthguard,Wayfarers,Medals,Red Jersey,Red
+262,Standard,Wooly Hat,,,,Pigskin Ball,Red Jersey,Black
+263,Standard,,,,,Yellow Card,White Jersey,Orange
+264,Standard,Wooly Hat,,,Wayfarers,Captain Armband,Black Jersey,Red
+265,Standard,,England Paint,,Wayfarers,,Red Jersey Torn,Blue
+266,Standard,Wooly Hat,,,Bloody Eye,Captain Armband,Black Jersey,Black
+267,Standard,,,,,Captain Armband,Suit,Orange
+268,Standard,BA Snapback,,Diamond Grill,Wayfarers,Yellow Card,Blue Jersey,Black
+269,Standard,,Sweat,,,Captain Armband,White Jersey,Blue
+270,Standard,,,,,Pigskin Ball,Managers Jacket,Orange
+271,Standard,BA Snapback,,,Bloody Eye,Yellow Ball,Black Jersey,Black
+272,Old,Winner Hat,,,,,Suit,Red
+273,Standard,,,Medal,Wayfarers,Captain Armband,Red Jersey,Orange
+274,Standard,Winner Hat,,,Wayfarers,Captain Armband,Red Jersey Torn,Orange
+275,Old,BA Snapback,,,,Yellow Ball,Blue Jersey,Black
+276,Standard,Crown,,,,Yellow Ball,Suit,Red
+277,Standard,Title Crown,Ad Beard,Diamond Grill,Wayfarers,Yellow Ball,Blue Jersey,Green
+278,Standard,,,,,League Trophy,White Jersey,Orange
+279,Standard,,,,,Yellow Ball,Red Jersey Torn,Red
+280,Standard,,England Paint,Medal,,,Red Jersey,Orange
+281,Standard,Winner Hat,,,Bloody Eye,,White Jersey,Blockasset
+282,Standard,BA Snapback,,Diamond Grill,,Confetti,Black Jersey,Green
+283,Old,,,Gold Mouthguard,,League Trophy,Blue Jersey,Green
+284,Standard,,,Medal,Wayfarers,Confetti,White Jersey,Red
+285,Standard,,,,Laser Eyes,Medals,Flag,Red
+286,Old,,,,Bloody Eye,Yellow Ball,Red Jersey,Orange
+287,Standard,,,,,Boot Award,Red Jersey,Green
+288,Standard,,,,Bloody Eye,Pigskin Ball,Black Jersey,Blue
+289,Standard,Wooly Hat,,Diamond Grill,Bloody Eye,,White Jersey,Orange
+290,Standard,,,,,Pigskin Ball,Training Hoodie,Black
+291,Standard,Title Crown,,,Wayfarers,Captain Armband,White Jersey,Green
+292,Standard,,,,,Pigskin Ball,Red Jersey,Red
+293,Standard,Title Crown,,Gold Mouthguard,,Pigskin Ball,Red Jersey,Blockasset
+294,Standard,,Sweat,Gold Mouthguard,Laser Eyes,Medals,Red Jersey,Black
+295,Standard,,,,Bloody Eye,Captain Armband,Black Jersey,Red
+296,Standard,,,,,,Blue Jersey,Orange
+297,Standard,,,Gold Mouthguard,,Captain Armband,White Jersey,Black
+298,Old,,,,,,Suit,Orange
+299,Standard,,,Gold Mouthguard,,Yellow Ball,White Jersey,Green
+300,Standard,BA Snapback,,,,Captain Armband,White Jersey,Red
+301,Standard,,,,,Medals,Blue Jersey,Blue
+302,Standard,Title Crown,,Gold Mouthguard,,Captain Armband,Suit,Green
+303,Standard,Title Crown,,,Wayfarers,Confetti,Training Hoodie,Green
+304,Standard,Wooly Hat,,,,,White Jersey,Green
+305,Standard,Winner Hat,,,Laser Eyes,Captain Armband,Red Jersey,Blue
+306,Standard,Winner Hat,Sweat,,,Yellow Card,White Jersey,Blue
+307,Standard,Title Crown,,,,Captain Armband,Training Hoodie,Orange
+308,Standard,,,,,Boot Award,Suit,Blue
+309,Old,,,,,Captain Armband,Managers Jacket,Black
+310,Standard,,England Paint,,,,Training Hoodie,Black
+311,Old,,,Medal,Bloody Eye,Yellow Card,Blue Jersey,Green
+312,Standard,,,,Wayfarers,Captain Armband,Training Hoodie,Black
+313,Standard,,,,,Yellow Card,Blue Jersey,Orange
+314,Standard,Winner Hat,,Medal,,Captain Armband,Blue Jersey,Green
+315,Young,Winner Hat,,Gold Mouthguard,,Yellow Ball,Red Jersey,Team
+316,Standard,,,,Bloody Eye,Medals,White Jersey,Black
+317,Standard,,Sweat,,,Captain Armband,Suit,Black
+318,Standard,,,,,Yellow Card,Managers Jacket,Blue
+319,Standard,,,,Laser Eyes,League Trophy,White Jersey,Green
+320,Standard,BA Snapback,,Gold Mouthguard,Bloody Eye,Confetti,White Jersey,Team
+321,Old,Wooly Hat,,,,Pigskin Ball,Training Hoodie,Orange
+322,Standard,,,Gold Mouthguard,,Captain Armband,Black Jersey,Blue
+323,Standard,,,Diamond Grill,,Medals,Blue Jersey,Green
+324,Standard,,,,,Yellow Ball,Suit,Blockasset
+325,Standard,BA Snapback,,,,European Trophy,Managers Jacket,Blue
+326,Standard,,,,Wayfarers,Medals,Suit,Green
+327,Standard,,,,,,Suit,Blue
+328,Standard,,England Paint,Gold Mouthguard,,League Trophy,Red Jersey,Green
+329,Standard,Title Crown,,,,,Training Hoodie,Team
+330,Old,Title Crown,Sweat,,,Confetti,Training Hoodie,Black
+331,Standard,,,,,,Blue Jersey,Black
+332,Old,Winner Hat,Sweat,,Bloody Eye,,Managers Jacket,Black
+333,Standard,Wooly Hat,,,,Yellow Ball,Suit,Orange
+334,Young,,,,Bloody Eye,,Red Jersey,Orange
+335,Standard,BA Snapback,Ad Beard,,Wayfarers,,Black Jersey,Green
+336,Standard,BA Snapback,England Paint,Diamond Grill,Laser Eyes,Yellow Ball,Black Jersey,Green
+337,Standard,,Sweat,,,Boot Award,Red Jersey Torn,Black
+338,Standard,Title Crown,Sweat,,,Yellow Ball,White Jersey,Black
+339,Standard,,,,,Yellow Card,White Jersey,Orange
+340,Standard,,,,,Yellow Card,Red Jersey,Team
+341,Standard,,,Medal,Bloody Eye,League Trophy,Blue Jersey,Black
+342,Standard,,,Medal,Wayfarers,Confetti,Suit,Blockasset
+343,Standard,Winner Hat,Sweat,Medal,,Confetti,Red Jersey,Red
+344,Standard,,Sweat,,Wayfarers,Medals,Red Jersey,Green
+345,Standard,Title Crown,England Paint,Medal,,Yellow Card,Black Jersey,Black
+346,Standard,Winner Hat,,,Laser Eyes,Pigskin Ball,Red Jersey,Red
+347,Standard,,,,Wayfarers,Captain Armband,Blue Jersey,Blue
+348,Standard,,,,,Captain Armband,Suit,Red
+349,Standard,Winner Hat,,,Laser Eyes,Yellow Ball,Suit,Red
+350,Standard,Winner Hat,,,Laser Eyes,European Trophy,Flag,Orange
+351,Old,,,,Laser Eyes,Captain Armband,White Jersey,Green
+352,Standard,,Sweat,Medal,,,Suit,Red
+353,Standard,,England Paint,,Bloody Eye,Yellow Ball,White Jersey,Green
+354,Standard,,Sweat,,Bloody Eye,Yellow Ball,Flag,Green
+355,Standard,,,Medal,Bloody Eye,,Blue Jersey,Red
+356,Standard,,,,Wayfarers,Medals,Black Jersey,Green
+357,Standard,,Sweat,Medal,,Yellow Ball,Astronaut,Green
+358,Standard,Wooly Hat,,,,Confetti,White Jersey,Black
+359,Standard,Wooly Hat,,Medal,,League Trophy,Blue Jersey,Green
+360,Standard,,,Medal,,Yellow Card,Red Jersey,Green
+361,Standard,Wooly Hat,,,,Pigskin Ball,Black Jersey,Blue
+362,Standard,,,,,Medals,White Jersey,Red
+363,Standard,,,,Laser Eyes,,Red Jersey,Orange
+364,Standard,,,,,Medals,Suit,Black
+365,Standard,,,,,Yellow Card,Blue Jersey,Black
+366,Standard,,,,,Captain Armband,Red Jersey,Red
+367,Standard,Winner Hat,,,Bloody Eye,European Trophy,White Jersey,Green
+368,Young,,Sweat,,,Boot Award,Training Hoodie,Green
+369,Standard,Title Crown,,,,Medals,White Jersey,Orange
+370,Old,BA Snapback,,,Bloody Eye,,White Jersey,Green
+371,Standard,Winner Hat,,,,Confetti,White Jersey,Blockasset
+372,Standard,,Sweat,Gold Mouthguard,Wayfarers,,Blue Jersey,Black
+373,Standard,,,,,Medals,Blue Jersey,Black
+374,Standard,,England Paint,,,Captain Armband,White Jersey,Black
+375,Standard,Winner Hat,,,,European Trophy,Suit,Orange
+376,Standard,BA Snapback,,,Laser Eyes,Medals,Flag,Green
+377,Standard,BA Snapback,England Paint,,,Confetti,Red Jersey,Team
+378,Standard,,Ad Beard,,,Confetti,Managers Jacket,Team
+379,Standard,Title Crown,,,,Medals,Training Hoodie,Blue
+380,Standard,Wooly Hat,,,,Confetti,Black Jersey,Green
+381,Old,,,Medal,Wayfarers,Captain Armband,Suit,Green
+382,Standard,Winner Hat,,Medal,,Yellow Ball,Training Hoodie,Blue
+383,Standard,BA Snapback,,,,Pigskin Ball,Training Hoodie,Blue
+384,Standard,,,,Bloody Eye,League Trophy,White Jersey,Green
+385,Standard,,England Paint,,,Confetti,Suit,Blue
+386,Standard,,England Paint,,,Yellow Ball,Red Jersey,Red
+387,Young,,,,,Medals,Red Jersey,Team
+388,Standard,,,,,League Trophy,Black Jersey,Green
+389,Standard,Crown,,Medal,Laser Eyes,Medals,Black Jersey,Black
+390,Standard,Title Crown,Sweat,,Laser Eyes,Pigskin Ball,Red Jersey,Blue
+391,Standard,Title Crown,Sweat,,,,Suit,Black
+392,Standard,,,,,Yellow Ball,Red Jersey,Orange
+393,Old,,Sweat,,,Yellow Ball,Black Jersey,Team
+394,Standard,,Sweat,,,Medals,Blue Jersey,Blockasset
+395,Standard,,,,,Medals,Black Jersey,Black
+396,Standard,,,Gold Mouthguard,,,White Jersey,Red
+397,Standard,,Sweat,Medal,Wayfarers,,Blue Jersey,Red
+398,Standard,,,Medal,,Yellow Card,Blue Jersey,Orange
+399,Standard,Title Crown,,Diamond Grill,Bloody Eye,European Trophy,White Jersey,Red
+400,Standard,,,,Wayfarers,,Blue Jersey,Orange
+401,Old,,,,Bloody Eye,,Black Jersey,Red
+402,Standard,Wooly Hat,,,,Yellow Ball,Black Jersey,Team
+403,Young,,,Gold Mouthguard,,Yellow Card,Managers Jacket,Orange
+404,Standard,,England Paint,,,Yellow Ball,White Jersey,Green
+405,Standard,BA Snapback,,,Wayfarers,Pigskin Ball,Black Jersey,Green
+406,Standard,,,,,,Red Jersey,Green
+407,Standard,BA Snapback,,,,,Training Hoodie,Green
+408,Standard,,,,,,Blue Jersey,Green
+409,Standard,,,Gold Mouthguard,Laser Eyes,Pigskin Ball,White Jersey,Team
+410,Standard,Wooly Hat,,,,Captain Armband,Black Jersey,Black
+411,Standard,Winner Hat,,Diamond Grill,Wayfarers,Medals,Red Jersey,Blue
+412,Standard,Winner Hat,,,,Confetti,Managers Jacket,Orange
+413,Standard,Title Crown,,,,Yellow Ball,Red Jersey,Blue
+414,Old,BA Snapback,,,,Pigskin Ball,Blue Jersey,Black
+415,Standard,Wooly Hat,,,Bloody Eye,,Black Jersey,Black
+416,Standard,BA Snapback,,,,Pigskin Ball,Training Hoodie,Red
+417,Standard,,,,Bloody Eye,Medals,White Jersey,Blue
+418,Standard,,,,Laser Eyes,European Trophy,Training Hoodie,Black
+419,Old,BA Snapback,,,Bloody Eye,Medals,Black Jersey,Orange
+420,Old,BA Snapback,,,,Medals,Suit,Orange
+421,Old,,Sweat,,Bloody Eye,Yellow Ball,Blue Jersey,Black
+422,Standard,,Ad Beard,Gold Mouthguard,Wayfarers,Confetti,Suit,Red
+423,Standard,,Sweat,,,Medals,Red Jersey,Blockasset
+424,Standard,,,,,League Trophy,White Jersey,Orange
+425,Old,,,,,Confetti,Red Jersey,Red
+426,Standard,Wooly Hat,,Gold Mouthguard,,Boot Award,Blue Jersey,Red
+427,Standard,,England Paint,,Wayfarers,Yellow Ball,White Jersey,Black
+428,Standard,,,Gold Mouthguard,,Pigskin Ball,White Jersey,Blue
+429,Standard,,,,Wayfarers,Pigskin Ball,Black Jersey,Green
+430,Standard,Title Crown,,,,Captain Armband,Managers Jacket,Green
+431,Standard,Winner Hat,,,Wayfarers,Captain Armband,Black Jersey,Green
+432,Standard,,,Gold Mouthguard,,Captain Armband,Flag,Black
+433,Standard,,,,Bloody Eye,Captain Armband,White Jersey,Red
+434,Standard,,,,,Yellow Card,White Jersey,Orange
+435,Standard,Wooly Hat,,,,Confetti,Red Jersey,Green
+436,Standard,,Sweat,,,Yellow Ball,Blue Jersey,Blue
+437,Standard,,,,Laser Eyes,League Trophy,Training Hoodie,Red
+438,Standard,,Sweat,,,Captain Armband,Blue Jersey,Black
+439,Standard,,,,,Confetti,Blue Jersey,Black
+440,Standard,Crown,,Gold Mouthguard,,,Red Jersey,Blue
+441,Standard,Wooly Hat,,Gold Mouthguard,Bloody Eye,Medals,Suit,Red
+442,Standard,Winner Hat,,,,Yellow Card,Red Jersey,Orange
+443,Standard,Title Crown,Sweat,,,,Red Jersey,Black
+444,Young,Wooly Hat,,,,Yellow Card,Red Jersey,Black
+445,Standard,Title Crown,,,,European Trophy,White Jersey,Black
+446,Standard,BA Snapback,Sweat,,,,Blue Jersey,Green
+447,Young,,England Paint,,,Captain Armband,White Jersey,Green
+448,Young,Winner Hat,England Paint,Gold Mouthguard,,Captain Armband,Training Hoodie,Red
+449,Standard,,Sweat,,,Yellow Card,White Jersey,Red
+450,Standard,,England Paint,,Wayfarers,Captain Armband,Suit,Black
+451,Standard,Winner Hat,Sweat,,,Yellow Ball,Training Hoodie,Black
+452,Standard,,,,Bloody Eye,European Trophy,Red Jersey,Black
+453,Standard,Wooly Hat,Sweat,,Bloody Eye,Captain Armband,Managers Jacket,Blue
+454,Standard,,,,Bloody Eye,Confetti,Red Jersey,Black
+455,Standard,Winner Hat,,Gold Mouthguard,,Yellow Ball,Black Jersey,Blue
+456,Standard,BA Snapback,Sweat,,,,Suit,Black
+457,Standard,BA Snapback,Sweat,Medal,Bloody Eye,Yellow Card,White Jersey,Black
+458,Standard,,,,,Yellow Ball,Black Jersey,Blue
+459,Standard,,,,Bloody Eye,Yellow Ball,Training Hoodie,Black
+460,Standard,,Sweat,,,Yellow Card,Blue Jersey,Team
+461,Old,Title Crown,,,Wayfarers,Pigskin Ball,Suit,Red
+462,Old,,Sweat,Diamond Grill,Bloody Eye,Medals,Red Jersey,Red
+463,Standard,Winner Hat,Sweat,,,Yellow Ball,Suit,Blue
+464,Old,,Sweat,Medal,,,Managers Jacket,Red
+465,Standard,Wooly Hat,,Medal,,League Trophy,Black Jersey,Black
+466,Standard,BA Snapback,,,,Yellow Ball,Flag,Black
+467,Standard,,,,,Yellow Ball,White Jersey,Green
+468,Standard,Title Crown,,,Bloody Eye,Confetti,White Jersey,Blue
+469,Standard,BA Snapback,Sweat,,Wayfarers,Pigskin Ball,Training Hoodie,Blockasset
+470,Old,BA Snapback,,,,Boot Award,Red Jersey,Team
+471,Standard,,England Paint,,Bloody Eye,League Trophy,Blue Jersey,Red
+472,Old,,,,Bloody Eye,League Trophy,Flag,Red
+473,Old,BA Snapback,Sweat,,,Medals,Managers Jacket,Green
+474,Standard,Winner Hat,England Paint,Gold Mouthguard,,,Flag,Red
+475,Standard,BA Snapback,,,,Medals,White Jersey,Red
+476,Standard,BA Snapback,,Medal,,Pigskin Ball,Astronaut,Black
+477,Standard,Wooly Hat,,,,Yellow Ball,Flag,Red
+478,Standard,Winner Hat,,Medal,,,Training Hoodie,Blue
+479,Standard,,,,,Yellow Ball,Blue Jersey,Black
+480,Standard,,Ad Beard,Diamond Grill,,Captain Armband,White Jersey,Orange
+481,Standard,Winner Hat,England Paint,,,Confetti,Red Jersey,Orange
+482,Standard,,,,,League Trophy,Black Jersey,Blue
+483,Old,,,,,Pigskin Ball,White Jersey,Red
+484,Standard,,,,,Pigskin Ball,Red Jersey,Orange
+485,Standard,,,Medal,Bloody Eye,Captain Armband,White Jersey,Blue
+486,Standard,,,Gold Mouthguard,Wayfarers,Medals,Black Jersey,Blue
+487,Standard,,,,,Yellow Ball,Training Hoodie,Green
+488,Standard,,,,Wayfarers,European Trophy,Suit,Green
+489,Old,,,Medal,,Yellow Ball,Blue Jersey,Green
+490,Old,Winner Hat,Sweat,,,,White Jersey,Black
+491,Standard,BA Snapback,,,,European Trophy,Suit,Red
+492,Standard,,,,,,Managers Jacket,Blue
+493,Standard,,,Medal,,League Trophy,Suit,Blue
+494,Old,Title Crown,Sweat,,,,Training Hoodie,Green
+495,Standard,,,,,Confetti,Training Hoodie,Orange
+496,Standard,Winner Hat,,,Bloody Eye,Pigskin Ball,Black Jersey,Black
+497,Standard,BA Snapback,Sweat,Gold Mouthguard,,Medals,Red Jersey,Blue
+498,Standard,,,Diamond Grill,,Pigskin Ball,Blue Jersey,Blue
+499,Standard,,,,,Yellow Ball,Black Jersey,Blue
+500,Standard,BA Snapback,Sweat,,,,Red Jersey,Black
+501,Standard,Wooly Hat,,,,Captain Armband,Red Jersey,Black
+502,Standard,BA Snapback,Sweat,,,Yellow Ball,Managers Jacket,Red
+503,Standard,,,,Wayfarers,Yellow Ball,Suit,Black
+504,Standard,,,,,Yellow Ball,Blue Jersey,Blockasset
+505,Standard,BA Snapback,,,Wayfarers,Yellow Ball,Training Hoodie,Green
+506,Standard,,,,,Boot Award,White Jersey,Orange
+507,Standard,,,,Bloody Eye,,Blue Jersey,Black
+508,Standard,BA Snapback,,,,Pigskin Ball,White Jersey,Blue
+509,Standard,,,Gold Mouthguard,Laser Eyes,Confetti,Blue Jersey,Red
+510,Standard,Wooly Hat,,Gold Mouthguard,,European Trophy,Blue Jersey,Blockasset
+511,Standard,Winner Hat,,Medal,Bloody Eye,European Trophy,Suit,Blockasset
+512,Young,BA Snapback,,,,Confetti,Suit,Green
+513,Old,,,,,Captain Armband,White Jersey,Red
+514,Standard,Title Crown,,Gold Mouthguard,,,White Jersey,Blue
+515,Standard,,,Gold Mouthguard,,European Trophy,Suit,Green
+516,Standard,,England Paint,,,Confetti,White Jersey,Orange
+517,Standard,,,,Wayfarers,Captain Armband,Blue Jersey,Black
+518,Old,Winner Hat,,Medal,,Yellow Ball,Suit,Blockasset
+519,Old,,,,Wayfarers,League Trophy,Flag,Green
+520,Standard,,Ad Beard,,Bloody Eye,Yellow Ball,Black Jersey,Blue
+521,Standard,,,,,Captain Armband,Red Jersey Torn,Blue
+522,Standard,Title Crown,Ad Beard,,,,Blue Jersey,Blue
+523,Standard,Winner Hat,,,,Medals,Training Hoodie,Black
+524,Standard,,,,Laser Eyes,,Blue Jersey,Green
+525,Standard,,Sweat,,,Pigskin Ball,Red Jersey,Green
+526,Standard,Crown,Sweat,Diamond Grill,,Pigskin Ball,Suit,Green
+527,Standard,,England Paint,,Wayfarers,Yellow Ball,Training Hoodie,Green
+528,Standard,Wooly Hat,,,,Yellow Card,Blue Jersey,Black
+529,Standard,,,,Wayfarers,,Suit,Blue
+530,Old,Crown,,,,Captain Armband,Blue Jersey,Green
+531,Old,,,,,Captain Armband,Red Jersey,Orange
+532,Standard,Winner Hat,,Gold Mouthguard,,Yellow Ball,White Jersey,Red
+533,Standard,,,,,Captain Armband,Training Hoodie,Green
+534,Standard,Wooly Hat,Sweat,Gold Mouthguard,,Yellow Ball,Black Jersey,Green
+535,Standard,Winner Hat,,,,Captain Armband,Black Jersey,Red
+536,Standard,,,Gold Mouthguard,,Yellow Card,Red Jersey,Blue
+537,Standard,,Sweat,,,Confetti,Training Hoodie,Blue
+538,Standard,,,,Wayfarers,Pigskin Ball,Red Jersey,Orange
+539,Standard,Wooly Hat,,,,Yellow Ball,Black Jersey,Black
+540,Old,Wooly Hat,,,Wayfarers,European Trophy,Training Hoodie,Black
+541,Standard,Wooly Hat,,Gold Mouthguard,Laser Eyes,,Red Jersey,Green
+542,Old,,,Medal,Bloody Eye,European Trophy,Suit,Green
+543,Standard,BA Snapback,,Medal,Wayfarers,Pigskin Ball,White Jersey,Team
+544,Standard,Wooly Hat,England Paint,,,,Flag,Green
+545,Young,BA Snapback,,,Wayfarers,Pigskin Ball,Black Jersey,Green
+546,Standard,,,,,Captain Armband,Training Hoodie,Red
+547,Standard,,,,Bloody Eye,Medals,Suit,Green
+548,Old,Winner Hat,,,,Yellow Ball,Red Jersey,Orange
+549,Standard,,,,,Medals,Training Hoodie,Black
+550,Standard,,,,,Pigskin Ball,Flag,Green
+551,Standard,BA Snapback,,Medal,,League Trophy,Red Jersey,Black
+552,Standard,,,Medal,,Yellow Ball,Training Hoodie,Red
+553,Standard,Wooly Hat,Sweat,Medal,,Yellow Ball,Blue Jersey,Red
+554,Old,Winner Hat,Sweat,,,,Blue Jersey,Blue
+555,Old,,,,,Medals,Suit,Red
+556,Standard,,,,Bloody Eye,Yellow Card,Suit,Black
+557,Standard,BA Snapback,,Medal,Wayfarers,European Trophy,Red Jersey,Black
+558,Standard,,,,,,Suit,Black
+559,Standard,,,,,Medals,Blue Jersey,Orange
+560,Standard,,,,,League Trophy,Black Jersey,Blockasset
+561,Standard,,,,,Diamond Ball,Training Hoodie,Red
+562,Standard,BA Snapback,,,,Yellow Ball,Red Jersey,Orange
+563,Standard,,,,Bloody Eye,Yellow Card,Managers Jacket,Blue
+564,Standard,,,,,Yellow Ball,Red Jersey,Team
+565,Standard,BA Snapback,,,Laser Eyes,League Trophy,Blue Jersey,Orange
+566,Standard,Winner Hat,Sweat,,,European Trophy,White Jersey,Red
+567,Standard,Winner Hat,England Paint,,Wayfarers,Captain Armband,White Jersey,Blue
+568,Standard,,Sweat,,,Yellow Card,Red Jersey,Green
+569,Standard,,,,,Yellow Card,Training Hoodie,Red
+570,Standard,Wooly Hat,,,,Yellow Card,Training Hoodie,Blockasset
+571,Old,,,,,Pigskin Ball,Flag,Blue
+572,Standard,,,,,Pigskin Ball,Red Jersey,Blue
+573,Old,,,,Wayfarers,League Trophy,Blue Jersey,Green
+574,Standard,Title Crown,,,,Captain Armband,Flag,Blue
+575,Standard,,,,,Boot Award,Flag,Black
+576,Standard,Winner Hat,,,,Yellow Ball,Training Hoodie,Green
+577,Standard,Wooly Hat,,,,Yellow Ball,Blue Jersey,Orange
+578,Old,,,Medal,,Medals,Training Hoodie,Red
+579,Standard,BA Snapback,,Gold Mouthguard,,Diamond Ball,Red Jersey,Blue
+580,Old,,,,,Captain Armband,Blue Jersey,Stadium
+581,Old,,,,,Yellow Ball,Red Jersey,Orange
+582,Old,,Sweat,Medal,,League Trophy,Blue Jersey,Black
+583,Old,,,,,Yellow Card,Flag,Green
+584,Standard,Title Crown,,,Wayfarers,Yellow Ball,Blue Jersey,Red
+585,Standard,,,Medal,,Medals,Blue Jersey,Orange
+586,Standard,Wooly Hat,,,,,Astronaut,Black
+587,Standard,,,,,Confetti,Suit,Green
+588,Standard,Winner Hat,,,,Boot Award,Black Jersey,Blockasset
+589,Standard,Title Crown,Sweat,,,Captain Armband,Red Jersey,Blockasset
+590,Standard,BA Snapback,Sweat,,,Yellow Card,White Jersey,Blue
+591,Standard,Winner Hat,Ad Beard,,,Captain Armband,White Jersey,Red
+592,Standard,Wooly Hat,,,Laser Eyes,Yellow Ball,White Jersey,Black
+593,Standard,,,,,Captain Armband,Blue Jersey,Red
+594,Old,,,Medal,Laser Eyes,Captain Armband,Suit,Blue
+595,Standard,,,Gold Mouthguard,Bloody Eye,Yellow Ball,Red Jersey,Black
+596,Standard,,,,,Pigskin Ball,Managers Jacket,Green
+597,Young,,,Diamond Grill,Bloody Eye,Captain Armband,White Jersey,Black
+598,Standard,,,,,Yellow Ball,White Jersey,Green
+599,Young,,,,,Yellow Ball,Flag,Black
+600,Standard,,,,,Boot Award,Red Jersey,Green
+601,Standard,BA Snapback,,,Wayfarers,European Trophy,Managers Jacket,Green
+602,Old,,,,,,White Jersey,Red
+603,Standard,BA Snapback,,Gold Mouthguard,,League Trophy,Black Jersey,Green
+604,Standard,Winner Hat,,,Laser Eyes,Captain Armband,Training Hoodie,Orange
+605,Standard,Wooly Hat,,Diamond Grill,,Pigskin Ball,Black Jersey,Orange
+606,Young,BA Snapback,,Gold Mouthguard,,,Blue Jersey,Red
+607,Standard,,,Medal,,Pigskin Ball,Blue Jersey,Green
+608,Old,Wooly Hat,,Medal,,League Trophy,Red Jersey,Green
+609,Standard,,,,,Confetti,Suit,Red
+610,Standard,,,,,Medals,Red Jersey,Green
+611,Standard,Winner Hat,England Paint,,,Captain Armband,Blue Jersey,Black
+612,Standard,,,,,Pigskin Ball,Red Jersey,Black
+613,Standard,,England Paint,,Bloody Eye,,Red Jersey,Blue
+614,Standard,BA Snapback,,,,Captain Armband,Red Jersey,Black
+615,Old,,,,Bloody Eye,Pigskin Ball,Training Hoodie,Blockasset
+616,Standard,,,,Bloody Eye,League Trophy,Flag,Black
+617,Standard,Title Crown,Sweat,Dosbrak Bandana,Wayfarers,Yellow Ball,Red Jersey,Blue
+618,Standard,Wooly Hat,Ad Beard,,,League Trophy,Managers Jacket,Orange
+619,Young,,Sweat,Medal,,Yellow Card,Black Jersey,Green
+620,Young,Winner Hat,,,,,Black Jersey,Red
+621,Standard,,,,Laser Eyes,Captain Armband,Red Jersey Torn,Green
+622,Standard,,,Diamond Grill,Bloody Eye,Yellow Card,Red Jersey,Red
+623,Standard,BA Snapback,Sweat,,Wayfarers,Yellow Ball,White Jersey,Green
+624,Standard,BA Snapback,Sweat,,,Yellow Ball,Red Jersey,Blockasset
+625,Standard,Winner Hat,England Paint,Diamond Grill,Wayfarers,Yellow Card,Red Jersey,Black
+626,Standard,,,,Bloody Eye,European Trophy,Suit,Orange
+627,Old,,Sweat,,,Yellow Card,Black Jersey,Black
+628,Standard,BA Snapback,,,,,Black Jersey,Orange
+629,Young,Wooly Hat,,,Wayfarers,Yellow Ball,White Jersey,Blue
+630,Young,Wooly Hat,,Gold Mouthguard,Bloody Eye,Yellow Card,Blue Jersey,Green
+631,Standard,,Sweat,Diamond Grill,Wayfarers,Yellow Ball,Flag,Orange
+632,Standard,,England Paint,,Wayfarers,Pigskin Ball,Training Hoodie,Black
+633,Old,Crown,,Gold Mouthguard,,Captain Armband,Training Hoodie,Black
+634,Standard,Wooly Hat,,,,,White Jersey,Stadium
+635,Old,Winner Hat,Sweat,,Wayfarers,Medals,Blue Jersey,Green
+636,Standard,,,,Laser Eyes,Captain Armband,White Jersey,Red
+637,Standard,Winner Hat,England Paint,,,Yellow Ball,Managers Jacket,Blue
+638,Standard,,,Medal,Bloody Eye,Yellow Ball,Black Jersey,Red
+639,Standard,,,,,League Trophy,Red Jersey,Red
+640,Standard,,,,,Captain Armband,Managers Jacket,Orange
+641,Standard,Title Crown,Sweat,,,Captain Armband,Red Jersey,Blockasset
+642,Standard,,Sweat,,,Medals,Flag,Red
+643,Standard,Wooly Hat,Sweat,,Laser Eyes,European Trophy,Black Jersey,Orange
+644,Young,BA Snapback,,,Wayfarers,Pigskin Ball,Black Jersey,Black
+645,Standard,,,Medal,,European Trophy,Suit,Green
+646,Standard,,England Paint,,Bloody Eye,Yellow Card,Red Jersey Torn,Black
+647,Old,,,Gold Mouthguard,,Pigskin Ball,Suit,Red
+648,Standard,Wooly Hat,,,,Captain Armband,Black Jersey,Red
+649,Standard,,,,Wayfarers,,Suit,Red
+650,Standard,,,Gold Mouthguard,,Boot Award,Suit,Red
+651,Standard,Winner Hat,,Gold Mouthguard,Wayfarers,European Trophy,White Jersey,Green
+652,Standard,Wooly Hat,,Medal,Wayfarers,Medals,White Jersey,Black
+653,Standard,,Sweat,,Wayfarers,,Black Jersey,Black
+654,Standard,BA Snapback,England Paint,Diamond Grill,,Captain Armband,White Jersey,Green
+655,Standard,,,,,,Training Hoodie,Red
+656,Standard,BA Snapback,,,Bloody Eye,Captain Armband,Managers Jacket,Black
+657,Standard,,Sweat,,Bloody Eye,,Red Jersey,Green
+658,Standard,Wooly Hat,,,,Boot Award,Suit,Red
+659,Standard,Wooly Hat,Sweat,,Laser Eyes,Confetti,Training Hoodie,Orange
+660,Standard,,,Gold Mouthguard,Bloody Eye,League Trophy,Blue Jersey,Red
+661,Standard,BA Snapback,,,,League Trophy,Black Jersey,Green
+662,Standard,,,,,Captain Armband,Red Jersey,Red
+663,Standard,,,,Wayfarers,Medals,White Jersey,Black
+664,Standard,BA Snapback,Sweat,,Wayfarers,Yellow Card,White Jersey,Red
+665,Standard,Title Crown,,,,Pigskin Ball,Red Jersey,Blue
+666,Standard,,England Paint,,,League Trophy,Black Jersey,Green
+667,Standard,BA Snapback,,Gold Mouthguard,Bloody Eye,Captain Armband,Red Jersey,Red
+668,Young,BA Snapback,,,Bloody Eye,Yellow Card,Red Jersey,Orange
+669,Standard,,England Paint,,Bloody Eye,Confetti,Red Jersey,Red
+670,Old,Wooly Hat,,,,Pigskin Ball,Red Jersey,Red
+671,Standard,,,,,,Blue Jersey,Red
+672,Standard,Title Crown,,,,Medals,Black Jersey,Green
+673,Standard,,,Diamond Grill,,Medals,Red Jersey,Team
+674,Young,,,,Laser Eyes,Diamond Ball,Flag,Blue
+675,Standard,,,,,Medals,Black Jersey,Orange
+676,Standard,Wooly Hat,,,,League Trophy,Suit,Black
+677,Standard,Winner Hat,England Paint,Gold Mouthguard,Bloody Eye,Yellow Ball,Black Jersey,Black
+678,Standard,,,,,Captain Armband,Suit,Team
+679,Standard,,,,,Captain Armband,Managers Jacket,Green
+680,Standard,Title Crown,,,,Captain Armband,Black Jersey,Red
+681,Standard,BA Snapback,,,Wayfarers,Medals,Suit,Red
+682,Standard,,,,Wayfarers,League Trophy,Flag,Orange
+683,Standard,,England Paint,,,,White Jersey,Red
+684,Standard,,,,Bloody Eye,,White Jersey,Red
+685,Young,,,,Wayfarers,,Red Jersey,Team
+686,Standard,BA Snapback,Sweat,Diamond Grill,,Yellow Ball,Blue Jersey,Red
+687,Standard,,,,,Captain Armband,White Jersey,Orange
+688,Standard,,,,Bloody Eye,Captain Armband,Blue Jersey,Red
+689,Standard,Wooly Hat,Sweat,,Wayfarers,Yellow Card,Managers Jacket,Black
+690,Standard,,Sweat,,,Yellow Ball,Red Jersey Torn,Blue
+691,Standard,,,Diamond Grill,Laser Eyes,,Blue Jersey,Red
+692,Standard,BA Snapback,,,,Confetti,Suit,Blue
+693,Standard,Wooly Hat,,,Bloody Eye,Yellow Ball,Red Jersey,Black
+694,Standard,,,,Bloody Eye,,Training Hoodie,Black
+695,Standard,Wooly Hat,,Gold Mouthguard,Wayfarers,Captain Armband,Flag,Green
+696,Standard,,,,,European Trophy,Training Hoodie,Blue
+697,Standard,Title Crown,,,,Medals,Red Jersey,Orange
+698,Old,Winner Hat,,,,Medals,Suit,Green
+699,Standard,BA Snapback,,,Wayfarers,Medals,Managers Jacket,Red
+700,Standard,Title Crown,,,,,Red Jersey,Black
+701,Standard,Wooly Hat,,Diamond Grill,Wayfarers,Pigskin Ball,White Jersey,Green
+702,Standard,,,,Wayfarers,Captain Armband,Black Jersey,Black
+703,Standard,Wooly Hat,,,,,Black Jersey,Green
+704,Standard,BA Snapback,Sweat,Gold Mouthguard,Laser Eyes,Yellow Card,Red Jersey,Red
+705,Standard,,,Medal,,Captain Armband,Red Jersey,Black
+706,Old,,,Gold Mouthguard,,League Trophy,Red Jersey,Green
+707,Standard,BA Snapback,,,,League Trophy,White Jersey,Green
+708,Old,,,,,European Trophy,Red Jersey,Orange
+709,Standard,,,Gold Mouthguard,,Pigskin Ball,Training Hoodie,Blue
+710,Old,Winner Hat,,Medal,,,Suit,Orange
+711,Standard,,,,Wayfarers,Confetti,Suit,Orange
+712,Standard,,,,,Yellow Ball,White Jersey,Green
+713,Standard,Winner Hat,,,,Medals,Training Hoodie,Black
+714,Standard,Wooly Hat,,Diamond Grill,,European Trophy,Red Jersey,Blockasset
+715,Old,Winner Hat,,,,Captain Armband,Training Hoodie,Blue
+716,Standard,,,,Bloody Eye,Confetti,Suit,Orange
+717,Old,,,,,League Trophy,Suit,Orange
+718,Standard,,,,Bloody Eye,Confetti,Flag,Orange
+719,Standard,BA Snapback,Sweat,Medal,,Medals,Flag,Orange
+720,Old,,,,,Captain Armband,Red Jersey,Blue
+721,Standard,,,,Bloody Eye,Yellow Ball,White Jersey,Orange
+722,Standard,BA Snapback,,Medal,Wayfarers,Confetti,Blue Jersey,Black
+723,Standard,,,Gold Mouthguard,Bloody Eye,,Red Jersey,Red
+724,Old,Wooly Hat,Sweat,,,Captain Armband,Red Jersey,Orange
+725,Old,,Sweat,,,Captain Armband,Black Jersey,Black
+726,Old,BA Snapback,,,,,Flag,Orange
+727,Standard,,,Gold Mouthguard,,Yellow Card,Red Jersey,Green
+728,Old,,,,,Medals,White Jersey,Orange
+729,Standard,,,,Wayfarers,,Training Hoodie,Team
+730,Old,BA Snapback,Sweat,,,Yellow Ball,Suit,Red
+731,Standard,Wooly Hat,,,,Yellow Ball,Black Jersey,Blockasset
+732,Standard,BA Snapback,,,,,Black Jersey,Black
+733,Standard,Winner Hat,,,Wayfarers,Yellow Ball,Training Hoodie,Green
+734,Standard,,,,,Pigskin Ball,Red Jersey,Orange
+735,Standard,Title Crown,,,,,Flag,Blockasset
+736,Old,BA Snapback,,,Wayfarers,Captain Armband,White Jersey,Blue
+737,Standard,Wooly Hat,,,,Yellow Card,Suit,Blue
+738,Standard,,,Medal,,Pigskin Ball,Training Hoodie,Blue
+739,Standard,,,Diamond Grill,Bloody Eye,Boot Award,Suit,Green
+740,Standard,BA Snapback,Sweat,,Wayfarers,Confetti,Suit,Green
+741,Standard,,,,Bloody Eye,Captain Armband,Flag,Orange
+742,Standard,BA Snapback,,,,Yellow Card,Blue Jersey,Blockasset
+743,Standard,,,,Laser Eyes,Yellow Card,White Jersey,Blue
+744,Standard,Winner Hat,,,Bloody Eye,Captain Armband,White Jersey,Red
+745,Standard,,,,Wayfarers,Medals,Red Jersey,Red
+746,Standard,Title Crown,,,Wayfarers,European Trophy,White Jersey,Red
+747,Standard,,Sweat,,,European Trophy,Blue Jersey,Orange
+748,Standard,,England Paint,,,Yellow Ball,Red Jersey,Black
+749,Standard,,,Gold Mouthguard,,Medals,Black Jersey,Orange
+750,Standard,BA Snapback,,,,Captain Armband,Black Jersey,Team
+751,Standard,Wooly Hat,,,,,White Jersey,Red
+752,Standard,,,Gold Mouthguard,,Medals,Training Hoodie,Black
+753,Old,,Sweat,,,Boot Award,Training Hoodie,Black
+754,Standard,,England Paint,,Wayfarers,,Flag,Red
+755,Standard,,,,,Captain Armband,White Jersey,Green
+756,Standard,Wooly Hat,,,Bloody Eye,Yellow Ball,Black Jersey,Orange
+757,Standard,BA Snapback,,,Bloody Eye,Yellow Ball,Red Jersey,Orange
+758,Standard,,,Medal,,Diamond Ball,Red Jersey,Blockasset
+759,Standard,,,,Wayfarers,League Trophy,Training Hoodie,Red
+760,Standard,Wooly Hat,,,,Yellow Ball,Black Jersey,Orange
+761,Standard,Title Crown,Sweat,,,Medals,Black Jersey,Red
+762,Standard,Wooly Hat,,,Wayfarers,Pigskin Ball,Red Jersey,Red
+763,Standard,,Sweat,,,Yellow Card,Red Jersey,Green
+764,Standard,Wooly Hat,,Dosbrak Bandana,Wayfarers,Medals,Training Hoodie,Orange
+765,Standard,Wooly Hat,,,,Medals,Red Jersey,Red
+766,Old,Title Crown,,,,League Trophy,Red Jersey,Blockasset
+767,Standard,BA Snapback,,,Wayfarers,Pigskin Ball,Red Jersey,Blue
+768,Standard,BA Snapback,,,,Captain Armband,Suit,Green
+769,Standard,BA Snapback,,,Wayfarers,Pigskin Ball,Blue Jersey,Black
+770,Standard,,,,,Pigskin Ball,Blue Jersey,Green
+771,Standard,Winner Hat,,,Wayfarers,Confetti,Training Hoodie,Black
+772,Young,Winner Hat,,,Bloody Eye,Captain Armband,White Jersey,Orange
+773,Standard,,England Paint,,Bloody Eye,European Trophy,Blue Jersey,Red
+774,Old,,Sweat,,,Medals,Black Jersey,Red
+775,Standard,BA Snapback,Sweat,Gold Mouthguard,Wayfarers,,Managers Jacket,Blue
+776,Standard,Winner Hat,,,,Captain Armband,Blue Jersey,Red
+777,Standard,Title Crown,,,,Yellow Card,Flag,Blockasset
+778,Young,Winner Hat,,Gold Mouthguard,Wayfarers,Yellow Ball,Training Hoodie,Black
+779,Old,Title Crown,Sweat,Medal,,Pigskin Ball,Red Jersey,Black
+780,Standard,,,Gold Mouthguard,Bloody Eye,,Blue Jersey,Black
+781,Old,,Sweat,,,Yellow Ball,Suit,Black
+782,Young,Title Crown,,,,League Trophy,Black Jersey,Team
+783,Standard,,,Gold Mouthguard,Wayfarers,Pigskin Ball,Suit,Red
+784,Old,Winner Hat,Ad Beard,,Laser Eyes,League Trophy,Astronaut,Orange
+785,Standard,Winner Hat,,,,Captain Armband,Managers Jacket,Red
+786,Standard,,,,,Confetti,White Jersey,Orange
+787,Standard,,,,,Yellow Ball,Red Jersey Torn,Black
+788,Old,BA Snapback,,,,Yellow Card,White Jersey,Black
+789,Standard,,,,,,Training Hoodie,Orange
+790,Young,,,,,League Trophy,White Jersey,Black
+791,Standard,,,Gold Mouthguard,,Captain Armband,Red Jersey,Blue
+792,Young,,England Paint,,,Confetti,Black Jersey,Green
+793,Standard,Wooly Hat,,,,Captain Armband,White Jersey,Red
+794,Standard,Wooly Hat,,,Wayfarers,Captain Armband,Training Hoodie,Green
+795,Standard,Winner Hat,England Paint,,Wayfarers,League Trophy,Red Jersey Torn,Team
+796,Standard,,,,,League Trophy,Red Jersey,Orange
+797,Standard,BA Snapback,,,,,White Jersey,Red
+798,Standard,,Sweat,,Wayfarers,League Trophy,White Jersey,Black
+799,Standard,,,,,Captain Armband,Suit,Green
+800,Standard,,Sweat,,,Pigskin Ball,Red Jersey,Team
+801,Young,Winner Hat,Sweat,,,Boot Award,Red Jersey,Black
+802,Standard,,,,,Pigskin Ball,Training Hoodie,Green
+803,Standard,,Sweat,,,Medals,Red Jersey,Green
+804,Standard,BA Snapback,Sweat,,Laser Eyes,,Flag,Green
+805,Standard,BA Snapback,,,,Yellow Ball,Blue Jersey,Orange
+806,Standard,,,,,Medals,Red Jersey,Red
+807,Standard,,,,,Captain Armband,Suit,Black
+808,Standard,BA Snapback,,Gold Mouthguard,,Pigskin Ball,Red Jersey,Black
+809,Old,Winner Hat,,Diamond Grill,,League Trophy,Astronaut,Red
+810,Old,,,,,,Red Jersey,Green
+811,Standard,Winner Hat,England Paint,,Wayfarers,Medals,Training Hoodie,Red
+812,Old,BA Snapback,,,,Yellow Ball,Black Jersey,Black
+813,Standard,BA Snapback,Sweat,,,Medals,Red Jersey,Blue
+814,Standard,Wooly Hat,Sweat,,Wayfarers,Medals,Black Jersey,Orange
+815,Standard,Wooly Hat,,,Wayfarers,Medals,Managers Jacket,Green
+816,Old,,,,,Yellow Ball,Blue Jersey,Green
+817,Standard,,,,,Yellow Card,Blue Jersey,Green
+818,Standard,Winner Hat,,,,Yellow Card,Blue Jersey,Green
+819,Standard,BA Snapback,,Gold Mouthguard,,Medals,Blue Jersey,Black
+820,Standard,BA Snapback,,Medal,,Yellow Card,Red Jersey,Green
+821,Standard,,,,Laser Eyes,Medals,Suit,Green
+822,Standard,,,,,Yellow Ball,Suit,Blue
+823,Standard,BA Snapback,,,,Captain Armband,Blue Jersey,Black
+824,Standard,,Sweat,,Bloody Eye,Yellow Card,Red Jersey,Blue
+825,Standard,,England Paint,Gold Mouthguard,Wayfarers,Medals,Training Hoodie,Green
+826,Standard,,,,Wayfarers,Yellow Ball,Black Jersey,Team
+827,Standard,Winner Hat,Sweat,Gold Mouthguard,,Yellow Card,White Jersey,Green
+828,Standard,BA Snapback,Sweat,,,,Astronaut,Green
+829,Standard,Title Crown,Sweat,,Wayfarers,,Red Jersey,Green
+830,Standard,Title Crown,,,,Medals,Suit,Red
+831,Standard,,,,,Pigskin Ball,Red Jersey,Black
+832,Standard,Winner Hat,,Gold Mouthguard,,Confetti,Blue Jersey,Black
+833,Standard,BA Snapback,,,,,White Jersey,Green
+834,Standard,,,Medal,,Medals,Red Jersey,Black
+835,Standard,Winner Hat,,,,Medals,Blue Jersey,Red
+836,Standard,BA Snapback,,Gold Mouthguard,,Medals,Red Jersey,Green
+837,Standard,BA Snapback,,,Laser Eyes,Yellow Ball,Suit,Blue
+838,Standard,Winner Hat,,,Laser Eyes,Confetti,Training Hoodie,Black
+839,Standard,Winner Hat,,,,Captain Armband,Blue Jersey,Orange
+840,Standard,,England Paint,,Wayfarers,Yellow Ball,Blue Jersey,Black
+841,Standard,BA Snapback,,,,Yellow Ball,Red Jersey,Red
+842,Standard,Winner Hat,England Paint,,,Captain Armband,White Jersey,Red
+843,Old,Winner Hat,,Diamond Grill,,Captain Armband,White Jersey,Blue
+844,Standard,,,,,Yellow Ball,White Jersey,Red
+845,Standard,,,,Bloody Eye,Pigskin Ball,Black Jersey,Blue
+846,Standard,Winner Hat,,,,Yellow Card,Suit,Green
+847,Old,,,,,League Trophy,Training Hoodie,Blue
+848,Old,Title Crown,,,Laser Eyes,,White Jersey,Green
+849,Standard,,,,,Pigskin Ball,Training Hoodie,Orange
+850,Standard,BA Snapback,,,Wayfarers,Confetti,Flag,Black
+851,Standard,Title Crown,Sweat,,,Pigskin Ball,Black Jersey,Blockasset
+852,Standard,,,,Bloody Eye,,White Jersey,Black
+853,Standard,BA Snapback,Sweat,Gold Mouthguard,,,White Jersey,Orange
+854,Old,,Sweat,,Bloody Eye,Yellow Card,Blue Jersey,Blue
+855,Old,,Sweat,,Laser Eyes,Captain Armband,Flag,Blue
+856,Standard,Title Crown,,,Bloody Eye,Yellow Ball,Blue Jersey,Blue
+857,Standard,,,,,Boot Award,Red Jersey,Orange
+858,Standard,,Sweat,,,,Red Jersey,Black
+859,Standard,,Ad Beard,,Wayfarers,Pigskin Ball,White Jersey,Black
+860,Standard,,,Medal,,,White Jersey,Black
+861,Standard,Wooly Hat,,,Wayfarers,Yellow Card,Red Jersey,Blue
+862,Standard,Wooly Hat,,Gold Mouthguard,Bloody Eye,Captain Armband,Blue Jersey,Orange
+863,Standard,,England Paint,,Wayfarers,Yellow Ball,White Jersey,Black
+864,Standard,,,,,Pigskin Ball,Red Jersey,Blue
+865,Standard,,,,,Boot Award,Suit,Black
+866,Standard,,,,,Yellow Card,Training Hoodie,Blockasset
+867,Standard,,Sweat,,,Yellow Ball,Red Jersey,Green
+868,Standard,,Sweat,,,Yellow Ball,Suit,Red
+869,Young,,,Medal,,Pigskin Ball,Blue Jersey,Blue
+870,Old,Winner Hat,,Diamond Grill,,Medals,Red Jersey,Black
+871,Standard,,,,Bloody Eye,Yellow Card,White Jersey,Blockasset
+872,Standard,Title Crown,,Medal,,Yellow Ball,Red Jersey,Red
+873,Standard,,,,,Yellow Ball,Red Jersey,Black
+874,Standard,,,,,Captain Armband,Red Jersey,Blue
+875,Standard,Wooly Hat,Ad Beard,,,Confetti,Red Jersey,Green
+876,Standard,Wooly Hat,,,Laser Eyes,Yellow Card,Blue Jersey,Blue
+877,Standard,,,Medal,,Medals,Red Jersey,Team
+878,Standard,BA Snapback,,,,Medals,Red Jersey,Black
+879,Standard,,,Gold Mouthguard,,League Trophy,White Jersey,Red
+880,Standard,,,Gold Mouthguard,Wayfarers,League Trophy,Suit,Orange
+881,Standard,Wooly Hat,,Medal,,Yellow Card,White Jersey,Green
+882,Standard,,Sweat,,,Yellow Ball,Managers Jacket,Blockasset
+883,Standard,,England Paint,Diamond Grill,Laser Eyes,Medals,Red Jersey Torn,Orange
+884,Standard,,Sweat,,Wayfarers,Yellow Ball,Training Hoodie,Blue
+885,Standard,,,,,Diamond Ball,Black Jersey,Team
+886,Young,BA Snapback,Sweat,Gold Mouthguard,Wayfarers,Captain Armband,Red Jersey,Orange
+887,Old,,,,Bloody Eye,Yellow Ball,White Jersey,Green
+888,Young,,,,,Medals,Blue Jersey,Red
+889,Standard,,,,,,Suit,Green
+890,Standard,,,Diamond Grill,,Confetti,Suit,Orange
+891,Standard,BA Snapback,,,,Yellow Card,Suit,Orange
+892,Standard,,,,Wayfarers,Pigskin Ball,White Jersey,Blue
+893,Standard,,,,,Confetti,Flag,Team
+894,Standard,,,,Bloody Eye,Medals,Blue Jersey,Black
+895,Standard,,,Medal,Bloody Eye,Yellow Card,White Jersey,Black
+896,Old,Title Crown,,,Bloody Eye,,White Jersey,Orange
+897,Standard,Title Crown,,,Bloody Eye,Yellow Card,White Jersey,Black
+898,Standard,Wooly Hat,,,,Yellow Ball,Managers Jacket,Red
+899,Standard,BA Snapback,Sweat,,Bloody Eye,Captain Armband,Red Jersey,Orange
+900,Standard,Title Crown,,,,Pigskin Ball,Suit,Blue
+901,Standard,,,,Wayfarers,Yellow Card,Black Jersey,Red
+902,Standard,,Sweat,,,Yellow Card,Training Hoodie,Red
+903,Standard,,England Paint,,,,White Jersey,Red
+904,Standard,,,Medal,,League Trophy,Suit,Green
+905,Standard,BA Snapback,Sweat,Gold Mouthguard,,Yellow Ball,Red Jersey,Green
+906,Standard,Winner Hat,,,Wayfarers,Pigskin Ball,Red Jersey,Blue
+907,Standard,,,,,Medals,Managers Jacket,Orange
+908,Standard,,England Paint,,Wayfarers,Medals,Red Jersey,Red
+909,Young,BA Snapback,,,Wayfarers,Captain Armband,White Jersey,Orange
+910,Standard,Winner Hat,,,Wayfarers,Yellow Ball,Managers Jacket,Green
+911,Old,Winner Hat,Sweat,,Bloody Eye,Pigskin Ball,White Jersey,Black
+912,Standard,Wooly Hat,,,,,White Jersey,Orange
+913,Standard,BA Snapback,,,Wayfarers,Boot Award,White Jersey,Red
+914,Standard,Winner Hat,Sweat,Diamond Grill,Laser Eyes,Yellow Card,Black Jersey,Green
+915,Standard,,Sweat,,,Boot Award,White Jersey,Red
+916,Standard,BA Snapback,,Dosbrak Bandana,Laser Eyes,,Managers Jacket,Blockasset
+917,Young,,,Gold Mouthguard,,Yellow Ball,Managers Jacket,Blue
+918,Standard,Wooly Hat,Sweat,Diamond Grill,,Confetti,Black Jersey,Red
+919,Standard,,,,Wayfarers,Pigskin Ball,Training Hoodie,Red
+920,Standard,Title Crown,,,,,Black Jersey,Blue
+921,Standard,,Ad Beard,Medal,,Medals,Red Jersey,Green
+922,Young,,,,,Pigskin Ball,Suit,Black
+923,Standard,Wooly Hat,,,Laser Eyes,Pigskin Ball,White Jersey,Black
+924,Old,Wooly Hat,,,,Pigskin Ball,Flag,Red
+925,Young,,,,,Yellow Card,Managers Jacket,Red
+926,Standard,,Sweat,Medal,,Yellow Ball,Red Jersey,Green
+927,Standard,,,,,Confetti,Red Jersey,Red
+928,Standard,,,,,Yellow Ball,Blue Jersey,Black
+929,Standard,,Sweat,Gold Mouthguard,,Confetti,White Jersey,Blue
+930,Standard,,Sweat,,Wayfarers,,Blue Jersey,Green
+931,Standard,Wooly Hat,,,Wayfarers,Yellow Card,Red Jersey,Orange
+932,Standard,Wooly Hat,,,,,Managers Jacket,Red
+933,Old,,,Medal,Bloody Eye,European Trophy,Managers Jacket,Black
+934,Standard,,,,Wayfarers,Yellow Ball,White Jersey,Orange
+935,Young,Title Crown,,,Wayfarers,Medals,Training Hoodie,Blue
+936,Standard,,England Paint,Medal,Bloody Eye,League Trophy,White Jersey,Red
+937,Standard,BA Snapback,Sweat,Medal,,Yellow Card,Suit,Green
+938,Young,,,Diamond Grill,,Yellow Card,White Jersey,Green
+939,Standard,Title Crown,,,Wayfarers,Medals,White Jersey,Black
+940,Old,Winner Hat,Ad Beard,,,Confetti,White Jersey,Red
+941,Standard,,Sweat,,,Yellow Ball,White Jersey,Blockasset
+942,Standard,Winner Hat,,Medal,,,Flag,Red
+943,Old,,Sweat,,,Captain Armband,Black Jersey,Red
+944,Standard,Winner Hat,England Paint,Medal,Wayfarers,Boot Award,Blue Jersey,Green
+945,Old,,,,Wayfarers,League Trophy,Blue Jersey,Red
+946,Standard,,,,,,Red Jersey,Green
+947,Standard,Winner Hat,,,Wayfarers,Pigskin Ball,Managers Jacket,Black
+948,Young,Title Crown,Sweat,Gold Mouthguard,Bloody Eye,Pigskin Ball,Suit,Green
+949,Standard,,,,Wayfarers,Captain Armband,Training Hoodie,Red
+950,Standard,Winner Hat,Sweat,,,Medals,White Jersey,Red
+951,Young,Winner Hat,,Gold Mouthguard,,,Training Hoodie,Black
+952,Standard,,Sweat,,Wayfarers,Confetti,Black Jersey,Blue
+953,Old,,,,,Confetti,Flag,Team
+954,Young,,Sweat,,Bloody Eye,League Trophy,White Jersey,Green
+955,Standard,,Sweat,,,Captain Armband,Red Jersey,Black
+956,Standard,BA Snapback,,Dosbrak Bandana,,,Black Jersey,Red
+957,Standard,,,Medal,,Yellow Ball,Blue Jersey,Green
+958,Old,,,,,Yellow Ball,Flag,Blockasset
+959,Standard,Winner Hat,Sweat,,Wayfarers,Captain Armband,Suit,Red
+960,Standard,Title Crown,,,,Yellow Ball,Managers Jacket,Black
+961,Standard,,England Paint,,Wayfarers,Captain Armband,Flag,Black
+962,Old,Wooly Hat,,Gold Mouthguard,Bloody Eye,Boot Award,White Jersey,Blue
+963,Standard,,,Medal,,Yellow Ball,Red Jersey,Orange
+964,Standard,Winner Hat,,,,Captain Armband,Training Hoodie,Green
+965,Standard,Title Crown,Ad Beard,,Wayfarers,Medals,Red Jersey,Orange
+966,Old,Winner Hat,,,Bloody Eye,,Red Jersey,Blue
+967,Standard,,,,,Yellow Ball,Black Jersey,Orange
+968,Old,,,Gold Mouthguard,,European Trophy,White Jersey,Red
+969,Standard,Wooly Hat,,Gold Mouthguard,Bloody Eye,,White Jersey,Black
+970,Standard,Title Crown,,,Bloody Eye,Confetti,Astronaut,Team
+971,Standard,,,,,Confetti,Training Hoodie,Blockasset
+972,Standard,Wooly Hat,,,Laser Eyes,Captain Armband,Black Jersey,Red
+973,Young,Winner Hat,,Gold Mouthguard,,,Training Hoodie,Orange
+974,Standard,BA Snapback,,,,Pigskin Ball,Blue Jersey,Orange
+975,Standard,,Sweat,,,,Red Jersey,Red
+976,Standard,Winner Hat,Sweat,,,,White Jersey,Orange
+977,Standard,,,,,Pigskin Ball,Suit,Red
+978,Young,,Sweat,,,Pigskin Ball,Black Jersey,Red
+979,Standard,,,Medal,,Captain Armband,White Jersey,Black
+980,Young,,,,Wayfarers,Captain Armband,Red Jersey,Red
+981,Standard,,Sweat,,Wayfarers,Confetti,Red Jersey,Black
+982,Standard,,,Gold Mouthguard,,Pigskin Ball,Blue Jersey,Red
+983,Standard,Wooly Hat,England Paint,,,League Trophy,White Jersey,Red
+984,Standard,Wooly Hat,,,Bloody Eye,,Blue Jersey,Red
+985,Standard,,,Gold Mouthguard,,Yellow Card,Managers Jacket,Blue
+986,Standard,,,,Bloody Eye,Yellow Card,Red Jersey Torn,Green
+987,Standard,,England Paint,,Wayfarers,Confetti,Suit,Orange
+988,Old,BA Snapback,,,,Medals,White Jersey,Red
+989,Young,Title Crown,England Paint,,Bloody Eye,Captain Armband,Suit,Red
+990,Standard,Title Crown,Sweat,,,Pigskin Ball,White Jersey,Orange
+991,Standard,,,Diamond Grill,,Yellow Ball,Suit,Orange
+992,Standard,Wooly Hat,,,,Medals,Training Hoodie,Red
+993,Old,,Sweat,Medal,,Yellow Ball,Red Jersey,Orange
+994,Old,Crown,,,,Medals,Red Jersey,Red
+995,Standard,Wooly Hat,Sweat,Medal,,Medals,White Jersey,Red
+996,Standard,BA Snapback,,,,,White Jersey,Team
+997,Standard,,,,Bloody Eye,,White Jersey,Orange
+998,Standard,Wooly Hat,,,,Medals,Blue Jersey,Orange
+999,Standard,,,,,Captain Armband,White Jersey,Green
+1000,Standard,BA Snapback,,,,Captain Armband,Suit,Blue
+1001,Standard,Winner Hat,England Paint,,,Confetti,Training Hoodie,Black
+1002,Young,Wooly Hat,,,,Yellow Ball,Blue Jersey,Red
+1003,Standard,,,,,,Managers Jacket,Green
+1004,Standard,Winner Hat,,,Bloody Eye,Confetti,White Jersey,Team
+1005,Standard,BA Snapback,,Diamond Grill,Wayfarers,,Managers Jacket,Black
+1006,Standard,BA Snapback,,,Bloody Eye,,White Jersey,Blue
+1007,Standard,BA Snapback,England Paint,,,,White Jersey,Stadium
+1008,Young,Wooly Hat,,Gold Mouthguard,,Boot Award,Black Jersey,Blue
+1009,Old,,,,Wayfarers,,Suit,Green
+1010,Standard,Wooly Hat,,,,League Trophy,Red Jersey,Black
+1011,Standard,,,,,Boot Award,Flag,Green
+1012,Old,,,Medal,,Yellow Ball,White Jersey,Red
+1013,Young,BA Snapback,Sweat,,,Medals,Black Jersey,Red
+1014,Standard,Title Crown,,Gold Mouthguard,,Captain Armband,Red Jersey,Orange
+1015,Standard,Winner Hat,,,Laser Eyes,Yellow Ball,Suit,Orange
+1016,Old,,,,,Confetti,Managers Jacket,Orange
+1017,Standard,,,,,Confetti,Blue Jersey,Orange
+1018,Standard,,,,,Confetti,White Jersey,Green
+1019,Standard,,,Gold Mouthguard,Wayfarers,Pigskin Ball,Blue Jersey,Red
+1020,Standard,,Sweat,,,Yellow Ball,White Jersey,Blockasset
+1021,Standard,,,,Laser Eyes,Yellow Card,Blue Jersey,Black
+1022,Standard,,,,Wayfarers,Captain Armband,Blue Jersey,Red
+1023,Standard,,Sweat,Medal,,Captain Armband,White Jersey,Blue
+1024,Standard,BA Snapback,Sweat,,,Yellow Card,White Jersey,Orange
+1025,Standard,,,,Laser Eyes,Pigskin Ball,Suit,Red
+1026,Standard,Wooly Hat,,Gold Mouthguard,,,Red Jersey,Black
+1027,Standard,Crown,,,,Captain Armband,Managers Jacket,Blue
+1028,Standard,Title Crown,England Paint,,,,White Jersey,Red
+1029,Standard,Title Crown,,,,Yellow Ball,Astronaut,Blockasset
+1030,Old,BA Snapback,,Medal,,Yellow Card,Training Hoodie,Green
+1031,Standard,,,Gold Mouthguard,,Captain Armband,Black Jersey,Green
+1032,Old,Wooly Hat,,Gold Mouthguard,Bloody Eye,Captain Armband,Black Jersey,Green
+1033,Young,Title Crown,,Gold Mouthguard,,,White Jersey,Red
+1034,Old,,,,Bloody Eye,Captain Armband,Suit,Orange
+1035,Standard,BA Snapback,England Paint,,Wayfarers,Pigskin Ball,Managers Jacket,Black
+1036,Standard,,Ad Beard,Medal,,League Trophy,Blue Jersey,Red
+1037,Standard,,Sweat,,,Pigskin Ball,Red Jersey,Red
+1038,Standard,,Sweat,,,,Red Jersey,Blue
+1039,Standard,,England Paint,,,Yellow Ball,White Jersey,Green
+1040,Standard,,,Diamond Grill,Wayfarers,Pigskin Ball,Training Hoodie,Black
+1041,Standard,,Sweat,,,,Red Jersey,Red
+1042,Standard,Winner Hat,England Paint,,Laser Eyes,Confetti,Training Hoodie,Blue
+1043,Standard,Wooly Hat,,,,Medals,White Jersey,Black
+1044,Old,,,,,Captain Armband,Red Jersey,Black
+1045,Standard,Wooly Hat,,,Wayfarers,Medals,Suit,Green
+1046,Standard,Winner Hat,,,,Yellow Ball,Suit,Blockasset
+1047,Standard,BA Snapback,,,Bloody Eye,Captain Armband,White Jersey,Blockasset
+1048,Standard,Winner Hat,,,Bloody Eye,Pigskin Ball,Black Jersey,Orange
+1049,Standard,Wooly Hat,,,Wayfarers,Confetti,White Jersey,Blue
+1050,Standard,,Sweat,,,Captain Armband,White Jersey,Orange
+1051,Standard,Wooly Hat,Sweat,,,,Red Jersey,Black
+1052,Standard,,,,Bloody Eye,Captain Armband,Blue Jersey,Blue
+1053,Standard,Winner Hat,,,,,Red Jersey,Black
+1054,Standard,,,,,Boot Award,Suit,Orange
+1055,Standard,,Sweat,,,Yellow Ball,White Jersey,Green
+1056,Standard,BA Snapback,Sweat,,,Captain Armband,Training Hoodie,Green
+1057,Standard,,Sweat,,,Confetti,Blue Jersey,Green
+1058,Standard,Title Crown,,,Wayfarers,Medals,Training Hoodie,Black
+1059,Standard,,,,Bloody Eye,,Black Jersey,Red
+1060,Standard,Title Crown,,,,Yellow Card,White Jersey,Red
+1061,Old,BA Snapback,,,Laser Eyes,Captain Armband,Training Hoodie,Red
+1062,Young,,Sweat,Gold Mouthguard,,Yellow Card,Training Hoodie,Green
+1063,Standard,,,,,Yellow Ball,White Jersey,Black
+1064,Standard,BA Snapback,,,Bloody Eye,,Suit,Orange
+1065,Standard,,,Diamond Grill,,Confetti,Blue Jersey,Green
+1066,Standard,Winner Hat,,Medal,Wayfarers,Captain Armband,Flag,Blue
+1067,Standard,,England Paint,Gold Mouthguard,,Yellow Ball,White Jersey,Red
+1068,Standard,Wooly Hat,,Gold Mouthguard,Wayfarers,League Trophy,Red Jersey,Green
+1069,Standard,,,,Laser Eyes,Confetti,White Jersey,Blue
+1070,Standard,,,,Wayfarers,League Trophy,Training Hoodie,Orange
+1071,Standard,,,,,Confetti,Blue Jersey,Green
+1072,Standard,Winner Hat,Sweat,,,Yellow Ball,Black Jersey,Black
+1073,Young,Title Crown,Sweat,,Wayfarers,,Blue Jersey,Green
+1074,Standard,Winner Hat,,Diamond Grill,Bloody Eye,Yellow Card,Red Jersey,Green
+1075,Standard,,,,,,Black Jersey,Red
+1076,Standard,BA Snapback,,,Wayfarers,Captain Armband,Red Jersey,Orange
+1077,Standard,,,,Bloody Eye,Medals,Blue Jersey,Black
+1078,Standard,,,,,Pigskin Ball,Blue Jersey,Black
+1079,Standard,Wooly Hat,Sweat,,Laser Eyes,Captain Armband,Red Jersey,Blue
+1080,Standard,,,,Laser Eyes,Confetti,Suit,Team
+1081,Standard,,,,,Yellow Ball,Suit,Green
+1082,Standard,,,,Laser Eyes,Medals,Suit,Green
+1083,Standard,,,,Bloody Eye,Confetti,Flag,Blue
+1084,Standard,,,Gold Mouthguard,Wayfarers,Captain Armband,Red Jersey,Green
+1085,Standard,,,,Wayfarers,,White Jersey,Red
+1086,Standard,,,Gold Mouthguard,,League Trophy,White Jersey,Orange
+1087,Standard,BA Snapback,,,Bloody Eye,Confetti,Flag,Black
+1088,Standard,,,,,Confetti,Red Jersey,Orange
+1089,Young,BA Snapback,,,Wayfarers,,White Jersey,Green
+1090,Standard,,,,Bloody Eye,Confetti,Blue Jersey,Green
+1091,Standard,Winner Hat,,Diamond Grill,Bloody Eye,League Trophy,Red Jersey,Blue
+1092,Standard,,,,Wayfarers,Medals,Blue Jersey,Red
+1093,Standard,,Ad Beard,,Wayfarers,League Trophy,White Jersey,Orange
+1094,Standard,,,Gold Mouthguard,,European Trophy,Suit,Green
+1095,Standard,,,Diamond Grill,Bloody Eye,Pigskin Ball,Training Hoodie,Red
+1096,Standard,,,Gold Mouthguard,,Yellow Card,White Jersey,Blue
+1097,Standard,,,,,Yellow Ball,Suit,Red
+1098,Standard,,,,,Yellow Ball,Managers Jacket,Red
+1099,Standard,,,Medal,,Pigskin Ball,Red Jersey,Orange
+1100,Standard,BA Snapback,Sweat,,,Medals,Red Jersey,Red
+1101,Standard,,Sweat,,,Yellow Card,Training Hoodie,Black
+1102,Old,,,,Wayfarers,Pigskin Ball,Black Jersey,Blue
+1103,Old,,,,,Captain Armband,Red Jersey,Blue
+1104,Old,,,,,Confetti,White Jersey,Green
+1105,Standard,,Sweat,,,League Trophy,Suit,Orange
+1106,Standard,Winner Hat,,,,,Black Jersey,Black
+1107,Standard,Wooly Hat,England Paint,Gold Mouthguard,,Yellow Ball,Red Jersey,Blue
+1108,Standard,Winner Hat,,Medal,,Yellow Ball,Red Jersey,Red
+1109,Standard,BA Snapback,Sweat,,,,Blue Jersey,Green
+1110,Standard,,,,,Yellow Ball,Flag,Stadium
+1111,Standard,BA Snapback,,,,Yellow Card,Flag,Blue
+1112,Standard,Wooly Hat,,Medal,,,Training Hoodie,Green
+1113,Standard,,Sweat,,,Confetti,Red Jersey,Green
+1114,Standard,Title Crown,England Paint,,,Yellow Card,White Jersey,Green
+1115,Standard,,,,Wayfarers,Confetti,Suit,Red
+1116,Old,,,,,Captain Armband,White Jersey,Orange
+1117,Standard,BA Snapback,Sweat,,,Boot Award,Suit,Blockasset
+1118,Standard,,,,,Yellow Card,Red Jersey,Black
+1119,Standard,,,,,Yellow Ball,Suit,Red
+1120,Standard,,,Gold Mouthguard,Bloody Eye,League Trophy,Suit,Green
+1121,Standard,,,,,Yellow Card,Red Jersey,Blue
+1122,Standard,Title Crown,,Medal,,European Trophy,White Jersey,Black
+1123,Old,BA Snapback,,Diamond Grill,,Captain Armband,Red Jersey Torn,Orange
+1124,Standard,Winner Hat,,,Bloody Eye,Medals,White Jersey,Red
+1125,Standard,Title Crown,England Paint,,,Yellow Ball,Managers Jacket,Black
+1126,Old,,,,,Confetti,Black Jersey,Green
+1127,Standard,,,,,Yellow Ball,Astronaut,Black
+1128,Standard,BA Snapback,Sweat,,Bloody Eye,Captain Armband,Black Jersey,Black
+1129,Standard,BA Snapback,,Medal,Bloody Eye,,Blue Jersey,Black
+1130,Standard,Winner Hat,England Paint,,,,White Jersey,Red
+1131,Old,,Sweat,,,Captain Armband,Managers Jacket,Blockasset
+1132,Standard,,,,,Yellow Card,Suit,Black
+1133,Standard,Crown,Sweat,,,Boot Award,Training Hoodie,Green
+1134,Standard,,,Medal,,Captain Armband,Blue Jersey,Orange
+1135,Standard,BA Snapback,Sweat,Medal,,Yellow Card,Suit,Blockasset
+1136,Young,Title Crown,Ad Beard,,Bloody Eye,Pigskin Ball,White Jersey,Green
+1137,Young,Wooly Hat,,,,Medals,White Jersey,Team
+1138,Standard,Wooly Hat,,,Wayfarers,Yellow Ball,White Jersey,Orange
+1139,Old,BA Snapback,,,,Yellow Card,Flag,Orange
+1140,Standard,,,,,Yellow Card,White Jersey,Black
+1141,Standard,BA Snapback,,,Bloody Eye,Yellow Ball,Managers Jacket,Orange
+1142,Standard,BA Snapback,,Medal,Wayfarers,Yellow Card,White Jersey,Green
+1143,Old,,,,,Captain Armband,Red Jersey,Black
+1144,Old,Wooly Hat,,Gold Mouthguard,Wayfarers,Captain Armband,Flag,Black
+1145,Standard,,,Gold Mouthguard,,Confetti,Blue Jersey,Red
+1146,Young,Wooly Hat,Sweat,,Wayfarers,Yellow Card,Training Hoodie,Blue
+1147,Standard,,,,Bloody Eye,Yellow Ball,Black Jersey,Red
+1148,Standard,,Sweat,Diamond Grill,,Yellow Ball,White Jersey,Stadium
+1149,Standard,,Sweat,,,Confetti,Blue Jersey,Red
+1150,Standard,Wooly Hat,,,Laser Eyes,Captain Armband,White Jersey,Black
+1151,Standard,,Sweat,,Wayfarers,,Suit,Blockasset
+1152,Old,,,Diamond Grill,,,Black Jersey,Red
+1153,Standard,,Sweat,,Wayfarers,League Trophy,White Jersey,Green
+1154,Standard,,England Paint,Medal,Laser Eyes,Medals,White Jersey,Blue
+1155,Old,,,Medal,Wayfarers,Boot Award,White Jersey,Orange
+1156,Standard,Winner Hat,Sweat,Medal,Wayfarers,Medals,Blue Jersey,Team
+1157,Standard,,,,Laser Eyes,Captain Armband,White Jersey,Blue
+1158,Standard,Wooly Hat,Sweat,,Wayfarers,,Blue Jersey,Blue
+1159,Standard,Title Crown,,,Bloody Eye,,Training Hoodie,Red
+1160,Standard,Title Crown,England Paint,Medal,Wayfarers,Captain Armband,White Jersey,Blue
+1161,Standard,Wooly Hat,,,,,White Jersey,Orange
+1162,Standard,,Sweat,Gold Mouthguard,Bloody Eye,Confetti,Flag,Green
+1163,Standard,,England Paint,,Wayfarers,Captain Armband,Training Hoodie,Green
+1164,Standard,,Ad Beard,,,,Suit,Blue
+1165,Standard,,England Paint,,,League Trophy,Red Jersey,Black
+1166,Standard,,Ad Beard,,,Yellow Ball,Training Hoodie,Black
+1167,Standard,Wooly Hat,,,,Pigskin Ball,Training Hoodie,Blockasset
+1168,Standard,Wooly Hat,England Paint,Gold Mouthguard,,Medals,Black Jersey,Blue
+1169,Standard,,,,Wayfarers,Yellow Ball,Red Jersey,Black
+1170,Standard,,,,,Pigskin Ball,Blue Jersey,Green
+1171,Standard,,England Paint,,Bloody Eye,European Trophy,Training Hoodie,Red
+1172,Standard,,Sweat,,,Medals,Managers Jacket,Black
+1173,Standard,,,Medal,Bloody Eye,Captain Armband,Suit,Black
+1174,Standard,,,,,Captain Armband,Training Hoodie,Black
+1175,Old,,,,Bloody Eye,League Trophy,Managers Jacket,Green
+1176,Old,Title Crown,Sweat,Gold Mouthguard,Laser Eyes,Yellow Ball,Training Hoodie,Black
+1177,Standard,,,,Wayfarers,Yellow Ball,White Jersey,Red
+1178,Standard,,,,,Captain Armband,Managers Jacket,Red
+1179,Standard,,,,Bloody Eye,Yellow Ball,Suit,Green
+1180,Standard,Winner Hat,,,Wayfarers,,Training Hoodie,Blue
+1181,Standard,BA Snapback,England Paint,,,,Red Jersey,Red
+1182,Standard,,,,,League Trophy,Suit,Blue
+1183,Standard,,,Medal,,Captain Armband,Red Jersey,Red
+1184,Standard,Wooly Hat,,,Laser Eyes,,Black Jersey,Orange
+1185,Standard,Winner Hat,,,,Confetti,Blue Jersey,Black
+1186,Old,Winner Hat,,,Wayfarers,Captain Armband,Red Jersey,Black
+1187,Standard,Wooly Hat,,,,Diamond Ball,Red Jersey,Blue
+1188,Standard,Crown,,Gold Mouthguard,Wayfarers,,Blue Jersey,Red
+1189,Young,,,,,,Suit,Orange
+1190,Standard,,,,Bloody Eye,,Training Hoodie,Black
+1191,Standard,Wooly Hat,,,Wayfarers,Captain Armband,White Jersey,Orange
+1192,Standard,Wooly Hat,England Paint,,Wayfarers,Yellow Ball,White Jersey,Blue
+1193,Standard,Wooly Hat,Sweat,Gold Mouthguard,Wayfarers,Confetti,Suit,Red
+1194,Standard,,,Diamond Grill,,Yellow Ball,White Jersey,Blockasset
+1195,Standard,Wooly Hat,,,,Confetti,Blue Jersey,Blue
+1196,Standard,Winner Hat,Sweat,Gold Mouthguard,,Pigskin Ball,Blue Jersey,Red
+1197,Standard,,England Paint,,,,Training Hoodie,Red
+1198,Standard,Crown,,,Wayfarers,Yellow Card,Red Jersey,Black
+1199,Standard,,,,,Yellow Ball,Red Jersey Torn,Orange
+1200,Old,BA Snapback,,,Wayfarers,,Flag,Red
+1201,Standard,,Sweat,,,Pigskin Ball,White Jersey,Team
+1202,Standard,,,,Laser Eyes,,Blue Jersey,Red
+1203,Old,,,,,Yellow Ball,Red Jersey,Orange
+1204,Standard,Wooly Hat,,,Wayfarers,Captain Armband,Red Jersey,Red
+1205,Standard,,,,Wayfarers,League Trophy,Managers Jacket,Black
+1206,Standard,BA Snapback,,,,Yellow Ball,Training Hoodie,Red
+1207,Old,Winner Hat,,Medal,Wayfarers,Medals,Suit,Red
+1208,Standard,,Sweat,Medal,Wayfarers,Captain Armband,Blue Jersey,Blue
+1209,Young,BA Snapback,,,,Pigskin Ball,Blue Jersey,Orange
+1210,Standard,,,,,Captain Armband,Training Hoodie,Blockasset
+1211,Standard,,Sweat,,,,Black Jersey,Orange
+1212,Standard,,Ad Beard,Medal,Bloody Eye,Medals,Black Jersey,Green
+1213,Standard,,,,,Yellow Ball,Suit,Blockasset
+1214,Standard,Wooly Hat,,,,,Black Jersey,Red
+1215,Standard,Wooly Hat,Sweat,,,Confetti,Suit,Blue
+1216,Standard,BA Snapback,Sweat,,,League Trophy,Red Jersey,Red
+1217,Standard,Wooly Hat,,,,Confetti,Managers Jacket,Black
+1218,Standard,,,,Bloody Eye,Yellow Ball,Training Hoodie,Black
+1219,Standard,Wooly Hat,,,,Yellow Card,Suit,Red
+1220,Standard,,,Diamond Grill,Bloody Eye,Captain Armband,Red Jersey,Green
+1221,Standard,Winner Hat,,,Wayfarers,Yellow Card,Red Jersey,Orange
+1222,Standard,Winner Hat,,,,Yellow Card,White Jersey,Orange
+1223,Standard,,,,Wayfarers,Yellow Ball,Training Hoodie,Blue
+1224,Standard,,,Gold Mouthguard,Bloody Eye,Captain Armband,Training Hoodie,Red
+1225,Old,Winner Hat,,,,Captain Armband,White Jersey,Black
+1226,Standard,BA Snapback,,Gold Mouthguard,,Captain Armband,Red Jersey,Stadium
+1227,Old,,,,Bloody Eye,Pigskin Ball,Flag,Green
+1228,Old,,,,,Confetti,Black Jersey,Red
+1229,Old,,,,,Diamond Ball,Suit,Blue
+1230,Standard,BA Snapback,Sweat,Medal,,Yellow Ball,Black Jersey,Black
+1231,Standard,Wooly Hat,England Paint,,,Pigskin Ball,Red Jersey,Orange
+1232,Standard,Winner Hat,Sweat,,,European Trophy,Red Jersey,Black
+1233,Standard,,,Gold Mouthguard,Wayfarers,League Trophy,White Jersey,Blockasset
+1234,Standard,BA Snapback,,Medal,Laser Eyes,Captain Armband,Flag,Team
+1235,Standard,,Sweat,,Wayfarers,League Trophy,Suit,Black
+1236,Standard,,,,Bloody Eye,Pigskin Ball,Blue Jersey,Blockasset
+1237,Standard,BA Snapback,,,,Yellow Card,Red Jersey,Black
+1238,Standard,,Sweat,,,,Managers Jacket,Black
+1239,Standard,,,,,Captain Armband,Red Jersey,Green
+1240,Standard,Wooly Hat,,Medal,,,White Jersey,Orange
+1241,Old,,,,Wayfarers,Medals,Training Hoodie,Green
+1242,Standard,,,Gold Mouthguard,Bloody Eye,,Astronaut,Orange
+1243,Standard,Wooly Hat,,,Wayfarers,,Training Hoodie,Orange
+1244,Standard,BA Snapback,,,,Yellow Card,White Jersey,Blue
+1245,Standard,,,,Bloody Eye,Captain Armband,Suit,Blue
+1246,Standard,,Sweat,Diamond Grill,,League Trophy,Managers Jacket,Green
+1247,Standard,,,,Bloody Eye,Captain Armband,Training Hoodie,Red
+1248,Standard,,,,Wayfarers,Yellow Card,White Jersey,Orange
+1249,Old,,,Medal,Wayfarers,Captain Armband,Suit,Orange
+1250,Standard,Winner Hat,Sweat,Diamond Grill,,Confetti,Blue Jersey,Blockasset
+1251,Standard,,,,,Yellow Ball,White Jersey,Black
+1252,Standard,,,,Wayfarers,Captain Armband,Blue Jersey,Green
+1253,Standard,Title Crown,,Gold Mouthguard,,,Suit,Orange
+1254,Standard,,,,,Confetti,White Jersey,Black
+1255,Old,,,,,Captain Armband,Blue Jersey,Blue
+1256,Young,,,,,Yellow Card,Blue Jersey,Black
+1257,Standard,Crown,,Gold Mouthguard,Laser Eyes,Pigskin Ball,Red Jersey,Orange
+1258,Young,,,,,,Flag,Orange
+1259,Old,,,,,League Trophy,Training Hoodie,Green
+1260,Standard,,,,,Confetti,Flag,Blockasset
+1261,Young,Winner Hat,Sweat,,,,Managers Jacket,Green
+1262,Standard,BA Snapback,,,Wayfarers,League Trophy,Suit,Orange
+1263,Old,,,,,League Trophy,White Jersey,Black
+1264,Standard,Title Crown,England Paint,,Wayfarers,Yellow Ball,Flag,Green
+1265,Standard,,,,,Yellow Ball,White Jersey,Green
+1266,Standard,Winner Hat,England Paint,,,Captain Armband,Blue Jersey,Green
+1267,Standard,,,,,Yellow Ball,Blue Jersey,Red
+1268,Old,Wooly Hat,,,,Yellow Card,Astronaut,Red
+1269,Standard,Wooly Hat,,,,Confetti,Black Jersey,Green
+1270,Standard,,,Medal,,Medals,Blue Jersey,Green
+1271,Standard,,England Paint,,,,Red Jersey,Blue
+1272,Standard,Wooly Hat,,,,,Blue Jersey,Black
+1273,Standard,Wooly Hat,Sweat,Diamond Grill,Bloody Eye,Yellow Ball,Managers Jacket,Black
+1274,Standard,Wooly Hat,,,Laser Eyes,Boot Award,Training Hoodie,Orange
+1275,Standard,,England Paint,,Bloody Eye,Confetti,Training Hoodie,Red
+1276,Old,BA Snapback,Sweat,,,Diamond Ball,Blue Jersey,Black
+1277,Standard,Winner Hat,,,,Pigskin Ball,Training Hoodie,Red
+1278,Old,,,Gold Mouthguard,Bloody Eye,Confetti,Training Hoodie,Green
+1279,Standard,,England Paint,,Wayfarers,Confetti,Red Jersey Torn,Green
+1280,Standard,,Sweat,,Wayfarers,Yellow Card,White Jersey,Black
+1281,Standard,,,,,Medals,Blue Jersey,Black
+1282,Standard,BA Snapback,Sweat,,,,Red Jersey,Blockasset
+1283,Young,BA Snapback,,,Wayfarers,,Flag,Orange
+1284,Standard,BA Snapback,,,Wayfarers,Yellow Ball,Red Jersey,Green
+1285,Standard,Wooly Hat,,,Wayfarers,Yellow Card,Suit,Blue
+1286,Standard,BA Snapback,,Gold Mouthguard,Wayfarers,Confetti,Suit,Black
+1287,Standard,Winner Hat,,Medal,,Captain Armband,White Jersey,Black
+1288,Standard,,,,,Captain Armband,Red Jersey,Black
+1289,Old,,,Gold Mouthguard,,Yellow Ball,Blue Jersey,Green
+1290,Standard,,,,,Confetti,White Jersey,Blue
+1291,Old,Title Crown,Ad Beard,,Bloody Eye,,White Jersey,Black
+1292,Standard,,,,Wayfarers,Yellow Card,White Jersey,Red
+1293,Standard,,,,,Medals,Training Hoodie,Red
+1294,Old,Winner Hat,Ad Beard,,,Confetti,Training Hoodie,Black
+1295,Old,,,,,Confetti,Black Jersey,Red
+1296,Young,,,,Wayfarers,Confetti,White Jersey,Blue
+1297,Standard,Wooly Hat,,,Bloody Eye,,White Jersey,Blue
+1298,Standard,,,,,Yellow Card,Blue Jersey,Green
+1299,Old,BA Snapback,,Medal,,Medals,White Jersey,Orange
+1300,Standard,,,Gold Mouthguard,,Medals,Managers Jacket,Orange
+1301,Standard,BA Snapback,,,,Confetti,Managers Jacket,Orange
+1302,Standard,Winner Hat,,Medal,,,Suit,Blue
+1303,Standard,Title Crown,,,,Boot Award,Suit,Blockasset
+1304,Standard,,,,Bloody Eye,Yellow Ball,Training Hoodie,Black
+1305,Old,,,,,Pigskin Ball,Red Jersey,Blockasset
+1306,Standard,,Sweat,Diamond Grill,Wayfarers,European Trophy,Training Hoodie,Red
+1307,Standard,,,,Bloody Eye,European Trophy,Flag,Black
+1308,Standard,,Sweat,,,Medals,Suit,Red
+1309,Standard,,,Medal,Wayfarers,Medals,Training Hoodie,Red
+1310,Standard,,,,Bloody Eye,Yellow Card,White Jersey,Orange
+1311,Standard,Wooly Hat,England Paint,,Laser Eyes,,Training Hoodie,Green
+1312,Standard,Title Crown,,,,Yellow Card,Red Jersey,Red
+1313,Standard,BA Snapback,,Gold Mouthguard,Wayfarers,League Trophy,Suit,Team
+1314,Standard,,,Medal,Wayfarers,Captain Armband,Blue Jersey,Red
+1315,Standard,,,,,Diamond Ball,Red Jersey,Green
+1316,Standard,BA Snapback,Sweat,Gold Mouthguard,Wayfarers,Confetti,Training Hoodie,Orange
+1317,Standard,Winner Hat,,,,Yellow Card,Black Jersey,Green
+1318,Standard,BA Snapback,,,Bloody Eye,Medals,White Jersey,Green
+1319,Standard,Wooly Hat,,Medal,Bloody Eye,League Trophy,White Jersey,Green
+1320,Standard,BA Snapback,,,,Captain Armband,Red Jersey,Green
+1321,Old,,,Medal,,Medals,Suit,Red
+1322,Standard,,England Paint,Gold Mouthguard,,Boot Award,Red Jersey,Green
+1323,Old,,Sweat,,Wayfarers,European Trophy,Red Jersey,Team
+1324,Standard,BA Snapback,Sweat,,,Pigskin Ball,White Jersey,Red
+1325,Standard,,,,Bloody Eye,Pigskin Ball,Suit,Stadium
+1326,Standard,,,Medal,Wayfarers,Medals,Red Jersey,Blue
+1327,Standard,,,Medal,Laser Eyes,Confetti,Training Hoodie,Blue
+1328,Standard,,,,Bloody Eye,Pigskin Ball,White Jersey,Blue
+1329,Old,,,Gold Mouthguard,Wayfarers,,White Jersey,Red
+1330,Standard,,,,,Medals,Astronaut,Blue
+1331,Standard,Winner Hat,Sweat,,,Yellow Ball,Red Jersey,Red
+1332,Standard,,,,Laser Eyes,,White Jersey,Blockasset
+1333,Standard,,,,Wayfarers,,Suit,Green
+1334,Standard,,Sweat,,Bloody Eye,,Black Jersey,Orange
+1335,Standard,,,,,Confetti,Flag,Black
+1336,Standard,,,,,Yellow Ball,Red Jersey,Blockasset
+1337,Standard,,Sweat,,,Pigskin Ball,Managers Jacket,Green
+1338,Standard,Winner Hat,England Paint,,,Yellow Ball,Suit,Black
+1339,Standard,Winner Hat,,,,Yellow Card,Managers Jacket,Black
+1340,Standard,Winner Hat,Sweat,,,Confetti,Blue Jersey,Red
+1341,Old,,Sweat,,Wayfarers,Confetti,Blue Jersey,Blockasset
+1342,Old,Winner Hat,,Gold Mouthguard,,League Trophy,Training Hoodie,Red
+1343,Standard,,Sweat,Medal,,Medals,Suit,Team
+1344,Standard,,Sweat,,,Yellow Ball,Suit,Blue
+1345,Standard,Wooly Hat,Sweat,,Wayfarers,Yellow Ball,Managers Jacket,Green
+1346,Standard,BA Snapback,,,,Confetti,Blue Jersey,Orange
+1347,Standard,,,,,Yellow Card,White Jersey,Blue
+1348,Standard,,,Medal,Bloody Eye,Confetti,Blue Jersey,Blue
+1349,Standard,BA Snapback,,,Laser Eyes,League Trophy,Managers Jacket,Blue
+1350,Standard,,,,Bloody Eye,Yellow Card,Black Jersey,Orange
+1351,Standard,,,,Laser Eyes,European Trophy,White Jersey,Black
+1352,Standard,,,,Bloody Eye,European Trophy,Managers Jacket,Red
+1353,Standard,,,,,Medals,Black Jersey,Black
+1354,Old,,,,Bloody Eye,Pigskin Ball,Red Jersey,Black
+1355,Standard,Wooly Hat,,,,,Black Jersey,Green
+1356,Old,BA Snapback,,,,Medals,Training Hoodie,Red
+1357,Standard,BA Snapback,,Gold Mouthguard,Bloody Eye,Captain Armband,Suit,Green
+1358,Standard,Winner Hat,,,,Yellow Ball,White Jersey,Orange
+1359,Standard,Wooly Hat,,,,Captain Armband,Blue Jersey,Stadium
+1360,Standard,BA Snapback,Sweat,,,Boot Award,White Jersey,Black
+1361,Standard,Title Crown,,,Wayfarers,,Black Jersey,Green
+1362,Standard,,,,,Medals,White Jersey,Green
+1363,Standard,,,,,Captain Armband,Training Hoodie,Orange
+1364,Standard,,England Paint,,,Confetti,Suit,Black
+1365,Standard,Wooly Hat,Sweat,Medal,Bloody Eye,Yellow Ball,Red Jersey,Black
+1366,Standard,,Sweat,,Wayfarers,Confetti,Blue Jersey,Orange
+1367,Standard,BA Snapback,,,,Yellow Ball,White Jersey,Orange
+1368,Standard,,,,,,Red Jersey,Blue
+1369,Standard,Wooly Hat,,,,Pigskin Ball,Flag,Red
+1370,Standard,,,,,Captain Armband,Black Jersey,Blue
+1371,Standard,Wooly Hat,,,Laser Eyes,,White Jersey,Blue
+1372,Standard,Winner Hat,,,,Yellow Ball,Managers Jacket,Orange
+1373,Standard,,,Diamond Grill,Wayfarers,Medals,Black Jersey,Team
+1374,Standard,BA Snapback,,,,Medals,Red Jersey,Orange
+1375,Standard,,,Gold Mouthguard,,Yellow Ball,Suit,Black
+1376,Standard,,Sweat,,Laser Eyes,,Suit,Blue
+1377,Standard,,Sweat,Medal,,,Red Jersey Torn,Orange
+1378,Young,,,Medal,Bloody Eye,Yellow Ball,Suit,Red
+1379,Standard,Wooly Hat,,,,Pigskin Ball,White Jersey,Black
+1380,Standard,,England Paint,,,Yellow Ball,Suit,Blue
+1381,Standard,BA Snapback,Sweat,,Bloody Eye,Yellow Card,Blue Jersey,Red
+1382,Standard,,England Paint,,Wayfarers,Yellow Card,White Jersey,Green
+1383,Standard,Wooly Hat,,,Wayfarers,Medals,White Jersey,Red
+1384,Standard,,,,,Pigskin Ball,Suit,Green
+1385,Standard,Winner Hat,Sweat,,,Yellow Ball,Suit,Blue
+1386,Old,BA Snapback,,,,League Trophy,White Jersey,Black
+1387,Standard,Winner Hat,,,Wayfarers,Medals,Red Jersey,Green
+1388,Old,,,,,Yellow Ball,White Jersey,Blue
+1389,Standard,,,,,Confetti,Flag,Green
+1390,Young,,,Medal,Laser Eyes,Confetti,Red Jersey,Red
+1391,Standard,Winner Hat,,,,League Trophy,White Jersey,Green
+1392,Standard,,England Paint,,,Medals,Training Hoodie,Green
+1393,Standard,,,,,Pigskin Ball,Red Jersey,Black
+1394,Young,Wooly Hat,England Paint,Medal,,Medals,Red Jersey,Orange
+1395,Old,Wooly Hat,Sweat,,,Confetti,Blue Jersey,Blockasset
+1396,Standard,Wooly Hat,,,,Captain Armband,Managers Jacket,Red
+1397,Standard,,,Medal,Wayfarers,League Trophy,Suit,Red
+1398,Standard,Wooly Hat,Sweat,Gold Mouthguard,,Pigskin Ball,Red Jersey,Red
+1399,Standard,Winner Hat,Sweat,,,Captain Armband,Blue Jersey,Green
+1400,Standard,Wooly Hat,,,,Yellow Ball,Flag,Black
+1401,Standard,Winner Hat,,,,Pigskin Ball,Red Jersey Torn,Green
+1402,Standard,BA Snapback,,Diamond Grill,,Captain Armband,Suit,Green
+1403,Standard,,England Paint,Diamond Grill,,Medals,White Jersey,Orange
+1404,Young,,,Gold Mouthguard,,Pigskin Ball,Flag,Team
+1405,Standard,,,,,Captain Armband,Blue Jersey,Green
+1406,Old,,,,,Yellow Ball,Red Jersey,Green
+1407,Standard,,Sweat,,,Captain Armband,White Jersey,Blockasset
+1408,Standard,BA Snapback,,,Laser Eyes,Yellow Ball,Suit,Red
+1409,Standard,,,,,Yellow Ball,White Jersey,Red
+1410,Standard,,Sweat,,,League Trophy,Black Jersey,Green
+1411,Standard,,England Paint,,Wayfarers,Confetti,Red Jersey,Orange
+1412,Standard,BA Snapback,England Paint,Gold Mouthguard,,Pigskin Ball,Black Jersey,Orange
+1413,Standard,,Sweat,,Bloody Eye,Captain Armband,Red Jersey Torn,Orange
+1414,Standard,Wooly Hat,,,Wayfarers,European Trophy,White Jersey,Green
+1415,Old,BA Snapback,Sweat,,,,Blue Jersey,Black
+1416,Standard,,,,,League Trophy,Managers Jacket,Orange
+1417,Standard,,,Diamond Grill,Bloody Eye,Medals,Blue Jersey,Orange
+1418,Standard,,,,,Yellow Card,Training Hoodie,Orange
+1419,Standard,,Sweat,,,Yellow Card,Red Jersey,Orange
+1420,Standard,,,,Bloody Eye,Boot Award,White Jersey,Green
+1421,Standard,,,,,Pigskin Ball,Red Jersey,Black
+1422,Standard,,,Gold Mouthguard,,Medals,White Jersey,Green
+1423,Standard,,,,,Boot Award,Red Jersey,Green
+1424,Standard,,,,,Captain Armband,Red Jersey,Black
+1425,Standard,Wooly Hat,Sweat,Medal,Wayfarers,Medals,White Jersey,Black
+1426,Old,BA Snapback,Sweat,,,,Managers Jacket,Blue
+1427,Standard,Wooly Hat,,,Wayfarers,,Black Jersey,Orange
+1428,Standard,,,,Wayfarers,Yellow Ball,Blue Jersey,Red
+1429,Standard,Title Crown,Sweat,Diamond Grill,,Boot Award,Blue Jersey,Orange
+1430,Old,,,,Bloody Eye,Yellow Ball,Red Jersey,Red
+1431,Standard,,,,,Captain Armband,Suit,Orange
+1432,Old,,,,,Yellow Ball,White Jersey,Black
+1433,Standard,,,,,League Trophy,Black Jersey,Black
+1434,Standard,,England Paint,Medal,,,Training Hoodie,Red
+1435,Old,,,,Laser Eyes,,Blue Jersey,Green
+1436,Young,Wooly Hat,,,,,Black Jersey,Blue
+1437,Standard,,,,,League Trophy,Flag,Green
+1438,Standard,Wooly Hat,Sweat,,,Yellow Card,Red Jersey,Orange
+1439,Standard,,,,,Yellow Card,White Jersey,Green
+1440,Standard,,England Paint,Medal,,Yellow Ball,Suit,Green
+1441,Standard,Winner Hat,Sweat,,Laser Eyes,Yellow Ball,Managers Jacket,Red
+1442,Standard,,,,Bloody Eye,Captain Armband,Red Jersey Torn,Green
+1443,Old,,Sweat,Diamond Grill,,Pigskin Ball,Red Jersey,Red
+1444,Old,BA Snapback,,,Bloody Eye,Yellow Ball,Red Jersey,Orange
+1445,Standard,,,Gold Mouthguard,Wayfarers,Yellow Card,Red Jersey,Black
+1446,Standard,Title Crown,,Gold Mouthguard,Bloody Eye,Captain Armband,Blue Jersey,Orange
+1447,Old,,Sweat,,Laser Eyes,Yellow Ball,Managers Jacket,Green
+1448,Old,Title Crown,,,Laser Eyes,Medals,White Jersey,Team
+1449,Standard,,Sweat,,,Medals,Flag,Red
+1450,Old,,,Medal,,,Managers Jacket,Green
+1451,Standard,,,,Bloody Eye,,Red Jersey,Blue
+1452,Standard,Winner Hat,,,,Yellow Ball,Red Jersey Torn,Red
+1453,Standard,,,,Bloody Eye,Yellow Ball,Red Jersey,Orange
+1454,Standard,Wooly Hat,,Gold Mouthguard,,Yellow Ball,Black Jersey,Green
+1455,Standard,,,,,Confetti,White Jersey,Blue
+1456,Standard,Wooly Hat,Sweat,,,Pigskin Ball,Black Jersey,Black
+1457,Standard,Wooly Hat,,Diamond Grill,,,Suit,Red
+1458,Standard,,,,Wayfarers,Yellow Card,White Jersey,Red
+1459,Standard,,Sweat,,,Diamond Ball,Red Jersey,Red
+1460,Standard,BA Snapback,Sweat,,,Yellow Card,Flag,Orange
+1461,Standard,,,Gold Mouthguard,Wayfarers,Captain Armband,Suit,Green
+1462,Standard,,Sweat,,Wayfarers,Yellow Card,Training Hoodie,Black
+1463,Standard,Wooly Hat,,,,Captain Armband,White Jersey,Blue
+1464,Old,Winner Hat,,,,,White Jersey,Green
+1465,Standard,,,,,,Suit,Black
+1466,Standard,Wooly Hat,,Gold Mouthguard,,Medals,Black Jersey,Red
+1467,Standard,,,Medal,,,White Jersey,Black
+1468,Standard,Crown,,,Wayfarers,Medals,White Jersey,Green
+1469,Standard,BA Snapback,Sweat,Medal,Bloody Eye,European Trophy,Suit,Black
+1470,Standard,BA Snapback,Ad Beard,,Wayfarers,Medals,Red Jersey,Orange
+1471,Standard,BA Snapback,,,,Yellow Card,Black Jersey,Black
+1472,Standard,Winner Hat,,,,Yellow Ball,Red Jersey,Orange
+1473,Old,,,Gold Mouthguard,Bloody Eye,Pigskin Ball,Black Jersey,Black
+1474,Young,Winner Hat,,,,Confetti,Blue Jersey,Blockasset
+1475,Old,,Sweat,,,Medals,White Jersey,Black
+1476,Old,Winner Hat,,Gold Mouthguard,,,Red Jersey Torn,Orange
+1477,Standard,,,,Wayfarers,Yellow Ball,Blue Jersey,Red
+1478,Old,Wooly Hat,,,,Pigskin Ball,Training Hoodie,Black
+1479,Old,,Sweat,,Wayfarers,,Black Jersey,Red
+1480,Old,Wooly Hat,Sweat,,Wayfarers,Yellow Card,Black Jersey,Green
+1481,Standard,,,,Laser Eyes,Captain Armband,Suit,Black
+1482,Old,Wooly Hat,,Medal,,Pigskin Ball,Red Jersey Torn,Green
+1483,Standard,,,Medal,,Captain Armband,White Jersey,Blue
+1484,Standard,Title Crown,,,,Yellow Card,Red Jersey,Green
+1485,Standard,,,Diamond Grill,,,Suit,Red
+1486,Standard,,Sweat,Medal,,Medals,Suit,Black
+1487,Standard,Winner Hat,,,Wayfarers,Captain Armband,White Jersey,Team
+1488,Standard,,Sweat,,,Pigskin Ball,Managers Jacket,Blue
+1489,Standard,,,,,Yellow Card,Flag,Red
+1490,Standard,BA Snapback,Sweat,Gold Mouthguard,Wayfarers,Yellow Ball,Suit,Black
+1491,Standard,,England Paint,,,Pigskin Ball,Training Hoodie,Green
+1492,Young,,Sweat,,Wayfarers,Captain Armband,Red Jersey,Orange
+1493,Standard,,,,,Yellow Ball,White Jersey,Green
+1494,Standard,,Sweat,,Bloody Eye,Captain Armband,Training Hoodie,Green
+1495,Standard,,Sweat,,,League Trophy,Red Jersey,Red
+1496,Standard,Wooly Hat,,,,Confetti,White Jersey,Stadium
+1497,Standard,,,,Wayfarers,Medals,Red Jersey,Orange
+1498,Standard,Title Crown,,,,Confetti,Training Hoodie,Black
+1499,Standard,Title Crown,England Paint,,Wayfarers,League Trophy,Managers Jacket,Green
+1500,Standard,Winner Hat,,Gold Mouthguard,,League Trophy,Suit,Black
+1501,Standard,Wooly Hat,,,Wayfarers,Medals,Black Jersey,Green
+1502,Standard,Winner Hat,,,,Yellow Ball,Blue Jersey,Black
+1503,Standard,Wooly Hat,,,Bloody Eye,Yellow Card,Black Jersey,Orange
+1504,Standard,BA Snapback,,Medal,Bloody Eye,Captain Armband,Black Jersey,Green
+1505,Young,,,,Bloody Eye,Yellow Card,Training Hoodie,Blue
+1506,Standard,Title Crown,Sweat,,,Yellow Card,Training Hoodie,Team
+1507,Standard,BA Snapback,,,,Confetti,Blue Jersey,Blockasset
+1508,Standard,,,,Bloody Eye,Confetti,Black Jersey,Black
+1509,Standard,Winner Hat,,,,Pigskin Ball,Blue Jersey,Green
+1510,Standard,Title Crown,,Medal,,Yellow Ball,White Jersey,Black
+1511,Standard,Winner Hat,,,,European Trophy,Black Jersey,Black
+1512,Old,BA Snapback,,,Wayfarers,Confetti,Red Jersey,Red
+1513,Standard,Wooly Hat,,,Laser Eyes,,Red Jersey,Red
+1514,Young,,,,,Confetti,Black Jersey,Orange
+1515,Standard,,,,Wayfarers,Pigskin Ball,White Jersey,Red
+1516,Standard,Winner Hat,Sweat,,Laser Eyes,,Suit,Orange
+1517,Standard,Winner Hat,,,Bloody Eye,Diamond Ball,Managers Jacket,Black
+1518,Standard,Winner Hat,Sweat,,Laser Eyes,,Red Jersey Torn,Blockasset
+1519,Standard,,,,,European Trophy,Red Jersey,Blue
+1520,Standard,BA Snapback,,,,European Trophy,Blue Jersey,Orange
+1521,Old,,Sweat,,,,Red Jersey,Green
+1522,Standard,Crown,,,Bloody Eye,,Black Jersey,Orange
+1523,Old,,,,,League Trophy,Red Jersey,Green
+1524,Standard,,,,,Pigskin Ball,Red Jersey,Orange
+1525,Standard,Wooly Hat,,,,Yellow Ball,White Jersey,Red
+1526,Standard,,England Paint,,,,Training Hoodie,Black
+1527,Standard,,,,,League Trophy,Black Jersey,Orange
+1528,Standard,,Sweat,,,League Trophy,Blue Jersey,Orange
+1529,Standard,,,,Laser Eyes,,Suit,Green
+1530,Standard,Title Crown,,Medal,,Yellow Ball,Astronaut,Green
+1531,Old,,,,Wayfarers,Yellow Ball,White Jersey,Orange
+1532,Old,Winner Hat,,,,Yellow Card,Managers Jacket,Green
+1533,Standard,,,,Laser Eyes,Confetti,Blue Jersey,Team
+1534,Standard,,,,,,White Jersey,Blue
+1535,Old,,Sweat,,,Captain Armband,Training Hoodie,Red
+1536,Standard,,,Medal,Bloody Eye,League Trophy,Suit,Stadium
+1537,Old,,Sweat,,Wayfarers,,Black Jersey,Blockasset
+1538,Old,,,Medal,,Medals,Training Hoodie,Red
+1539,Standard,,,Diamond Grill,,Pigskin Ball,Flag,Green
+1540,Standard,BA Snapback,,,Laser Eyes,,Blue Jersey,Red
+1541,Standard,,,Medal,,League Trophy,Black Jersey,Red
+1542,Standard,,England Paint,,,Captain Armband,Blue Jersey,Black
+1543,Standard,,England Paint,,,Confetti,Training Hoodie,Red
+1544,Standard,,,,,Yellow Ball,Red Jersey,Black
+1545,Standard,BA Snapback,Sweat,,,European Trophy,Black Jersey,Orange
+1546,Standard,Winner Hat,,Medal,Wayfarers,Yellow Card,Red Jersey,Team
+1547,Standard,,Sweat,Diamond Grill,,Yellow Card,Flag,Black
+1548,Standard,BA Snapback,,Diamond Grill,Wayfarers,Yellow Ball,Training Hoodie,Green
+1549,Standard,Wooly Hat,,,,Captain Armband,White Jersey,Orange
+1550,Standard,,,,Wayfarers,Pigskin Ball,Black Jersey,Red
+1551,Standard,Winner Hat,,,,League Trophy,White Jersey,Orange
+1552,Standard,,,Diamond Grill,,Yellow Ball,Red Jersey,Red
+1553,Standard,Winner Hat,,,,Medals,Training Hoodie,Green
+1554,Standard,,,,,Yellow Ball,Training Hoodie,Orange
+1555,Standard,,,Medal,,,Managers Jacket,Orange
+1556,Standard,BA Snapback,,,,Medals,Suit,Blue
+1557,Standard,,Sweat,,Bloody Eye,Medals,Blue Jersey,Blue
+1558,Standard,,England Paint,,Laser Eyes,Medals,White Jersey,Stadium
+1559,Standard,Wooly Hat,,,,Captain Armband,Red Jersey,Black
+1560,Standard,,,,Laser Eyes,,Black Jersey,Black
+1561,Standard,Winner Hat,,,Wayfarers,Captain Armband,Flag,Blue
+1562,Standard,,Sweat,,,Medals,Astronaut,Blockasset
+1563,Standard,,Sweat,,,Confetti,Black Jersey,Black
+1564,Old,Wooly Hat,,,,,Blue Jersey,Orange
+1565,Standard,Title Crown,,,,,Red Jersey,Black
+1566,Standard,,,,Laser Eyes,Yellow Ball,Managers Jacket,Red
+1567,Old,,,Gold Mouthguard,,Confetti,Blue Jersey,Blue
+1568,Standard,,,,,League Trophy,Blue Jersey,Blue
+1569,Standard,BA Snapback,England Paint,,,League Trophy,Black Jersey,Black
+1570,Standard,,Sweat,Medal,,Boot Award,Suit,Blue
+1571,Standard,,England Paint,,,Pigskin Ball,Blue Jersey,Red
+1572,Standard,,England Paint,,,European Trophy,Suit,Red
+1573,Standard,BA Snapback,Sweat,,,Pigskin Ball,Red Jersey,Green
+1574,Standard,,,,,Yellow Ball,Suit,Orange
+1575,Standard,,,,,Captain Armband,Red Jersey,Green
+1576,Standard,,England Paint,,Bloody Eye,,Blue Jersey,Red
+1577,Standard,,,Gold Mouthguard,,Yellow Card,Blue Jersey,Red
+1578,Standard,,Sweat,Diamond Grill,,Confetti,Red Jersey,Green
+1579,Old,Wooly Hat,,Gold Mouthguard,Laser Eyes,Yellow Card,Blue Jersey,Red
+1580,Standard,,,Medal,,Pigskin Ball,White Jersey,Black
+1581,Standard,,,,,Yellow Card,White Jersey,Green
+1582,Standard,Wooly Hat,,,Wayfarers,Yellow Ball,Blue Jersey,Orange
+1583,Standard,,,,Bloody Eye,Yellow Ball,Red Jersey,Blockasset
+1584,Young,BA Snapback,,,Wayfarers,Captain Armband,White Jersey,Black
+1585,Standard,Title Crown,,,Wayfarers,Yellow Card,Red Jersey,Blockasset
+1586,Standard,Title Crown,Ad Beard,,,,Managers Jacket,Black
+1587,Standard,,,,,Captain Armband,Red Jersey,Red
+1588,Standard,,England Paint,Medal,Bloody Eye,Pigskin Ball,White Jersey,Red
+1589,Old,,Ad Beard,,,,Blue Jersey,Black
+1590,Standard,,England Paint,Gold Mouthguard,Wayfarers,Pigskin Ball,Training Hoodie,Blue
+1591,Old,,,Gold Mouthguard,,Yellow Ball,Red Jersey,Blue
+1592,Standard,Wooly Hat,,,,Yellow Ball,Blue Jersey,Red
+1593,Standard,,,,,Pigskin Ball,Red Jersey,Orange
+1594,Standard,Winner Hat,,Medal,,,Red Jersey Torn,Red
+1595,Standard,,,,,Captain Armband,White Jersey,Black
+1596,Standard,BA Snapback,,,,Yellow Card,Blue Jersey,Blue
+1597,Standard,,,,,Yellow Card,Suit,Red
+1598,Standard,Wooly Hat,England Paint,,,Captain Armband,White Jersey,Blockasset
+1599,Old,,,,,Yellow Ball,White Jersey,Black
+1600,Standard,,,,Laser Eyes,Yellow Card,Black Jersey,Blue
+1601,Standard,,Sweat,Gold Mouthguard,,Yellow Card,White Jersey,Orange
+1602,Standard,Winner Hat,,,Wayfarers,,Training Hoodie,Black
+1603,Standard,,,,Wayfarers,Yellow Ball,Suit,Orange
+1604,Standard,,,Diamond Grill,,,White Jersey,Green
+1605,Standard,BA Snapback,,Gold Mouthguard,,,Red Jersey,Green
+1606,Standard,,Sweat,Medal,,Yellow Ball,Blue Jersey,Blockasset
+1607,Old,BA Snapback,,,Bloody Eye,,White Jersey,Blockasset
+1608,Standard,,England Paint,,Laser Eyes,Yellow Ball,Suit,Green
+1609,Standard,,Sweat,,,Yellow Ball,Training Hoodie,Orange
+1610,Standard,,,,,European Trophy,Blue Jersey,Blockasset
+1611,Standard,,,,Bloody Eye,,White Jersey,Green
+1612,Standard,,,,,Captain Armband,Red Jersey,Red
+1613,Standard,,England Paint,Gold Mouthguard,,Yellow Ball,Black Jersey,Black
+1614,Standard,Wooly Hat,,Gold Mouthguard,,Yellow Card,Suit,Black
+1615,Old,,,Diamond Grill,,Yellow Ball,Black Jersey,Orange
+1616,Standard,,,,,Yellow Card,Blue Jersey,Black
+1617,Standard,,,,,Yellow Ball,Red Jersey,Blockasset
+1618,Standard,BA Snapback,,Medal,,,White Jersey,Green
+1619,Standard,,,Gold Mouthguard,,Pigskin Ball,White Jersey,Black
+1620,Standard,BA Snapback,Ad Beard,,,Yellow Ball,Blue Jersey,Blue
+1621,Standard,,,,,,Training Hoodie,Red
+1622,Standard,Title Crown,,,Wayfarers,,Managers Jacket,Green
+1623,Old,,,,Laser Eyes,Pigskin Ball,White Jersey,Black
+1624,Standard,,Sweat,,Laser Eyes,,Red Jersey,Green
+1625,Old,,,,,Pigskin Ball,Suit,Black
+1626,Standard,Crown,,,Wayfarers,Medals,Black Jersey,Black
+1627,Standard,Winner Hat,,,Wayfarers,Yellow Ball,Blue Jersey,Red
+1628,Standard,,,,Bloody Eye,Confetti,Flag,Black
+1629,Standard,,,,Wayfarers,,White Jersey,Team
+1630,Standard,,,Gold Mouthguard,Wayfarers,Yellow Card,Red Jersey,Blockasset
+1631,Standard,,Sweat,Medal,Bloody Eye,Yellow Card,Red Jersey,Black
+1632,Old,,,,,Captain Armband,Managers Jacket,Red
+1633,Standard,,,Gold Mouthguard,Wayfarers,Yellow Ball,White Jersey,Black
+1634,Standard,BA Snapback,,Gold Mouthguard,Wayfarers,Yellow Ball,White Jersey,Red
+1635,Old,BA Snapback,,Gold Mouthguard,,,Black Jersey,Green
+1636,Standard,,Ad Beard,Gold Mouthguard,,Yellow Card,Red Jersey Torn,Orange
+1637,Old,Title Crown,,,,Confetti,Blue Jersey,Team
+1638,Standard,Wooly Hat,,,,Pigskin Ball,Blue Jersey,Orange
+1639,Standard,,,,,League Trophy,Red Jersey,Red
+1640,Young,BA Snapback,,Diamond Grill,,League Trophy,Suit,Red
+1641,Standard,Winner Hat,,,Wayfarers,,White Jersey,Green
+1642,Standard,Wooly Hat,,,,Captain Armband,Managers Jacket,Blue
+1643,Standard,Winner Hat,,,,Confetti,Red Jersey,Red
+1644,Standard,,Sweat,,Bloody Eye,Medals,Training Hoodie,Red
+1645,Standard,,,,Wayfarers,Pigskin Ball,Astronaut,Orange
+1646,Standard,,,,Bloody Eye,League Trophy,Red Jersey,Blockasset
+1647,Old,Wooly Hat,Sweat,,,,White Jersey,Red
+1648,Standard,,Sweat,,,Captain Armband,White Jersey,Black
+1649,Standard,Winner Hat,,Medal,,Yellow Card,Flag,Blue
+1650,Old,Wooly Hat,Sweat,Gold Mouthguard,,Pigskin Ball,Black Jersey,Green
+1651,Standard,,,Gold Mouthguard,,Pigskin Ball,Suit,Red
+1652,Standard,BA Snapback,,,,Yellow Card,Blue Jersey,Green
+1653,Standard,,Sweat,,,Medals,Blue Jersey,Orange
+1654,Standard,,England Paint,Medal,,Captain Armband,White Jersey,Green
+1655,Standard,Wooly Hat,,Gold Mouthguard,,Yellow Ball,Training Hoodie,Black
+1656,Old,,,Medal,,Pigskin Ball,Red Jersey,Green
+1657,Standard,,England Paint,Medal,,Medals,Managers Jacket,Orange
+1658,Standard,,,,Laser Eyes,Yellow Ball,Suit,Red
+1659,Standard,Winner Hat,,,Wayfarers,Captain Armband,Black Jersey,Green
+1660,Standard,,Sweat,,,Medals,Red Jersey,Blue
+1661,Old,Title Crown,,,Wayfarers,Yellow Ball,Training Hoodie,Black
+1662,Standard,Winner Hat,England Paint,,,Medals,Blue Jersey,Black
+1663,Standard,,,,,Medals,Suit,Green
+1664,Standard,,Sweat,Gold Mouthguard,Bloody Eye,Confetti,White Jersey,Green
+1665,Standard,,,Medal,Wayfarers,Confetti,Suit,Blue
+1666,Standard,,,,Laser Eyes,Medals,White Jersey,Red
+1667,Standard,,,,Bloody Eye,Yellow Card,Red Jersey,Red
+1668,Standard,,,,Wayfarers,Confetti,Red Jersey Torn,Black
+1669,Standard,,,,,Pigskin Ball,Training Hoodie,Orange
+1670,Young,Title Crown,,,Laser Eyes,League Trophy,Training Hoodie,Green
+1671,Standard,,Sweat,,Wayfarers,Medals,Red Jersey Torn,Red
+1672,Standard,Winner Hat,,Medal,,Pigskin Ball,Red Jersey,Red
+1673,Standard,,,,Wayfarers,Yellow Card,Black Jersey,Red
+1674,Standard,,,,Laser Eyes,Captain Armband,White Jersey,Red
+1675,Standard,BA Snapback,England Paint,Medal,,Yellow Ball,Suit,Black
+1676,Standard,BA Snapback,,Gold Mouthguard,,Medals,Black Jersey,Red
+1677,Standard,,,Gold Mouthguard,,Pigskin Ball,Managers Jacket,Orange
+1678,Standard,BA Snapback,,,,,Black Jersey,Red
+1679,Standard,,,Diamond Grill,Wayfarers,,Red Jersey,Orange
+1680,Standard,BA Snapback,,Gold Mouthguard,,Medals,Red Jersey,Black
+1681,Old,Wooly Hat,,Medal,,Medals,Blue Jersey,Blue
+1682,Standard,Wooly Hat,,,,Yellow Ball,Black Jersey,Blockasset
+1683,Standard,,England Paint,Medal,,Pigskin Ball,Training Hoodie,Red
+1684,Old,BA Snapback,,,,,Training Hoodie,Red
+1685,Standard,Wooly Hat,,,Wayfarers,Confetti,Blue Jersey,Blue
+1686,Standard,Winner Hat,,,Wayfarers,Confetti,Suit,Blue
+1687,Standard,Wooly Hat,Sweat,Diamond Grill,,Yellow Ball,Flag,Blue
+1688,Standard,,,,,League Trophy,Suit,Red
+1689,Standard,BA Snapback,,Medal,Wayfarers,Medals,Red Jersey,Orange
+1690,Standard,,,Gold Mouthguard,,,Red Jersey,Black
+1691,Standard,BA Snapback,,,,Yellow Card,Suit,Orange
+1692,Standard,Winner Hat,,Medal,,Captain Armband,Red Jersey,Red
+1693,Standard,Wooly Hat,,Medal,Bloody Eye,Diamond Ball,Training Hoodie,Stadium
+1694,Standard,,,,,Yellow Ball,Training Hoodie,Green
+1695,Standard,BA Snapback,,,,Yellow Card,White Jersey,Green
+1696,Standard,,,,,,Blue Jersey,Green
+1697,Standard,BA Snapback,,,Wayfarers,Yellow Ball,White Jersey,Black
+1698,Standard,,Sweat,Medal,,Pigskin Ball,Black Jersey,Red
+1699,Standard,Wooly Hat,Sweat,Medal,,Yellow Ball,Training Hoodie,Black
+1700,Standard,BA Snapback,,,,,Flag,Orange
+1701,Old,,,,Bloody Eye,Yellow Card,Managers Jacket,Red
+1702,Standard,,,,,Yellow Ball,Suit,Black
+1703,Old,,Sweat,,Bloody Eye,Medals,White Jersey,Green
+1704,Standard,BA Snapback,Sweat,,Bloody Eye,Yellow Card,White Jersey,Red
+1705,Standard,,,,,,Blue Jersey,Orange
+1706,Old,,Sweat,Medal,Laser Eyes,Confetti,Blue Jersey,Black
+1707,Standard,,,Medal,Bloody Eye,Yellow Ball,Red Jersey,Green
+1708,Old,Title Crown,,Medal,,,Managers Jacket,Black
+1709,Standard,Winner Hat,,,Laser Eyes,Pigskin Ball,Blue Jersey,Black
+1710,Standard,,,Gold Mouthguard,,Pigskin Ball,Training Hoodie,Orange
+1711,Standard,,Sweat,,Wayfarers,Pigskin Ball,Blue Jersey,Blue
+1712,Standard,BA Snapback,,,,Confetti,Managers Jacket,Orange
+1713,Standard,,Sweat,,,Pigskin Ball,Red Jersey,Red
+1714,Standard,Title Crown,Sweat,,Wayfarers,Yellow Card,Red Jersey,Team
+1715,Standard,Wooly Hat,,Medal,,Yellow Card,Blue Jersey,Red
+1716,Standard,Wooly Hat,,Gold Mouthguard,Bloody Eye,Yellow Ball,Suit,Team
+1717,Standard,Wooly Hat,England Paint,Gold Mouthguard,,,Blue Jersey,Green
+1718,Standard,BA Snapback,,,,,Red Jersey,Red
+1719,Standard,Winner Hat,,Gold Mouthguard,Bloody Eye,Captain Armband,Training Hoodie,Orange
+1720,Standard,,,Medal,,Medals,Training Hoodie,Red
+1721,Standard,,,Gold Mouthguard,,Medals,Red Jersey,Orange
+1722,Standard,,,,,League Trophy,White Jersey,Green
+1723,Standard,Winner Hat,,,,League Trophy,White Jersey,Green
+1724,Standard,,England Paint,Diamond Grill,Wayfarers,Yellow Ball,Training Hoodie,Black
+1725,Standard,Wooly Hat,,,,,White Jersey,Green
+1726,Standard,,Sweat,Medal,Wayfarers,League Trophy,Red Jersey,Blue
+1727,Old,BA Snapback,,Medal,,,Black Jersey,Orange
+1728,Standard,,Sweat,Gold Mouthguard,Bloody Eye,Confetti,Training Hoodie,Red
+1729,Standard,,,Medal,,,Suit,Red
+1730,Old,Wooly Hat,,Medal,,Medals,Black Jersey,Green
+1731,Standard,,England Paint,Medal,,Yellow Ball,Black Jersey,Blue
+1732,Standard,,,,,Yellow Ball,Black Jersey,Blockasset
+1733,Standard,Wooly Hat,,,,League Trophy,Red Jersey,Red
+1734,Standard,,Sweat,,Wayfarers,Captain Armband,Suit,Green
+1735,Standard,,,,,European Trophy,White Jersey,Blue
+1736,Standard,,,,,,Red Jersey,Red
+1737,Standard,,,,,Captain Armband,Blue Jersey,Blue
+1738,Standard,,,,,League Trophy,Suit,Orange
+1739,Standard,Title Crown,,,,Yellow Ball,Black Jersey,Orange
+1740,Standard,Title Crown,,,,Boot Award,Black Jersey,Red
+1741,Standard,,,,,Pigskin Ball,Blue Jersey,Orange
+1742,Young,,Sweat,,,Yellow Ball,White Jersey,Green
+1743,Standard,,,Diamond Grill,,Yellow Ball,Black Jersey,Orange
+1744,Standard,,Ad Beard,,Bloody Eye,Medals,Blue Jersey,Blue
+1745,Standard,,England Paint,,Wayfarers,,Blue Jersey,Team
+1746,Standard,BA Snapback,,,,Yellow Card,Managers Jacket,Blockasset
+1747,Standard,,England Paint,,Laser Eyes,Yellow Ball,Blue Jersey,Orange
+1748,Standard,,,Gold Mouthguard,,Confetti,Blue Jersey,Black
+1749,Standard,,,Diamond Grill,,Boot Award,Blue Jersey,Orange
+1750,Standard,Wooly Hat,,,Bloody Eye,Pigskin Ball,Managers Jacket,Blue
+1751,Standard,,,,,European Trophy,White Jersey,Blue
+1752,Standard,,England Paint,,,Yellow Card,White Jersey,Orange
+1753,Standard,BA Snapback,,,Wayfarers,Yellow Ball,White Jersey,Orange
+1754,Standard,BA Snapback,,,,Medals,Red Jersey,Orange
+1755,Standard,BA Snapback,,,Bloody Eye,Captain Armband,Red Jersey,Green
+1756,Standard,,,,Wayfarers,League Trophy,Suit,Red
+1757,Standard,Winner Hat,,,,,Red Jersey,Blockasset
+1758,Standard,Wooly Hat,,,Bloody Eye,Yellow Ball,Black Jersey,Green
+1759,Standard,Title Crown,,,,Yellow Card,Training Hoodie,Orange
+1760,Standard,Winner Hat,,Gold Mouthguard,,Pigskin Ball,Blue Jersey,Red
+1761,Standard,,Sweat,,,League Trophy,Black Jersey,Black
+1762,Standard,BA Snapback,,,,Medals,Red Jersey,Blue
+1763,Standard,Wooly Hat,,Gold Mouthguard,,Confetti,Suit,Red
+1764,Standard,BA Snapback,England Paint,,,Medals,Blue Jersey,Orange
+1765,Standard,Winner Hat,,Medal,,Boot Award,Suit,Blue
+1766,Standard,,,Gold Mouthguard,,League Trophy,Suit,Black
+1767,Standard,,,Medal,,Yellow Card,Blue Jersey,Orange
+1768,Standard,Wooly Hat,,,Bloody Eye,Yellow Card,Red Jersey,Green
+1769,Standard,Winner Hat,,,,Captain Armband,Red Jersey,Orange
+1770,Standard,,,Gold Mouthguard,,Medals,White Jersey,Red
+1771,Standard,Crown,,,,Yellow Ball,White Jersey,Team
+1772,Standard,,England Paint,,,Pigskin Ball,Astronaut,Red
+1773,Standard,BA Snapback,Ad Beard,,Laser Eyes,Yellow Card,White Jersey,Team
+1774,Old,,,,Bloody Eye,Medals,Red Jersey,Blue
+1775,Standard,BA Snapback,Sweat,,Laser Eyes,Yellow Ball,Training Hoodie,Red
+1776,Standard,,Sweat,,Laser Eyes,Yellow Card,Astronaut,Red
+1777,Standard,,,,Bloody Eye,,Blue Jersey,Black
+1778,Standard,Title Crown,Sweat,,,Captain Armband,Suit,Green
+1779,Old,Wooly Hat,,,,Yellow Card,Black Jersey,Black
+1780,Old,,,,Wayfarers,Medals,Suit,Black
+1781,Standard,,,Gold Mouthguard,,Yellow Card,White Jersey,Black
+1782,Standard,Winner Hat,,,Wayfarers,Yellow Ball,Managers Jacket,Red
+1783,Standard,,,,,Pigskin Ball,White Jersey,Black
+1784,Standard,Wooly Hat,,,,Yellow Ball,Red Jersey,Orange
+1785,Old,,,,,Confetti,White Jersey,Orange
+1786,Standard,Title Crown,,,,,Training Hoodie,Blockasset
+1787,Standard,Winner Hat,,,Wayfarers,Confetti,Suit,Blue
+1788,Standard,,Sweat,,,Yellow Card,Red Jersey,Red
+1789,Standard,,Sweat,,Wayfarers,Captain Armband,White Jersey,Orange
+1790,Standard,,England Paint,Gold Mouthguard,,Captain Armband,Suit,Orange
+1791,Standard,Wooly Hat,,Medal,,European Trophy,Blue Jersey,Team
+1792,Standard,,Sweat,,,Captain Armband,White Jersey,Black
+1793,Standard,Title Crown,Sweat,,,Medals,Blue Jersey,Red
+1794,Standard,,,,,Yellow Ball,White Jersey,Blue
+1795,Standard,Winner Hat,,,Laser Eyes,Medals,Suit,Blockasset
+1796,Old,,Ad Beard,,,Pigskin Ball,Blue Jersey,Green
+1797,Standard,,,Medal,,Medals,Managers Jacket,Green
+1798,Standard,,,,Wayfarers,Yellow Ball,Red Jersey,Black
+1799,Standard,,Sweat,,,European Trophy,Training Hoodie,Red
+1800,Standard,Winner Hat,,,Wayfarers,Yellow Card,Red Jersey,Green
+1801,Standard,,,,,Boot Award,White Jersey,Blue
+1802,Standard,BA Snapback,,Medal,Wayfarers,Confetti,Black Jersey,Team
+1803,Young,BA Snapback,Sweat,,Wayfarers,Yellow Ball,Training Hoodie,Red
+1804,Standard,,,Medal,,Medals,White Jersey,Orange
+1805,Standard,,Sweat,Medal,Bloody Eye,,Red Jersey,Green
+1806,Standard,,,,,European Trophy,Suit,Red
+1807,Old,,,Medal,,Captain Armband,Black Jersey,Red
+1808,Young,,Sweat,,,Captain Armband,Red Jersey,Green
+1809,Standard,Winner Hat,England Paint,Diamond Grill,Wayfarers,Confetti,Red Jersey,Blockasset
+1810,Standard,,Sweat,Diamond Grill,Wayfarers,Captain Armband,Suit,Green
+1811,Old,,,Diamond Grill,,League Trophy,Flag,Black
+1812,Standard,,,Gold Mouthguard,,Yellow Ball,White Jersey,Green
+1813,Standard,BA Snapback,,,,Captain Armband,Red Jersey,Red
+1814,Standard,,,Medal,Wayfarers,Yellow Ball,Black Jersey,Red
+1815,Standard,BA Snapback,,,Wayfarers,European Trophy,Red Jersey,Green
+1816,Standard,Wooly Hat,,,,Medals,Managers Jacket,Blockasset
+1817,Old,,,,Bloody Eye,Yellow Card,Blue Jersey,Green
+1818,Standard,,,Medal,,Medals,Suit,Orange
+1819,Standard,,,,Laser Eyes,,White Jersey,Red
+1820,Standard,Crown,,Gold Mouthguard,,,Red Jersey Torn,Green
+1821,Standard,,Sweat,,,Captain Armband,Red Jersey,Red
+1822,Young,,,,,Medals,Blue Jersey,Green
+1823,Standard,BA Snapback,,,Wayfarers,,White Jersey,Black
+1824,Old,,Sweat,,Wayfarers,Medals,Black Jersey,Team
+1825,Standard,Wooly Hat,Sweat,,,Medals,Training Hoodie,Red
+1826,Young,,,,Wayfarers,Captain Armband,Blue Jersey,Black
+1827,Old,Wooly Hat,,Gold Mouthguard,,Yellow Card,Black Jersey,Blue
+1828,Standard,Wooly Hat,,,Wayfarers,,White Jersey,Red
+1829,Standard,BA Snapback,,Medal,Wayfarers,,Suit,Red
+1830,Standard,BA Snapback,,,,Pigskin Ball,White Jersey,Blue
+1831,Standard,Winner Hat,,,Wayfarers,Captain Armband,Blue Jersey,Orange
+1832,Old,Wooly Hat,Sweat,Medal,,,Flag,Black
+1833,Standard,BA Snapback,,,Wayfarers,Yellow Card,White Jersey,Blockasset
+1834,Standard,Title Crown,Sweat,,,Confetti,Black Jersey,Black
+1835,Standard,,,,,Captain Armband,White Jersey,Black
+1836,Standard,,,Medal,Wayfarers,Yellow Ball,Managers Jacket,Red
+1837,Standard,Winner Hat,,,Wayfarers,League Trophy,Suit,Blue
+1838,Standard,BA Snapback,,,,Diamond Ball,Suit,Black
+1839,Old,,Sweat,,Bloody Eye,Yellow Ball,Black Jersey,Green
+1840,Old,Winner Hat,Sweat,,Wayfarers,Yellow Ball,White Jersey,Green
+1841,Standard,,England Paint,,,Captain Armband,Training Hoodie,Black
+1842,Standard,Winner Hat,,,,Medals,Blue Jersey,Red
+1843,Young,,,,Bloody Eye,Yellow Ball,White Jersey,Red
+1844,Standard,,,,,Pigskin Ball,Black Jersey,Black
+1845,Standard,Title Crown,,,,,Blue Jersey,Green
+1846,Standard,,,,Wayfarers,,Red Jersey,Orange
+1847,Standard,,Sweat,Diamond Grill,,Yellow Ball,White Jersey,Green
+1848,Standard,BA Snapback,,,,European Trophy,Red Jersey Torn,Black
+1849,Standard,,,,,Captain Armband,Black Jersey,Red
+1850,Standard,Winner Hat,,,,Captain Armband,Flag,Blue
+1851,Standard,,England Paint,,Bloody Eye,Yellow Ball,Managers Jacket,Orange
+1852,Old,,,Gold Mouthguard,,,Black Jersey,Team
+1853,Standard,,,Gold Mouthguard,,European Trophy,Black Jersey,Black
+1854,Standard,,England Paint,,,Pigskin Ball,Suit,Black
+1855,Standard,,England Paint,,,,Blue Jersey,Blue
+1856,Old,,,,,Captain Armband,White Jersey,Green
+1857,Young,Winner Hat,England Paint,,,European Trophy,Suit,Blockasset
+1858,Standard,Winner Hat,,Gold Mouthguard,,Yellow Card,Red Jersey,Red
+1859,Standard,Winner Hat,,,,Captain Armband,Suit,Orange
+1860,Standard,Winner Hat,,Diamond Grill,,Yellow Card,Blue Jersey,Red
+1861,Standard,Title Crown,,,Laser Eyes,Yellow Ball,Suit,Blue
+1862,Standard,Wooly Hat,,,,Confetti,Managers Jacket,Blue
+1863,Old,,Sweat,,,Medals,Black Jersey,Orange
+1864,Standard,Crown,,,Bloody Eye,European Trophy,Flag,Black
+1865,Old,,,Gold Mouthguard,,Captain Armband,White Jersey,Black
+1866,Standard,,Sweat,,Bloody Eye,Yellow Card,Suit,Stadium
+1867,Standard,,,,,Yellow Card,Managers Jacket,Blue
+1868,Standard,Wooly Hat,England Paint,,,Captain Armband,Managers Jacket,Red
+1869,Standard,,England Paint,Gold Mouthguard,Wayfarers,Yellow Ball,Suit,Green
+1870,Standard,,Sweat,,Bloody Eye,League Trophy,Red Jersey,Green
+1871,Standard,Wooly Hat,,Gold Mouthguard,,Confetti,Training Hoodie,Black
+1872,Standard,,,,,Captain Armband,Red Jersey,Team
+1873,Standard,Title Crown,,,,League Trophy,Flag,Black
+1874,Old,BA Snapback,,,Wayfarers,Pigskin Ball,Red Jersey,Red
+1875,Standard,,England Paint,Medal,,Yellow Card,Blue Jersey,Red
+1876,Standard,,England Paint,,,Yellow Card,Black Jersey,Green
+1877,Standard,Winner Hat,England Paint,Medal,,,Managers Jacket,Red
+1878,Old,,,,,Boot Award,Black Jersey,Orange
+1879,Standard,,England Paint,,,European Trophy,Red Jersey,Black
+1880,Standard,BA Snapback,,,Bloody Eye,Medals,White Jersey,Green
+1881,Standard,,,,Bloody Eye,,Red Jersey,Red
+1882,Standard,,,,Wayfarers,Yellow Card,White Jersey,Blue
+1883,Standard,,,,,Medals,Black Jersey,Red
+1884,Standard,Wooly Hat,,,,League Trophy,White Jersey,Orange
+1885,Standard,,,,,Yellow Ball,White Jersey,Green
+1886,Standard,,Sweat,Medal,Bloody Eye,,White Jersey,Stadium
+1887,Standard,,,,,,Training Hoodie,Orange
+1888,Standard,Wooly Hat,,,,Captain Armband,Red Jersey,Team
+1889,Young,,,Medal,,Medals,Red Jersey,Orange
+1890,Standard,Winner Hat,Sweat,,Bloody Eye,Medals,Black Jersey,Blockasset
+1891,Standard,,,,Wayfarers,Boot Award,Red Jersey,Black
+1892,Standard,BA Snapback,,Gold Mouthguard,,Pigskin Ball,Training Hoodie,Orange
+1893,Standard,,,Medal,,Yellow Ball,Training Hoodie,Red
+1894,Young,,,,,Pigskin Ball,White Jersey,Black
+1895,Standard,BA Snapback,,Gold Mouthguard,,Yellow Card,White Jersey,Red
+1896,Standard,BA Snapback,,,,Yellow Card,Blue Jersey,Red
+1897,Standard,Winner Hat,Sweat,,Wayfarers,Pigskin Ball,Suit,Red
+1898,Standard,,,,,Pigskin Ball,Blue Jersey,Green
+1899,Standard,Wooly Hat,England Paint,Diamond Grill,,Yellow Card,White Jersey,Blockasset
+1900,Standard,,,,,Medals,Training Hoodie,Orange
+1901,Old,Wooly Hat,,,Bloody Eye,Yellow Ball,Red Jersey,Blue
+1902,Old,,,Gold Mouthguard,,,White Jersey,Red
+1903,Standard,,England Paint,,Laser Eyes,Captain Armband,Black Jersey,Team
+1904,Old,,,,,Captain Armband,White Jersey,Blue
+1905,Standard,,,,,,Red Jersey,Black
+1906,Standard,,,,,Captain Armband,Red Jersey,Blue
+1907,Standard,Wooly Hat,England Paint,,Wayfarers,Captain Armband,Suit,Red
+1908,Standard,Winner Hat,,Gold Mouthguard,,Medals,Blue Jersey,Blue
+1909,Standard,BA Snapback,Ad Beard,,,Medals,Training Hoodie,Green
+1910,Standard,Winner Hat,,,Bloody Eye,Yellow Card,Black Jersey,Red
+1911,Standard,,Sweat,Gold Mouthguard,,League Trophy,Red Jersey,Green
+1912,Young,BA Snapback,,,,Captain Armband,Training Hoodie,Red
+1913,Standard,Wooly Hat,,,,Confetti,White Jersey,Green
+1914,Young,,,,,Pigskin Ball,Blue Jersey,Red
+1915,Standard,,,Medal,,Medals,Suit,Blue
+1916,Standard,,,,,League Trophy,Suit,Black
+1917,Standard,,,,Wayfarers,Pigskin Ball,Blue Jersey,Blue
+1918,Standard,,Sweat,,Bloody Eye,Yellow Card,Training Hoodie,Red
+1919,Standard,,,,,Captain Armband,Blue Jersey,Black
+1920,Standard,Wooly Hat,Sweat,,,League Trophy,Flag,Green
+1921,Standard,Wooly Hat,,,Wayfarers,,White Jersey,Green
+1922,Standard,,Sweat,,Wayfarers,Captain Armband,Training Hoodie,Black
+1923,Standard,Wooly Hat,,Gold Mouthguard,Wayfarers,European Trophy,Red Jersey Torn,Orange
+1924,Standard,,,,,Confetti,White Jersey,Black
+1925,Standard,Wooly Hat,,,,Medals,Suit,Orange
+1926,Standard,,,,,Confetti,Red Jersey,Orange
+1927,Standard,,Sweat,,,Yellow Ball,Suit,Black
+1928,Standard,BA Snapback,,,,Pigskin Ball,Flag,Black
+1929,Standard,,,,,European Trophy,Managers Jacket,Orange
+1930,Young,,,,,Pigskin Ball,White Jersey,Blue
+1931,Standard,,,Gold Mouthguard,,Pigskin Ball,Managers Jacket,Black
+1932,Standard,Wooly Hat,,,Wayfarers,Confetti,Red Jersey,Red
+1933,Old,BA Snapback,,Gold Mouthguard,,Yellow Ball,White Jersey,Red
+1934,Standard,BA Snapback,,,,,Managers Jacket,Green
+1935,Standard,Winner Hat,,,,,Suit,Red
+1936,Young,,,,,Captain Armband,Managers Jacket,Black
+1937,Standard,BA Snapback,England Paint,,Bloody Eye,Confetti,White Jersey,Black
+1938,Standard,,,,,Yellow Ball,Blue Jersey,Orange
+1939,Standard,,,Medal,,Confetti,Flag,Orange
+1940,Standard,,Sweat,,,Yellow Card,Red Jersey,Red
+1941,Standard,,,,Bloody Eye,Confetti,Black Jersey,Orange
+1942,Standard,,Ad Beard,Gold Mouthguard,Bloody Eye,,Black Jersey,Red
+1943,Old,,,Medal,,Captain Armband,Suit,Green
+1944,Standard,,,Medal,,Yellow Card,Managers Jacket,Black
+1945,Young,,Sweat,,Wayfarers,Yellow Ball,White Jersey,Blockasset
+1946,Standard,,,Medal,,Yellow Ball,Flag,Team
+1947,Standard,,,,Laser Eyes,Yellow Ball,White Jersey,Green
+1948,Standard,Crown,,Medal,,Pigskin Ball,Managers Jacket,Black
+1949,Standard,,,,,,White Jersey,Blue
+1950,Standard,BA Snapback,,,Wayfarers,European Trophy,Suit,Black
+1951,Standard,Winner Hat,Ad Beard,,,European Trophy,Blue Jersey,Green
+1952,Old,BA Snapback,,,,Pigskin Ball,White Jersey,Black
+1953,Standard,,,,,Pigskin Ball,Blue Jersey,Black
+1954,Standard,,Sweat,,Wayfarers,,Suit,Black
+1955,Standard,Wooly Hat,,,Wayfarers,Confetti,Red Jersey,Red
+1956,Standard,Title Crown,Ad Beard,,Bloody Eye,Captain Armband,Red Jersey,Green
+1957,Old,,,Diamond Grill,Laser Eyes,Yellow Ball,Black Jersey,Orange
+1958,Standard,,Sweat,,,Captain Armband,Blue Jersey,Blue
+1959,Standard,BA Snapback,,,Laser Eyes,Captain Armband,Red Jersey,Blue
+1960,Standard,,,Medal,Bloody Eye,Pigskin Ball,White Jersey,Green
+1961,Standard,,,,,Boot Award,Red Jersey,Green
+1962,Standard,,Sweat,Gold Mouthguard,Laser Eyes,League Trophy,White Jersey,Stadium
+1963,Old,BA Snapback,Sweat,,,Captain Armband,Blue Jersey,Blockasset
+1964,Standard,Title Crown,,,Wayfarers,Yellow Ball,Black Jersey,Red
+1965,Standard,,,,Bloody Eye,Yellow Card,Blue Jersey,Orange
+1966,Old,,,Diamond Grill,Bloody Eye,Captain Armband,Black Jersey,Red
+1967,Standard,Wooly Hat,,,Laser Eyes,Yellow Ball,Flag,Black
+1968,Standard,,England Paint,,Laser Eyes,,White Jersey,Black
+1969,Old,BA Snapback,Sweat,,Wayfarers,Yellow Ball,Blue Jersey,Blue
+1970,Standard,BA Snapback,,,,Captain Armband,Training Hoodie,Red
+1971,Standard,,,,,Yellow Ball,Training Hoodie,Red
+1972,Standard,Winner Hat,,Gold Mouthguard,,Captain Armband,Flag,Black
+1973,Old,Wooly Hat,,,,Medals,Red Jersey,Black
+1974,Standard,Wooly Hat,,Medal,Wayfarers,Yellow Ball,Red Jersey,Black
+1975,Standard,,,,,Medals,Blue Jersey,Black
+1976,Young,Wooly Hat,,,,Captain Armband,Suit,Red
+1977,Standard,BA Snapback,,Gold Mouthguard,Wayfarers,Confetti,Red Jersey,Red
+1978,Standard,BA Snapback,,,Wayfarers,Medals,White Jersey,Black
+1979,Standard,BA Snapback,,,,Medals,Black Jersey,Red
+1980,Standard,BA Snapback,Sweat,,,Pigskin Ball,Black Jersey,Orange
+1981,Standard,BA Snapback,,Diamond Grill,,Yellow Card,Blue Jersey,Team
+1982,Young,,,,,Pigskin Ball,Black Jersey,Black
+1983,Standard,BA Snapback,,,,European Trophy,Red Jersey,Blue
+1984,Standard,,Ad Beard,,Wayfarers,,Training Hoodie,Red
+1985,Old,,Sweat,,,Yellow Ball,Red Jersey,Red
+1986,Standard,,,,,,Black Jersey,Green
+1987,Young,,Sweat,Gold Mouthguard,Bloody Eye,Captain Armband,Suit,Red
+1988,Standard,,,,,Pigskin Ball,Training Hoodie,Green
+1989,Standard,Wooly Hat,Sweat,,Bloody Eye,Yellow Card,Red Jersey,Red
+1990,Young,BA Snapback,,,Laser Eyes,,Black Jersey,Black
+1991,Standard,Wooly Hat,,,Wayfarers,Yellow Card,Black Jersey,Orange
+1992,Standard,Wooly Hat,,,,Yellow Card,Red Jersey,Red
+1993,Standard,,,Medal,,Medals,Black Jersey,Green
+1994,Standard,,,,,Yellow Card,Blue Jersey,Green
+1995,Standard,,Sweat,,,Confetti,Red Jersey,Red
+1996,Standard,,,,Laser Eyes,Pigskin Ball,Training Hoodie,Orange
+1997,Standard,Winner Hat,,,Wayfarers,Pigskin Ball,Flag,Green
+1998,Standard,,,,Laser Eyes,Yellow Ball,Managers Jacket,Blue
+1999,Standard,BA Snapback,,,,Yellow Card,Blue Jersey,Black
