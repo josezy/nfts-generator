@@ -35,12 +35,6 @@ def generate_candy_machine_edition(psd, traits, output_path):
     filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
 
-    # Signature
-    try:
-        psd[1].visible = True
-    except:
-        pass
-
     for layer in psd[0]:
         if layer.name.upper() not in traits:
             continue
