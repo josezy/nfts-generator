@@ -26,7 +26,7 @@ TRAITS = {
         "Diamond Grill": 4.75,
         "Dosbrak Bandana": 0.25,
     },
-    "EYES": {
+    "EYE": {
         None: 62,
         "Wayfarers": 18,
         "Bloody Eye": 13,
@@ -45,7 +45,7 @@ TRAITS = {
         "Boot Award": 2.5,
         "Diamond Ball": 1,
     },
-    "CLOTHING": {
+    "CLOTHES": {
         "White Jersey": 20,
         "Red Jersey": 19,
         "Blue Jersey": 14,
