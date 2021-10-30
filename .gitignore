@@ -3,7 +3,8 @@
 venv/
 .venv
 editions
-*.csv
 *.psd
 
 .vscode
+
+__pycache__

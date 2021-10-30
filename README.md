@@ -16,8 +16,8 @@ to use the script:
 ### EC2 instance utility commands
 
 ```fish
-python main.py --generate --multiprocess
-mv ./editions/*.json ./jsons/
-time grive -u --dir editions/
+python main.py {bisping} --generate --multiprocess
+mv ./athletes/{bisping}/editions/*.json ./athletes/{bisping}/jsons/
+time grive -u --dir ./athletes/{bisping}/editions/
 sudo shutdown --poweroff
 ```

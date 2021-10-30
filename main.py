@@ -4,82 +4,12 @@ import time
 import typer
 import multiprocessing
 
+from importlib import import_module
 from typing import Optional
 from random import choices
 from psd_tools import PSDImage
 
 editionsPath = "./editions"
-
-
-TRAITS = {
-    "BASE": {
-        "Standard": 80,
-        "Bald": 15,
-        "Old Mike": 5,
-    },
-    "HEAD": {
-        None: 54,
-        "Sparring Headgear": 14,
-        "Snapback": 13,
-        "Announcer": 12,
-        "DJ Mikey B": 6,
-        "Crown": 1,
-    },
-    "FACE": {
-        None: 68,
-        "Bloody": 20,
-        "Red Terminator": 10,
-        "Gold Terminator": 2,
-    },
-    "MOUTH": {
-        None: 72,
-        "Cigar": 12,
-        "Falling Mouthguard": 11,
-        "Diamond Grill": 4.75,
-        "Dosbrak Bandana": 0.25,
-    },
-    "EYES": {
-        None: 62,
-        "Wayfarers": 18,
-        "Bruised Eye": 13,
-        "Laser Eyes": 7,
-    },
-    "ACCESSORIES": {
-        None: 15,
-        "Bare Fists": 15,
-        "Gloves": 14,
-        "Bloody Wraps": 12,
-        "Bloody Gloves": 11,
-        "Microphone": 10,
-        "SOL Gloves": 8,
-        "Gold Gloves": 7,
-        "199 Belt": 4.5,
-        "Knuckle Duster Spikes": 2.5,
-        "Diamond Gloves": 1,
-    },
-    "CLOTHING": {
-        None: 20,
-        "Bloody Body": 19,
-        "Jiu Jitsu Robe": 14,
-        "Suit": 12,
-        "Tattoo": 11,
-        "Punk Jacket": 10,
-        "Butcher": 6,
-        "Patriot Flag": 5,
-        "The Count": 2,
-        "Astronaut": 1,
-    },
-    "BACKGROUND": {
-        "Teal": 20,
-        "Black": 20,
-        "Red": 20,
-        "Purple": 15,
-        "Mustard": 15,
-        "Blockasset": 5,
-        "Octagon": 4.2,
-        "Count's Lair": 0.8,
-    },
-}
 
 
 def reset_visibility(psd):
@@ -90,20 +20,7 @@ def reset_visibility(psd):
             layer.visible = False
 
 
-def review_and_fix_special_cases(nft_traits):
-
-    if nft_traits['CLOTHING'] == 'Butcher':
-        nft_traits['ACCESSORIES'] = None
-        nft_traits['HEAD'] = None
-        if nft_traits['MOUTH'] == 'Dosbrak Bandana':
-            nft_traits['MOUTH'] = 'Diamond Grill'
-
-    if nft_traits['BASE'] == 'Bald' and nft_traits['CLOTHING'] == 'Astronaut':
-        nft_traits['CLOTHING'] = 'The Count'
-
-    return nft_traits
-
-def generate_nft_traits(traits):
+def generate_nft_traits(traits, athlete_conditions):
     nft_traits = {}
     for trait_name, trait_data in traits.items():
         weights = [weight / 100 for weight in trait_data.values()]
@@ -111,18 +28,10 @@ def generate_nft_traits(traits):
             population=list(trait_data.keys()), weights=weights, k=1
         )[0]
 
-    return review_and_fix_special_cases(nft_traits)
+    return athlete_conditions(nft_traits)
 
 
-def read_nft_traits(file):
-    with open(file, "rt") as f:
-        data = csv.reader(f)
-        # next(data, None)  # skip the headers
-        for row in data:
-            print(row)
-
-
-def generate_candy_machine_edition(psd, traits):
+def generate_candy_machine_edition(psd, traits, output_path):
     filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
 
@@ -138,36 +47,37 @@ def generate_candy_machine_edition(psd, traits):
         if len(sublayer) == 1:
             sublayer[0].visible = True
 
-    psd.composite(force=True).save(f"{editionsPath}/{filename}.png")
+    psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
-    json_data = {
-        "name": f"Michael Bisping Ed. {filename}",
-        "symbol": "",
-        "seller_fee_basis_points": 0,
-        "image": f"{filename}.png",
-        "properties": {
-            "creators": [
-                {
-                    "address": "6Ai61gQBy4uRahRpkNm6ZbVyvUjGtBgm1ns9qu4xAL5N",
-                    "share": 50,
-                },
-                {
-                    "address": "6uDvPTDPgRaCBuSK5Jq531TugMEXJXm8APhzca3T2KuR",
-                    "share": 50,
-                },
-            ],
-            "files": [{"uri": f"{filename}.png", "type": "image/png"}],
-        },
-        "attributes": [
-            {"trait_type": trait_name, "value": trait_value}
-            for trait_name, trait_value in traits.items()
-        ],
-    }
-    with open(f"{editionsPath}/{filename}.json", "w") as outfile:
-        json.dump(json_data, outfile)
+    # TODO: fix creators
+    # json_data = {
+    #     "name": f"Michael Bisping Ed. {filename}",
+    #     "symbol": "",
+    #     "seller_fee_basis_points": 0,
+    #     "image": f"{filename}.png",
+    #     "properties": {
+    #         "creators": [
+    #             {
+    #                 "address": "6Ai61gQBy4uRahRpkNm6ZbVyvUjGtBgm1ns9qu4xAL5N",
+    #                 "share": 50,
+    #             },
+    #             {
+    #                 "address": "6uDvPTDPgRaCBuSK5Jq531TugMEXJXm8APhzca3T2KuR",
+    #                 "share": 50,
+    #             },
+    #         ],
+    #         "files": [{"uri": f"{filename}.png", "type": "image/png"}],
+    #     },
+    #     "attributes": [
+    #         {"trait_type": trait_name, "value": trait_value}
+    #         for trait_name, trait_value in traits.items()
+    #     ],
+    # }
+    # with open(f"{output_path}/{filename}.json", "w") as outfile:
+    #     json.dump(json_data, outfile)
 
 
-def generate_editions(csv_filename, psd_filename, traits_list=[]):
+def generate_editions(csv_filename, psd_filename, output_path, traits_list=[]):
     assert (
         len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
     ), "Invalid or no PSD file provided"
@@ -190,28 +100,24 @@ def generate_editions(csv_filename, psd_filename, traits_list=[]):
 
             psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
-            generate_candy_machine_edition(psd, traits)
+            generate_candy_machine_edition(psd, traits, output_path)
         typer.echo(f"Elapsed time: {time.time() - start} secs")
 
 
 def main(
+    athlete: str,
     count: int = 1,
-    start_at: int = 0,
     generate: bool = False,
-    read: bool = False,
-    nft_file: str = None,
-    psd_filename: str = "base.psd",
-    csv_filename: str = "traits.csv",
     multiprocess: bool = False,
     trait_id: Optional[int] = None,
 ):
-
+    typer.echo(f'Working with {athlete}')
     nft_traits = []
 
-    if read and nft_file:
-        read_nft_traits(nft_file)
-    elif read and not nft_file:
-        raise ValueError("NFT file not provided")
+    _athlete = import_module(f'athletes.{athlete}')
+    psd_filename = f"./athletes/{athlete}/base.psd"
+    csv_filename = f"./athletes/{athlete}/traits.csv"
+    output_path = f"./athletes/{athlete}/editions/"
 
     if generate:
         if multiprocess:
@@ -232,7 +138,7 @@ def main(
 
                 p = multiprocessing.Process(
                     target=generate_editions,
-                    args=(csv_filename, psd_filename),
+                    args=(csv_filename, psd_filename, output_path),
                     kwargs={'traits_list': splited[i]}
                 )
                 p.start()
@@ -242,23 +148,28 @@ def main(
                 p.join()
 
         else:
-            generate_editions(csv_filename, psd_filename, traits_list=[] if trait_id is None else [trait_id])
+            generate_editions(
+                csv_filename,
+                psd_filename,
+                output_path,
+                traits_list=[] if trait_id is None else [trait_id]
+            )
 
     else:
         with typer.progressbar(range(count)) as progress:
             for _ in progress:
-                nft_traits.append(generate_nft_traits(TRAITS))
+                nft_traits.append(generate_nft_traits(_athlete.TRAITS, _athlete.conditions))
 
-    if not generate and not read:
+    if not generate:
         with open(csv_filename, "w") as f:
             # create the csv writer
             writer = csv.writer(f)
 
             # write the header
-            writer.writerow(["ID"] + list(TRAITS.keys()))
+            writer.writerow(["ID"] + list(_athlete.TRAITS.keys()))
 
             for count, traits in enumerate(nft_traits):
-                writer.writerow([count + start_at] + list(traits.values()))
+                writer.writerow([count] + list(traits.values()))
 
         typer.echo(f"Processed {count+1} images")
 
