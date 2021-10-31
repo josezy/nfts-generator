@@ -40,6 +40,10 @@ def generate_candy_machine_edition(psd, traits, output_path):
             continue
 
         layer.visible = True
+
+        if not layer.is_group():
+            continue
+
         sublayer = [l for l in layer if l.name.strip() == traits[layer.name.upper()]]
         if len(sublayer) == 1:
             sublayer[0].visible = True
@@ -93,7 +97,7 @@ def generate_editions(csv_filename, psd_filename, output_path, traits_list=[]):
             if len(traits_list) > 0 and int(row[0]) not in traits_list:
                 continue
 
-            traits = {trait_name: row[i] for i, trait_name in enumerate(header)}
+            traits = {trait_name.upper(): row[i] for i, trait_name in enumerate(header)}
 
             psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
