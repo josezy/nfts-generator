@@ -1,4 +1,9 @@
 
+INFO = {
+    "address": "6uDvPTDPgRaCBuSK5Jq531TugMEXJXm8APhzca3T2KuR",
+    "name": "Michael Bisping",
+}
+
 TRAITS = {
     "Base": {
         "Standard": 80,

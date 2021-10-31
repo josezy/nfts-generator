@@ -31,7 +31,7 @@ def generate_nft_traits(traits, athlete_conditions):
     return athlete_conditions(nft_traits)
 
 
-def generate_candy_machine_edition(psd, traits, output_path):
+def generate_candy_machine_edition(psd, traits, output_path, athlete_info):
     filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
 
@@ -52,7 +52,7 @@ def generate_candy_machine_edition(psd, traits, output_path):
 
     # TODO: fix creators
     # json_data = {
-    #     "name": f"Michael Bisping Ed. {filename}",
+    #     "name": f"{athlete_info.get('name')} Ed. {filename}",
     #     "symbol": "",
     #     "seller_fee_basis_points": 0,
     #     "image": f"{filename}.png",
@@ -63,7 +63,7 @@ def generate_candy_machine_edition(psd, traits, output_path):
     #                 "share": 50,
     #             },
     #             {
-    #                 "address": "6uDvPTDPgRaCBuSK5Jq531TugMEXJXm8APhzca3T2KuR",
+    #                 "address": athlete_info.get('address'),
     #                 "share": 50,
     #             },
     #         ],
@@ -78,7 +78,7 @@ def generate_candy_machine_edition(psd, traits, output_path):
     #     json.dump(json_data, outfile)
 
 
-def generate_editions(csv_filename, psd_filename, output_path, traits_list=[]):
+def generate_editions(csv_filename, psd_filename, output_path, athlete_info, traits_list=[]):
     assert (
         len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
     ), "Invalid or no PSD file provided"
@@ -101,7 +101,7 @@ def generate_editions(csv_filename, psd_filename, output_path, traits_list=[]):
 
             psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
-            generate_candy_machine_edition(psd, traits, output_path)
+            generate_candy_machine_edition(psd, traits, output_path, athlete_info)
         typer.echo(f"Elapsed time: {time.time() - start} secs")
 
 
@@ -139,7 +139,7 @@ def main(
 
                 p = multiprocessing.Process(
                     target=generate_editions,
-                    args=(csv_filename, psd_filename, output_path),
+                    args=(csv_filename, psd_filename, output_path, _athlete.INFO),
                     kwargs={'traits_list': splited[i]}
                 )
                 p.start()
@@ -153,6 +153,7 @@ def main(
                 csv_filename,
                 psd_filename,
                 output_path,
+                _athlete.INFO,
                 traits_list=[] if trait_id is None else [trait_id]
             )
 

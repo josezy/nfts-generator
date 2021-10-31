@@ -1,4 +1,9 @@
 
+INFO = {
+    "address": "",
+    "name": "Wayne Rooney",
+}
+
 TRAITS = {
     "base": {
         "Standard": 80,

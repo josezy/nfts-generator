@@ -1,3 +1,9 @@
+
+INFO = {
+    "address": "",
+    "name": "Muhammad Ali",
+}
+
 TRAITS = {
     "Base": {
         "The Greatest": 64,
