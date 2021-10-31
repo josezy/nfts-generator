@@ -6,9 +6,9 @@ INFO = {
 
 TRAITS = {
     "Base": {
-        "Standard": 80,
-        "Bald": 15,
-        "Old Mike": 5,
+        "Standard": 64,
+        "Bald": 23,
+        "Old Mike": 13,
     },
     "Head": {
         None: 54,
@@ -79,13 +79,16 @@ TRAITS = {
 
 def conditions(nft_traits):
 
-    if nft_traits['CLOTHING'] == 'Butcher':
-        nft_traits['ACCESSORIES'] = None
-        nft_traits['HEAD'] = None
-        if nft_traits['MOUTH'] == 'Dosbrak Bandana':
-            nft_traits['MOUTH'] = 'Diamond Grill'
+    if nft_traits['Clothing'] == 'Butcher':
+        nft_traits['Accessory'] = None
+        nft_traits['Head'] = None
+        if nft_traits['Mouth'] == 'Dosbrak Bandana':
+            nft_traits['Mouth'] = 'Diamond Grill'
 
-    if nft_traits['BASE'] == 'Bald' and nft_traits['CLOTHING'] == 'Astronaut':
-        nft_traits['CLOTHING'] = 'The Count'
+    if nft_traits['Base'] == 'Bald' and nft_traits['Clothing'] == 'Astronaut':
+        nft_traits['Clothing'] = 'The Count'
+
+    if nft_traits['Eyes'] == 'Wayfarers':
+        nft_traits['Head'] = None
 
     return nft_traits
