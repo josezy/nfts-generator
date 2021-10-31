@@ -77,9 +77,9 @@ TRAITS = {
 }
 
 
-def conditions(nft_traits):
+def conditions(traits):
 
-    if nft_traits["Face"] == "Sweat":
-        nft_traits["Clothing"] = None
+    if traits["Face"] == "Sweat":
+        traits["Clothing"] = None
 
-    return nft_traits
+    return traits

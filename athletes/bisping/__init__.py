@@ -77,18 +77,18 @@ TRAITS = {
     }
 }
 
-def conditions(nft_traits):
+def conditions(traits):
 
-    if nft_traits['Clothing'] == 'Butcher':
-        nft_traits['Accessory'] = None
-        nft_traits['Head'] = None
-        if nft_traits['Mouth'] == 'Dosbrak Bandana':
-            nft_traits['Mouth'] = 'Diamond Grill'
+    if traits['Clothing'] == 'Butcher':
+        traits['Accessory'] = None
+        traits['Head'] = None
+        if traits['Mouth'] == 'Dosbrak Bandana':
+            traits['Mouth'] = 'Diamond Grill'
 
-    if nft_traits['Base'] == 'Bald' and nft_traits['Clothing'] == 'Astronaut':
-        nft_traits['Clothing'] = 'The Count'
+    if traits['Base'] == 'Bald' and traits['Clothing'] == 'Astronaut':
+        traits['Clothing'] = 'The Count'
 
-    if nft_traits['Eyes'] == 'Wayfarers':
-        nft_traits['Head'] = None
+    if traits['Eyes'] == 'Wayfarers':
+        traits['Head'] = None
 
-    return nft_traits
+    return traits

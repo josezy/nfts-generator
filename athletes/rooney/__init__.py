@@ -6,9 +6,9 @@ INFO = {
 
 TRAITS = {
     "base": {
-        "Standard": 80,
-        "Old": 15,
-        "Young": 5,
+        "Standard": 64,
+        "Old": 23,
+        "Young": 13,
     },
     "head": {
         None: 54,
@@ -77,24 +77,24 @@ TRAITS = {
     },
 }
 
-def conditions(nft_traits):
+def conditions(traits):
 
-    if nft_traits['base'] == 'Young' and nft_traits['clothes'] == 'Astronaut':
-        nft_traits['clothes'] = 'Red Jersey Torn'
+    if traits['base'] == 'Young' and traits['clothes'] == 'Astronaut':
+        traits['clothes'] = 'Red Jersey Torn'
 
-    if nft_traits['base'] == 'Old' and nft_traits['face'] == 'England Paint':
-        nft_traits['face'] = None
+    if traits['base'] == 'Old' and traits['face'] == 'England Paint':
+        traits['face'] = None
 
-    if nft_traits['face'] == 'England Paint':
-        nft_traits['accessories'] = None
+    if traits['face'] == 'England Paint':
+        traits['accessories'] = None
 
-    if nft_traits['clothes'] == 'Astronaut' and nft_traits['accessories'] == 'Captain Armband':
-        nft_traits['accessories'] = None
+    if traits['clothes'] == 'Astronaut' and traits['accessories'] == 'Captain Armband':
+        traits['accessories'] = None
 
-    if nft_traits['accessories'] == 'League Trophy':
-        nft_traits['clothes'] = 'Red Jersey'
+    if traits['accessories'] == 'League Trophy':
+        traits['clothes'] = 'Red Jersey'
 
-    if nft_traits['face'] == 'England Paint':
-        nft_traits['clothes'] = None
+    if traits['face'] == 'England Paint':
+        traits['clothes'] = None
 
-    return nft_traits
+    return traits
