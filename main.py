@@ -8,8 +8,7 @@ from importlib import import_module
 from typing import Optional
 from random import choices
 from psd_tools import PSDImage
-
-editionsPath = "./editions"
+from pathlib import Path
 
 
 def reset_visibility(psd):
@@ -119,6 +118,7 @@ def main(
     psd_filename = f"./athletes/{athlete}/base.psd"
     csv_filename = f"./athletes/{athlete}/traits.csv"
     output_path = f"./athletes/{athlete}/editions/"
+    Path(output_path).mkdir(parents=True, exist_ok=True)
 
     if generate:
         if multiprocess:
