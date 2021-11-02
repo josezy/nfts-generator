@@ -1,4 +1,3 @@
-
 INFO = {
     "address": "rooney-wallet-address",
     "name": "Wayne Rooney",
@@ -40,11 +39,11 @@ TRAITS = {
     "Accessory": {
         None: 15,
         "Captain Armband": 15,
-        "Yellow Ball": 14,
-        "Pigskin Ball": 12,
-        "Yellow Card": 11,
-        "Medals": 10,
-        "Confetti": 8,
+        "Pigskin Ball": 14,
+        "Yellow Card": 12,
+        "League Medals": 11,
+        "Confetti": 10,
+        "Fire Ball": 8,
         "League Trophy": 7,
         "European Trophy": 4.5,
         "Boot Award": 2.5,
@@ -73,28 +72,61 @@ TRAITS = {
         "Stadium": 0.8,
     },
     "Signature": {
-        "Signature": 100,
+        "Dosbrak": 100,
     },
 }
 
+
 def conditions(traits):
 
-    if traits['base'] == 'Young' and traits['clothes'] == 'Astronaut':
-        traits['clothes'] = 'Red Jersey Torn'
+    # IF Young Base THEN no No Astronaut
+    if traits["Base"] == "Young" and traits["Clothing"] == "Astronaut":
+        traits["Clothing"] = "Red Jersey Torn"
 
-    if traits['base'] == 'Old' and traits['face'] == 'England Paint':
-        traits['face'] = None
+    # IF Old Base THEN no No England Paint
+    if traits["Base"] == "Old" and traits["Face"] == "England Paint":
+        traits["Face"] = None
 
-    if traits['face'] == 'England Paint':
-        traits['accessories'] = None
+    # IF England Paint THEN no No accessory
+    if traits["Face"] == "England Paint":
+        traits["Accessory"] = None
 
-    if traits['clothes'] == 'Astronaut' and traits['accessories'] == 'Captain Armband':
-        traits['accessories'] = None
+    # IF Astronaut THEN no Captain Armband
+    # IF Patriot Flag THEN no Captain Armband
+    if traits["Clothing"] in ["Patriot Flag", "Astronaut"] and traits["Accessory"] == "Captain Armband":
+        traits["Accessory"] = None
 
-    if traits['accessories'] == 'League Trophy':
-        traits['clothes'] = 'Red Jersey'
+    # IF League Trophy THEN no White Jersey, Blue Jersey, Suit, Training Hoodie, Black Jersey, Patriot Flag, Managers Jacket, Astronaut
+    if traits["Accessory"] == "League Trophy":
+        traits["Clothing"] = "Red Jersey Torn"
 
-    if traits['face'] == 'England Paint':
-        traits['clothes'] = None
+    # IF England Paint THEN no Clothing
+    if traits["Face"] == "England Paint":
+        traits["Clothing"] = None
+
+    # IF Wooly Hat THEN no Blue Jersey, Black Jersey, White Jersey
+    if traits["Head"] == "Wooly Hat":
+        traits["Clothing"] = "Red Jersey"
+
+    # IF Captain Armband THEN no Suit
+    # IF Captain Armband THEN no Training Hoodie
+    # IF Captain Armband THEN no Managers Jacket
+    # IF Captain Armband THEN no Astronaut
+    if traits["Accessory"] == "Captain Armband":
+        traits["Clothing"] = "Black Jersey"
+
+    # IF Managers Jacket THEN no League Trophy
+    # IF White Jersey THEN no League Trophy
+    # IF Blue Jersey THEN no League Trophy
+    # IF Patriot Flag THEN no League Trophy
+    # IF Black Jersey THEN no League Trophy
+    # IF Managers Jacket THEN no European Trophy
+    # IF White Jersey THEN no European Trophy
+    # IF Blue Jersey THEN no European Trophy
+    # IF Patriot Flag THEN no European Trophy
+    # IF Black Jersey THEN no European Trophy
+    if traits["Clothing"] in ["Managers", "White Jersey", "Blue Jersey", "Patriot Flag", "Black Jersey"]:
+        if traits["Accessory"] in ["League Trophy", "European Trophy"]:
+            traits["Accessory"] = "Fire Ball"
 
     return traits
