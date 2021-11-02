@@ -21,12 +21,12 @@ TRAITS = {
         None: 68,
         "Sweat": 20,
         "Bane": 10,
-        "Terminator": 2,
+        "Haka": 2,
     },
     "Mouth": {
         None: 72,
         "Solana Mouthguard": 12,
-        "All Blacks Mouth Guard": 11,
+        "NZ Mouth Guard": 11,
         "Diamond Grill": 4.75,
         "Dosbrak Bandana": 0.25,
     },
@@ -72,72 +72,43 @@ TRAITS = {
         "New Zealand": 0.8,
     },
     "Signature": {
-        "Signature": 100,
+        "Dosbrak": 100,
     },
 }
 
 
 def conditions(traits):
 
-    # IF Sweat THEN no No clothing trait
-    if traits["Face"] == "Sweat":
-        traits["Clothing"] = None
+    # IF Eye Injury THEN no Headband
+    # IF Eye Injury THEN no BA Snapback
+    # IF Eye Injury THEN no Hat
+    if traits["Eyes"] == "Eye Injury":
+        traits["Head"] = None
 
-    # IF Butterflies & Bees THEN no Shook Up The World
-    # IF Butterflies & Bees THEN no Microphones
-    # IF Butterflies & Bees THEN no Lightbulbs & Wings
-    # IF Butterflies & Bees THEN no Mirror
-    # IF Butterflies & Bees THEN no The King's Gown
-    if traits["Base"] == "Butterflies & Bees":
-        if traits["Accessory"] in [
-            "Shook Up The World",
-            "Microphones",
-            "Lightbulbs & Wings",
-            "Mirror",
-        ]:
-            traits["Accessory"] = None
-        if traits["Clothing"] == "The King's Gown":
-            traits["Clothing"] = None
-
-    # IF Sparring Headgear THEN no Shook Up The World
-    # IF Sparring Headgear THEN no Wayfarers
-    if traits["Head"] == "Sparring Headgear":
-        if traits["Accessory"] == "Shook Up The World":
-            traits["Accessory"] = None
-        if traits["Eyes"] == "Wayfarers":
-            traits["Eyes"] = None
-
-    # IF Dosbrak Bandana THEN no Mirror
-    # IF Locked THEN no Mirror
-    # IF Wayfarers THEN no Mirror
-    if (
-        traits["Mouth"] in ["Dosbrak Bandana", "Locked"]
-        or traits["Eyes"] == "Wayfarers"
-    ):
-        if traits["Accessory"] == "Mirror":
-            traits["Accessory"] = None
-
-    # IF Astronaut THEN no Lightbulbs & Wings
-    if (
-        traits["Clothing"] == "Astronaut"
-        and traits["Accessory"] == "Lightbulbs & Wings"
-    ):
-        traits["Accessory"] = None
-
-    # IF The King's Gown THEN no Lightbulbs & Wings
-    if (
-        traits["Clothing"] == "The King's Gown"
-        and traits["Accessory"] == "Lightbulbs & Wings"
-    ):
-        traits["Accessory"] = None
-
-    # IF Underwater THEN no No Cabin, Gold, Orange, Red backgrounds
-    if traits["Base"] == "Underwater" and traits["Background"] in [
-        "Cabin",
-        "Gold",
-        "Orange",
-        "Red",
+    # IF Astronaut THEN no Boots
+    # IF Astronaut THEN no Boom Box
+    if traits["Clothing"] == "Astronaut" and traits["Accessory"] in [
+        "Boots",
+        "Boom Box",
     ]:
-        traits["Background"] = "Solana"
+        traits["Accessory"] = None
+
+    # IF Blue Suit THEN no Boots
+    if traits["Clothing"] == "Blue Suit" and traits["Accessory"] == "Boots":
+        traits["Accessory"] = None
+
+    # IF Bane THEN no Diamond Grill
+    if traits["Face"] == "Bane" and traits["Mouth"] == "Diamond Grill":
+        traits["Mouth"] = None
+
+    # IF Haka THEN no Solana Mouthguard
+    # IF Haka THEN no NZ Mouth Guard
+    # IF Haka THEN no Diamond Grill
+    if traits["Face"] == "Haka":
+        traits["Mouth"] = None
+
+    # IF Dosbrak Bandana THEN no Haka
+    if traits["Mouth"] == "Dosbrak Bandana":
+        traits["Face"] = None
 
     return traits
