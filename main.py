@@ -49,32 +49,31 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info):
 
     psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
-    # TODO: fix creators
-    # json_data = {
-    #     "name": f"{athlete_info.get('name')} Ed. {filename}",
-    #     "symbol": "",
-    #     "seller_fee_basis_points": 0,
-    #     "image": f"{filename}.png",
-    #     "properties": {
-    #         "creators": [
-    #             {
-    #                 "address": "6Ai61gQBy4uRahRpkNm6ZbVyvUjGtBgm1ns9qu4xAL5N",
-    #                 "share": 50,
-    #             },
-    #             {
-    #                 "address": athlete_info.get('address'),
-    #                 "share": 50,
-    #             },
-    #         ],
-    #         "files": [{"uri": f"{filename}.png", "type": "image/png"}],
-    #     },
-    #     "attributes": [
-    #         {"trait_type": trait_name, "value": trait_value}
-    #         for trait_name, trait_value in traits.items()
-    #     ],
-    # }
-    # with open(f"{output_path}/{filename}.json", "w") as outfile:
-    #     json.dump(json_data, outfile)
+    json_data = {
+        "name": f"{athlete_info.get('name')} Ed. {filename}",
+        "symbol": "",
+        "seller_fee_basis_points": 0,
+        "image": f"{filename}.png",
+        "properties": {
+            "creators": [
+                {
+                    "address": "6Ai61gQBy4uRahRpkNm6ZbVyvUjGtBgm1ns9qu4xAL5N",
+                    "share": 50,
+                },
+                {
+                    "address": athlete_info.get('address'),
+                    "share": 50,
+                },
+            ],
+            "files": [{"uri": f"{filename}.png", "type": "image/png"}],
+        },
+        "attributes": [
+            {"trait_type": trait_name, "value": trait_value}
+            for trait_name, trait_value in traits.items()
+        ],
+    }
+    with open(f"{output_path}/{filename}.json", "w") as outfile:
+        json.dump(json_data, outfile)
 
 
 def generate_editions(csv_filename, psd_filename, output_path, athlete_info, traits_list=[]):
