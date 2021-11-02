@@ -30,24 +30,26 @@ def generate_nft_traits(traits, athlete_conditions):
     return athlete_conditions(nft_traits)
 
 
-def generate_candy_machine_edition(psd, traits, output_path, athlete_info):
+def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_metadata):
     filename = traits["ID"]
     typer.echo(f"Processing edition {filename}")
 
-    for layer in psd[0]:
-        if layer.name.upper() not in traits:
-            continue
+    if not only_metadata:
+        for layer in psd[0]:
+            if layer.name.upper() not in traits:
+                continue
 
-        layer.visible = True
+            layer.visible = True
 
-        if not layer.is_group():
-            continue
+            if not layer.is_group():
+                continue
 
-        sublayer = [l for l in layer if l.name.strip() == traits[layer.name.upper()]]
-        if len(sublayer) == 1:
-            sublayer[0].visible = True
+            sublayer = [l for l in layer if l.name.strip() == traits[layer.name.upper()]]
+            if len(sublayer) == 1:
+                sublayer[0].visible = True
+                # if sublayer is a group, set all group layers to visible (for Ali's Underwater trait)
 
-    psd.composite(force=True).save(f"{output_path}/{filename}.png")
+        psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
     json_data = {
         "name": f"{athlete_info.get('name')} Ed. {filename}",
@@ -76,13 +78,12 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info):
         json.dump(json_data, outfile)
 
 
-def generate_editions(csv_filename, psd_filename, output_path, athlete_info, traits_list=[]):
+def generate_editions(csv_filename, psd_filename, output_path, athlete_info, only_metadata, traits_list=[]):
     assert (
         len(psd_filename) > 4 and psd_filename.split(".")[-1] == "psd"
     ), "Invalid or no PSD file provided"
 
     with open(csv_filename, "r") as f:
-        typer.echo(f"Using {psd_filename} and {csv_filename}")
 
         reader = csv.reader(f)
         header = []
@@ -99,7 +100,7 @@ def generate_editions(csv_filename, psd_filename, output_path, athlete_info, tra
 
             psd = PSDImage.open(psd_filename)
             reset_visibility(psd)
-            generate_candy_machine_edition(psd, traits, output_path, athlete_info)
+            generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_metadata)
         typer.echo(f"Elapsed time: {time.time() - start} secs")
 
 
@@ -107,6 +108,7 @@ def main(
     athlete: str,
     count: int = 1,
     generate: bool = False,
+    only_metadata: bool = False,
     multiprocess: bool = False,
     trait_id: Optional[int] = None,
 ):
@@ -120,6 +122,7 @@ def main(
     Path(output_path).mkdir(parents=True, exist_ok=True)
 
     if generate:
+        typer.echo(f"Using {psd_filename} and {csv_filename}")
         if multiprocess:
 
             with open(csv_filename) as fp:
@@ -138,7 +141,7 @@ def main(
 
                 p = multiprocessing.Process(
                     target=generate_editions,
-                    args=(csv_filename, psd_filename, output_path, _athlete.INFO),
+                    args=(csv_filename, psd_filename, output_path, _athlete.INFO, only_metadata),
                     kwargs={'traits_list': splited[i]}
                 )
                 p.start()
@@ -153,6 +156,7 @@ def main(
                 psd_filename,
                 output_path,
                 _athlete.INFO,
+                only_metadata,
                 traits_list=[] if trait_id is None else [trait_id]
             )
 
