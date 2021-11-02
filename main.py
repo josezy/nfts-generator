@@ -31,7 +31,7 @@ def generate_nft_traits(traits, athlete_conditions):
 
 
 def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_metadata):
-    filename = traits["ID"]
+    filename = traits["Edition".upper()]
     typer.echo(f"Processing edition {filename}")
 
     if not only_metadata:
@@ -70,7 +70,7 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
             "files": [{"uri": f"{filename}.png", "type": "image/png"}],
         },
         "attributes": [
-            {"trait_type": trait_name, "value": trait_value}
+            {"trait_type": trait_name, "value": trait_value or "No trait"}
             for trait_name, trait_value in traits.items()
         ],
     }
@@ -171,7 +171,7 @@ def main(
             writer = csv.writer(f)
 
             # write the header
-            writer.writerow(["ID"] + list(_athlete.TRAITS.keys()))
+            writer.writerow(["Edition"] + list(_athlete.TRAITS.keys()))
 
             for count, traits in enumerate(nft_traits):
                 writer.writerow([count] + list(traits.values()))
