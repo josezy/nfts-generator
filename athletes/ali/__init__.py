@@ -6,7 +6,7 @@ INFO = {
 TRAITS = {
     "Base": {
         "The Greatest": 64,
-        "Butterflies & Bees": 23,
+        "Butterflies and Bees": 23,
         "Underwater": 13,
     },
     "Head": {
