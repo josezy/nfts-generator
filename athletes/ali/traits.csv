@@ -7,7 +7,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 5,Butterflies and Bees,Hat,,,Wayfarers,,Black Suit,Black,Signature
 6,The Greatest,,,,Laser Eyes,Towel,Gown,Black,Signature
 7,The Greatest,Hat,Scratch,,,Black Gloves,,Orange,Signature
-8,The Greatest,Crown The GOAT,Sweat,,Bruised Eye,Black Gloves,,Gold,Signature
+8,The Greatest,Crown GOAT,Sweat,,Bruised Eye,Black Gloves,,Gold,Signature
 9,The Greatest,,,,,Speed Ball,Gold Suit,Red,Signature
 10,The Greatest,,,,Bruised Eye,Speed Ball,Peach Suit,Black,Signature
 11,The Greatest,Hat,Sweat,,,Black Gloves,,Gold,Signature
@@ -17,14 +17,14 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 15,The Greatest,Halo,,,,Towel,Gown,Red,Signature
 16,The Greatest,Hat,Sweat,GOAT Mouthguard,,Towel,,Black,Signature
 17,Butterflies and Bees,,,,,Black Gloves,,Black,Signature
-18,Butterflies and Bees,Crown The GOAT,,GOAT Mouthguard,Wayfarers,Speed Ball,,Black,Signature
-19,Butterflies and Bees,Crown The GOAT,,,,Towel,,Orange,Signature
+18,Butterflies and Bees,Crown GOAT,,GOAT Mouthguard,Wayfarers,Speed Ball,,Black,Signature
+19,Butterflies and Bees,Crown GOAT,,,,Towel,,Orange,Signature
 20,Underwater,,,GOAT Mouthguard,Wayfarers,Shook Up The World,,Solana,Signature
 21,The Greatest,Halo,Sweat,,Bruised Eye,Shook Up The World,,Purple,Signature
 22,Underwater,Halo,,GOAT Mouthguard,,Red Gloves,Peach Suit,Solana,Signature
 23,The Greatest,,,,,Shook Up The World,Gown,Purple,Signature
 24,Underwater,Halo,,,,Red Gloves,Black Suit,Black,Signature
-25,The Greatest,Crown The GOAT,,GOAT Mouthguard,,Mirror,Navy Suit,Black,Signature
+25,The Greatest,Crown GOAT,,GOAT Mouthguard,,Mirror,Navy Suit,Black,Signature
 26,The Greatest,Hat,,,Wayfarers,Towel,Astronaut,USA,Signature
 27,Butterflies and Bees,Hat,,Locked,Wayfarers,,,USA,Signature
 28,The Greatest,,,,,Towel,Navy Suit,Red,Signature
@@ -33,7 +33,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 31,The Greatest,Hat,,,,Red Gloves,Gown,Black,Signature
 32,Underwater,,,,,Towel,Peach Suit,Solana,Signature
 33,The Greatest,,,,,Red Gloves,Gold Suit,Black,Signature
-34,The Greatest,Crown The GOAT,,,,Red Gloves,Navy Suit,Black,Signature
+34,The Greatest,Crown GOAT,,,,Red Gloves,Navy Suit,Black,Signature
 35,Butterflies and Bees,,,,,Red Gloves,Black Suit,Red,Signature
 36,Underwater,,Sweat,,,Black Gloves,,Solana,Signature
 37,The Greatest,Hat,,Medal,Wayfarers,Towel,The King's Gown,Gold,Signature
@@ -53,7 +53,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 51,Butterflies and Bees,,Sweat,,,,,Orange,Signature
 52,The Greatest,,,,,Speed Ball,Peach Suit,Gold,Signature
 53,Butterflies and Bees,,,Medal,Wayfarers,,,Red,Signature
-54,Butterflies and Bees,Crown The GOAT,Sweat,,,Speed Ball,,Orange,Signature
+54,Butterflies and Bees,Crown GOAT,Sweat,,,Speed Ball,,Orange,Signature
 55,Butterflies and Bees,,,,Bruised Eye,Towel,,Gold,Signature
 56,Butterflies and Bees,Halo,Sweat,,,Black Gloves,,Purple,Signature
 57,The Greatest,,Scratch,,,Lightbulbs & Wings,Gold Suit,Orange,Signature
@@ -64,7 +64,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 62,The Greatest,,,,Laser Eyes,Towel,Peach Suit,Black,Signature
 63,The Greatest,,,,Wayfarers,Towel,Gown,Red,Signature
 64,The Greatest,Hat,,,Wayfarers,Black Gloves,Navy Suit,Red,Signature
-65,The Greatest,Crown The GOAT,,,,Black Gloves,,Black,Signature
+65,The Greatest,Crown GOAT,,,,Black Gloves,,Black,Signature
 66,Butterflies and Bees,Hat,,,,Towel,Peach Suit,Black,Signature
 67,The Greatest,Sparring Headgear,Sweat,GOAT Mouthguard,,Red Gloves,,Black,Signature
 68,The Greatest,Sparring Headgear,Sweat,GOAT Mouthguard,,Black Gloves,,Purple,Signature
@@ -77,10 +77,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 75,The Greatest,,,,Laser Eyes,Towel,Navy Suit,Purple,Signature
 76,Butterflies and Bees,,,,Wayfarers,Red Gloves,Elvis Gown,Orange,Signature
 77,The Greatest,,Moustache,,,Towel,Purple Suit,Purple,Signature
-78,The Greatest,Crown The GOAT,,,,Speed Ball,Gown,Gold,Signature
+78,The Greatest,Crown GOAT,,,,Speed Ball,Gown,Gold,Signature
 79,The Greatest,Sparring Headgear,,,Laser Eyes,Postage Stamp,Navy Suit,Black,Signature
 80,Butterflies and Bees,Sparring Headgear,,Medal,,Black Gloves,Gown,Red,Signature
-81,The Greatest,Crown The GOAT,Sweat,,Bruised Eye,Black Gloves,,Orange,Signature
+81,The Greatest,Crown GOAT,Sweat,,Bruised Eye,Black Gloves,,Orange,Signature
 82,Butterflies and Bees,,,Medal,Wayfarers,Postage Stamp,Black Suit,Purple,Signature
 83,Underwater,,,,Bruised Eye,Red Gloves,Black Suit,Solana,Signature
 84,The Greatest,,,,,Microphones,Navy Suit,Gold,Signature
@@ -125,8 +125,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 123,Underwater,Sparring Headgear,Scratch,,,,Navy Suit,Solana,Signature
 124,The Greatest,,Sweat,,,,,Gold,Signature
 125,Butterflies and Bees,,,Medal,Bruised Eye,,,Gold,Signature
-126,The Greatest,Crown The GOAT,Sweat,,,Black Gloves,,Purple,Signature
-127,Underwater,Crown The GOAT,,,,Speed Ball,Navy Suit,Solana,Signature
+126,The Greatest,Crown GOAT,Sweat,,,Black Gloves,,Purple,Signature
+127,Underwater,Crown GOAT,,,,Speed Ball,Navy Suit,Solana,Signature
 128,The Greatest,,Scratch,,,Shook Up The World,Black Suit,Red,Signature
 129,The Greatest,,,,,Mirror,,Red,Signature
 130,The Greatest,,Sweat,GOAT Mouthguard,,Red Gloves,,Gold,Signature
@@ -157,28 +157,28 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 155,Underwater,,,,,Speed Ball,Purple Suit,Solana,Signature
 156,Butterflies and Bees,,,GOAT Mouthguard,Laser Eyes,Towel,Gown,Black,Signature
 157,Butterflies and Bees,,Sweat,,,Red Gloves,,Gold,Signature
-158,Underwater,Crown The GOAT,,,,Shook Up The World,Navy Suit,Solana,Signature
+158,Underwater,Crown GOAT,,,,Shook Up The World,Navy Suit,Solana,Signature
 159,The Greatest,,Scratch,,,Mirror,Purple Suit,Orange,Signature
 160,The Greatest,,,,,Towel,,Orange,Signature
 161,Butterflies and Bees,,Sweat,Locked,,,,Black,Signature
 162,Butterflies and Bees,,,,Bruised Eye,Towel,Gown,Purple,Signature
 163,The Greatest,Crown,,Locked,,Red Gloves,,Orange,Signature
-164,Underwater,Crown The GOAT,,,,Microphones,Elvis Gown,USA,Signature
+164,Underwater,Crown GOAT,,,,Microphones,Elvis Gown,USA,Signature
 165,The Greatest,,,,,Speed Ball,Gown,Gold,Signature
 166,The Greatest,,Sweat,,Laser Eyes,,,Purple,Signature
 167,The Greatest,Sparring Headgear,,,,,Navy Suit,Red,Signature
-168,Underwater,Crown The GOAT,,,,Mirror,Gold Suit,Black,Signature
+168,Underwater,Crown GOAT,,,,Mirror,Gold Suit,Black,Signature
 169,The Greatest,,,,Wayfarers,Speed Ball,Gown,Purple,Signature
 170,The Greatest,Halo,Scratch,,,Black Gloves,Elvis Gown,Red,Signature
 171,The Greatest,,,,Wayfarers,Red Gloves,Gold Suit,Red,Signature
 172,Underwater,Sparring Headgear,Sweat,,,Black Gloves,,Solana,Signature
 173,The Greatest,,,,Laser Eyes,Shook Up The World,Peach Suit,Red,Signature
 174,The Greatest,,,,Laser Eyes,Red Gloves,Peach Suit,Red,Signature
-175,The Greatest,Crown The GOAT,Sweat,Locked,,Microphones,,Orange,Signature
+175,The Greatest,Crown GOAT,Sweat,Locked,,Microphones,,Orange,Signature
 176,Butterflies and Bees,,,,Bruised Eye,Towel,Navy Suit,Orange,Signature
 177,The Greatest,Hat,Sweat,,,Lightbulbs & Wings,,Black,Signature
-178,The Greatest,Crown The GOAT,,GOAT Mouthguard,,Red Gloves,Black Suit,USA,Signature
-179,Butterflies and Bees,Crown The GOAT,,,,Red Gloves,Black Suit,Red,Signature
+178,The Greatest,Crown GOAT,,GOAT Mouthguard,,Red Gloves,Black Suit,USA,Signature
+179,Butterflies and Bees,Crown GOAT,,,,Red Gloves,Black Suit,Red,Signature
 180,Underwater,Hat,Scratch,,,,,USA,Signature
 181,The Greatest,Hat,,,Laser Eyes,,Elvis Gown,Orange,Signature
 182,The Greatest,,,,,Black Gloves,Purple Suit,Purple,Signature
@@ -195,7 +195,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 193,Butterflies and Bees,Hat,Scratch,,,Black Gloves,Purple Suit,Red,Signature
 194,The Greatest,,Scratch,Medal,,Mirror,Purple Suit,Red,Signature
 195,The Greatest,Hat,,,,Postage Stamp,Purple Suit,Red,Signature
-196,Butterflies and Bees,Crown The GOAT,,,,,Black Suit,Purple,Signature
+196,Butterflies and Bees,Crown GOAT,,,,,Black Suit,Purple,Signature
 197,Butterflies and Bees,,,,Bruised Eye,,Navy Suit,Red,Signature
 198,The Greatest,Sparring Headgear,,Medal,,,,Purple,Signature
 199,The Greatest,,,Locked,Wayfarers,Shook Up The World,,Gold,Signature
@@ -203,9 +203,9 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 201,The Greatest,,Scratch,Medal,Laser Eyes,Towel,Peach Suit,Gold,Signature
 202,The Greatest,,,,,Red Gloves,,Purple,Signature
 203,Butterflies and Bees,Hat,,,,,,Gold,Signature
-204,The Greatest,Crown The GOAT,,,,Towel,,Black,Signature
+204,The Greatest,Crown GOAT,,,,Towel,,Black,Signature
 205,Butterflies and Bees,,Sweat,,,Towel,,Solana,Signature
-206,The Greatest,Crown The GOAT,,,Bruised Eye,Towel,Black Suit,Black,Signature
+206,The Greatest,Crown GOAT,,,Bruised Eye,Towel,Black Suit,Black,Signature
 207,Butterflies and Bees,,,GOAT Mouthguard,,Postage Stamp,Gown,Solana,Signature
 208,Butterflies and Bees,Hat,,Medal,,Black Gloves,,Red,Signature
 209,The Greatest,,Sweat,,,,,Solana,Signature
@@ -214,7 +214,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 212,The Greatest,,,,,Towel,,Purple,Signature
 213,The Greatest,Hat,Scratch,,Bruised Eye,Mirror,Gold Suit,Black,Signature
 214,The Greatest,Sparring Headgear,Sweat,,,Black Gloves,,Red,Signature
-215,The Greatest,Crown The GOAT,,,,Microphones,Gown,Black,Signature
+215,The Greatest,Crown GOAT,,,,Microphones,Gown,Black,Signature
 216,The Greatest,,,,,Postage Stamp,Peach Suit,Orange,Signature
 217,The Greatest,Hat,Scratch,,Bruised Eye,Red Gloves,,Black,Signature
 218,The Greatest,Halo,,,,Red Gloves,,Gold,Signature
@@ -230,7 +230,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 228,Underwater,,,Locked,Bruised Eye,,Black Suit,Solana,Signature
 229,The Greatest,,,,Laser Eyes,Black Gloves,Navy Suit,Purple,Signature
 230,The Greatest,,Scratch,,,Mirror,Gown,Black,Signature
-231,The Greatest,Crown The GOAT,,,,Towel,Peach Suit,Orange,Signature
+231,The Greatest,Crown GOAT,,,,Towel,Peach Suit,Orange,Signature
 232,The Greatest,,Sweat,,Wayfarers,Shook Up The World,,Orange,Signature
 233,The Greatest,Halo,,,,Speed Ball,Peach Suit,Purple,Signature
 234,The Greatest,Hat,,GOAT Mouthguard,Wayfarers,Shook Up The World,Navy Suit,Purple,Signature
@@ -241,10 +241,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 239,Underwater,,,,Wayfarers,,Navy Suit,Solana,Signature
 240,The Greatest,Hat,Sweat,GOAT Mouthguard,Bruised Eye,Towel,,Red,Signature
 241,The Greatest,,,,Wayfarers,,Gown,Black,Signature
-242,The Greatest,Crown The GOAT,Scratch,GOAT Mouthguard,Laser Eyes,Mirror,,Orange,Signature
+242,The Greatest,Crown GOAT,Scratch,GOAT Mouthguard,Laser Eyes,Mirror,,Orange,Signature
 243,The Greatest,,,Medal,,Diamond Gloves,Gown,Purple,Signature
 244,Butterflies and Bees,,,,,,Black Suit,Gold,Signature
-245,Butterflies and Bees,Crown The GOAT,,,,Postage Stamp,Peach Suit,Orange,Signature
+245,Butterflies and Bees,Crown GOAT,,,,Postage Stamp,Peach Suit,Orange,Signature
 246,The Greatest,,,,,Mirror,,Orange,Signature
 247,The Greatest,,,,,Microphones,Navy Suit,Solana,Signature
 248,Butterflies and Bees,Halo,,,,Speed Ball,Navy Suit,Orange,Signature
@@ -259,7 +259,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 257,The Greatest,Sparring Headgear,,,,Towel,,USA,Signature
 258,The Greatest,,,,,Shook Up The World,Elvis Gown,Black,Signature
 259,The Greatest,,,,,Speed Ball,Gold Suit,Purple,Signature
-260,Butterflies and Bees,Crown The GOAT,Sweat,Locked,Wayfarers,Red Gloves,,Orange,Signature
+260,Butterflies and Bees,Crown GOAT,Sweat,Locked,Wayfarers,Red Gloves,,Orange,Signature
 261,The Greatest,Halo,Sweat,,,Mirror,,Red,Signature
 262,The Greatest,,Scratch,,,Red Gloves,Black Suit,Purple,Signature
 263,Butterflies and Bees,,,Medal,,Postage Stamp,,Purple,Signature
@@ -269,19 +269,19 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 267,Underwater,,,,,Red Gloves,Black Suit,Solana,Signature
 268,The Greatest,,,GOAT Mouthguard,,Shook Up The World,Black Suit,Black,Signature
 269,The Greatest,Sparring Headgear,,,,Microphones,,Purple,Signature
-270,The Greatest,Crown The GOAT,Scratch,,,Shook Up The World,Peach Suit,Gold,Signature
+270,The Greatest,Crown GOAT,Scratch,,,Shook Up The World,Peach Suit,Gold,Signature
 271,The Greatest,,,Locked,,Postage Stamp,,Gold,Signature
 272,The Greatest,Hat,,,Laser Eyes,Red Gloves,The King's Gown,Cabin,Signature
 273,Butterflies and Bees,,,,,,Peach Suit,Gold,Signature
 274,Underwater,,,,,,Gown,Solana,Signature
-275,The Greatest,Crown The GOAT,Sweat,,,,,Orange,Signature
+275,The Greatest,Crown GOAT,Sweat,,,,,Orange,Signature
 276,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Towel,Peach Suit,Black,Signature
-277,The Greatest,Crown The GOAT,Sweat,,,Black Gloves,,Orange,Signature
+277,The Greatest,Crown GOAT,Sweat,,,Black Gloves,,Orange,Signature
 278,Butterflies and Bees,,,,,Red Gloves,Navy Suit,Gold,Signature
 279,The Greatest,,,,,Diamond Gloves,Navy Suit,Orange,Signature
 280,Butterflies and Bees,,,,Wayfarers,Towel,Gown,Red,Signature
 281,Underwater,Sparring Headgear,,,,Postage Stamp,,Purple,Signature
-282,Butterflies and Bees,Crown The GOAT,,,,,Gown,Black,Signature
+282,Butterflies and Bees,Crown GOAT,,,,,Gown,Black,Signature
 283,Underwater,,,GOAT Mouthguard,Laser Eyes,,Elvis Gown,Solana,Signature
 284,The Greatest,,,,,Mirror,Black Suit,Black,Signature
 285,Underwater,,Scratch,Medal,,,Peach Suit,Solana,Signature
@@ -292,11 +292,11 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 290,The Greatest,Halo,Sweat,GOAT Mouthguard,,Mirror,,Gold,Signature
 291,Butterflies and Bees,,Sweat,,Bruised Eye,Black Gloves,,Red,Signature
 292,Butterflies and Bees,,,,Laser Eyes,,Elvis Gown,Purple,Signature
-293,The Greatest,Crown The GOAT,Sweat,,Wayfarers,Red Gloves,,Black,Signature
-294,The Greatest,Crown The GOAT,,,Wayfarers,Shook Up The World,Gold Suit,Orange,Signature
+293,The Greatest,Crown GOAT,Sweat,,Wayfarers,Red Gloves,,Black,Signature
+294,The Greatest,Crown GOAT,,,Wayfarers,Shook Up The World,Gold Suit,Orange,Signature
 295,Butterflies and Bees,Hat,,Medal,,Red Gloves,Navy Suit,Purple,Signature
 296,The Greatest,Sparring Headgear,,,,Towel,Peach Suit,Purple,Signature
-297,Underwater,Crown The GOAT,Scratch,,Wayfarers,,Gold Suit,Solana,Signature
+297,Underwater,Crown GOAT,Scratch,,Wayfarers,,Gold Suit,Solana,Signature
 298,The Greatest,,,,,Postage Stamp,Black Suit,Black,Signature
 299,The Greatest,Halo,Sweat,,,Speed Ball,,Red,Signature
 300,The Greatest,,Scratch,,,Postage Stamp,Peach Suit,Red,Signature
@@ -309,22 +309,22 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 307,Butterflies and Bees,Halo,,Medal,Bruised Eye,Towel,Gown,Black,Signature
 308,Underwater,,Sweat,,,Speed Ball,,Purple,Signature
 309,The Greatest,,Scratch,,,Mirror,,Gold,Signature
-310,The Greatest,Crown The GOAT,Scratch,,,Speed Ball,Navy Suit,Red,Signature
+310,The Greatest,Crown GOAT,Scratch,,,Speed Ball,Navy Suit,Red,Signature
 311,Underwater,Hat,Sweat,,,Towel,,Solana,Signature
-312,Butterflies and Bees,Crown The GOAT,,,,Towel,Black Suit,Red,Signature
+312,Butterflies and Bees,Crown GOAT,,,,Towel,Black Suit,Red,Signature
 313,The Greatest,,,,,Postage Stamp,Navy Suit,Orange,Signature
 314,The Greatest,Hat,,,,,The King's Gown,Gold,Signature
-315,Underwater,Crown The GOAT,,,,Mirror,Elvis Gown,Solana,Signature
+315,Underwater,Crown GOAT,,,,Mirror,Elvis Gown,Solana,Signature
 316,The Greatest,,,,Wayfarers,Red Gloves,Elvis Gown,Black,Signature
 317,The Greatest,,,,Wayfarers,Speed Ball,Gold Suit,Red,Signature
 318,Underwater,,Sweat,GOAT Mouthguard,Bruised Eye,Towel,,Solana,Signature
-319,The Greatest,Crown The GOAT,,Medal,Wayfarers,Speed Ball,Gold Suit,Red,Signature
+319,The Greatest,Crown GOAT,,Medal,Wayfarers,Speed Ball,Gold Suit,Red,Signature
 320,The Greatest,Halo,,,,,,Orange,Signature
 321,The Greatest,Sparring Headgear,,,,Black Gloves,Navy Suit,Purple,Signature
 322,Butterflies and Bees,,,,,,,Purple,Signature
 323,The Greatest,Hat,Sweat,,,Shook Up The World,,Red,Signature
 324,The Greatest,Sparring Headgear,Sweat,GOAT Mouthguard,,Postage Stamp,,Red,Signature
-325,The Greatest,Crown The GOAT,,,Bruised Eye,,Gold Suit,Red,Signature
+325,The Greatest,Crown GOAT,,,Bruised Eye,,Gold Suit,Red,Signature
 326,Butterflies and Bees,,Scratch,,,Black Gloves,Navy Suit,Cabin,Signature
 327,The Greatest,,,,,Mirror,Navy Suit,Black,Signature
 328,The Greatest,,,Medal,,Speed Ball,,Purple,Signature
@@ -342,7 +342,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 340,Butterflies and Bees,,,Medal,Bruised Eye,Speed Ball,Gown,Purple,Signature
 341,The Greatest,,,,,Towel,Peach Suit,Red,Signature
 342,Butterflies and Bees,,,,,,Gown,Orange,Signature
-343,The Greatest,Crown The GOAT,,,Wayfarers,Towel,,Black,Signature
+343,The Greatest,Crown GOAT,,,Wayfarers,Towel,,Black,Signature
 344,The Greatest,Halo,,,Bruised Eye,,,Black,Signature
 345,Underwater,,Sweat,,,Red Gloves,,Solana,Signature
 346,The Greatest,,Sweat,,Bruised Eye,Black Gloves,,USA,Signature
@@ -357,7 +357,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 355,The Greatest,,,Medal,,Black Gloves,,USA,Signature
 356,The Greatest,Sparring Headgear,,,,Postage Stamp,Gown,Gold,Signature
 357,Butterflies and Bees,,Sweat,,,Postage Stamp,,Purple,Signature
-358,Butterflies and Bees,Crown The GOAT,,,,Postage Stamp,Purple Suit,Red,Signature
+358,Butterflies and Bees,Crown GOAT,,,,Postage Stamp,Purple Suit,Red,Signature
 359,The Greatest,,,,,Speed Ball,Peach Suit,Orange,Signature
 360,Butterflies and Bees,Sparring Headgear,,,,Speed Ball,Black Suit,Red,Signature
 361,The Greatest,,Sweat,,Wayfarers,Red Gloves,,Black,Signature
@@ -368,8 +368,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 366,Butterflies and Bees,,Scratch,GOAT Mouthguard,,,,Red,Signature
 367,The Greatest,,,,,,Navy Suit,Gold,Signature
 368,The Greatest,,,,Laser Eyes,Black Gloves,,Black,Signature
-369,The Greatest,Crown The GOAT,Sweat,,,Red Gloves,,Black,Signature
-370,The Greatest,Crown The GOAT,,,,Speed Ball,Black Suit,Solana,Signature
+369,The Greatest,Crown GOAT,Sweat,,,Red Gloves,,Black,Signature
+370,The Greatest,Crown GOAT,,,,Speed Ball,Black Suit,Solana,Signature
 371,The Greatest,Hat,,Medal,Wayfarers,Red Gloves,Navy Suit,USA,Signature
 372,Underwater,,Sweat,,,,,Solana,Signature
 373,Underwater,,,,Bruised Eye,Towel,Peach Suit,Purple,Signature
@@ -391,7 +391,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 389,The Greatest,Sparring Headgear,Sweat,,,Black Gloves,,Red,Signature
 390,Underwater,Sparring Headgear,Sweat,,,,,Solana,Signature
 391,Butterflies and Bees,,,,,Speed Ball,Purple Suit,Black,Signature
-392,The Greatest,Crown The GOAT,,GOAT Mouthguard,,,Peach Suit,Red,Signature
+392,The Greatest,Crown GOAT,,GOAT Mouthguard,,,Peach Suit,Red,Signature
 393,The Greatest,,Sweat,,,Shook Up The World,,Red,Signature
 394,The Greatest,Sparring Headgear,,,Laser Eyes,Towel,Elvis Gown,Purple,Signature
 395,The Greatest,Hat,Moustache,GOAT Mouthguard,,Shook Up The World,Black Suit,Purple,Signature
@@ -412,15 +412,15 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 410,Underwater,Hat,,,,Mirror,Gown,Purple,Signature
 411,Underwater,,,,,Shook Up The World,Black Suit,Solana,Signature
 412,The Greatest,,,Medal,Bruised Eye,Speed Ball,Peach Suit,Purple,Signature
-413,Butterflies and Bees,Crown The GOAT,Scratch,,,Black Gloves,Gown,Red,Signature
+413,Butterflies and Bees,Crown GOAT,Scratch,,,Black Gloves,Gown,Red,Signature
 414,The Greatest,,,,Wayfarers,Red Gloves,,Red,Signature
 415,The Greatest,,,,,,Peach Suit,Purple,Signature
-416,The Greatest,Crown The GOAT,Sweat,,,Shook Up The World,,Orange,Signature
+416,The Greatest,Crown GOAT,Sweat,,,Shook Up The World,,Orange,Signature
 417,The Greatest,Halo,,,Laser Eyes,Postage Stamp,,Purple,Signature
-418,Butterflies and Bees,Crown The GOAT,,Locked,Wayfarers,Red Gloves,,Orange,Signature
+418,Butterflies and Bees,Crown GOAT,,Locked,Wayfarers,Red Gloves,,Orange,Signature
 419,The Greatest,,Sweat,,,Speed Ball,,Gold,Signature
 420,The Greatest,,Sweat,GOAT Mouthguard,,Red Gloves,,Gold,Signature
-421,The Greatest,Crown The GOAT,Scratch,,,Towel,Navy Suit,Purple,Signature
+421,The Greatest,Crown GOAT,Scratch,,,Towel,Navy Suit,Purple,Signature
 422,The Greatest,Sparring Headgear,,GOAT Mouthguard,Bruised Eye,Towel,Elvis Gown,Red,Signature
 423,The Greatest,,,,Bruised Eye,Black Gloves,Peach Suit,Black,Signature
 424,The Greatest,,,,,Diamond Gloves,Gold Suit,Orange,Signature
@@ -433,32 +433,32 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 431,The Greatest,,,,,Shook Up The World,Gold Suit,Gold,Signature
 432,Underwater,,,Locked,,Black Gloves,,Solana,Signature
 433,The Greatest,Hat,,,,Shook Up The World,Gown,Red,Signature
-434,Butterflies and Bees,Crown The GOAT,,,,Black Gloves,Elvis Gown,Cabin,Signature
+434,Butterflies and Bees,Crown GOAT,,,,Black Gloves,Elvis Gown,Cabin,Signature
 435,Butterflies and Bees,Hat,,Medal,,,Navy Suit,Red,Signature
 436,Butterflies and Bees,Hat,,Medal,,Speed Ball,Gown,Gold,Signature
 437,The Greatest,Hat,Scratch,Medal,,,Peach Suit,Gold,Signature
 438,The Greatest,,,,,Red Gloves,Gown,Gold,Signature
 439,Butterflies and Bees,,,,,,,Black,Signature
 440,The Greatest,,Sweat,,,Towel,,Red,Signature
-441,The Greatest,Crown The GOAT,,,,Red Gloves,Purple Suit,Black,Signature
+441,The Greatest,Crown GOAT,,,,Red Gloves,Purple Suit,Black,Signature
 442,Butterflies and Bees,,,,Wayfarers,Speed Ball,Peach Suit,Black,Signature
 443,Butterflies and Bees,,Sweat,Medal,,Red Gloves,,Gold,Signature
 444,The Greatest,,,,,Postage Stamp,,Purple,Signature
 445,The Greatest,Hat,,,,Diamond Gloves,,Orange,Signature
 446,The Greatest,,,,Wayfarers,Towel,Black Suit,Black,Signature
 447,Butterflies and Bees,Sparring Headgear,,,,Postage Stamp,,Black,Signature
-448,The Greatest,Crown The GOAT,,,,Speed Ball,Navy Suit,Purple,Signature
+448,The Greatest,Crown GOAT,,,,Speed Ball,Navy Suit,Purple,Signature
 449,The Greatest,,,Locked,Bruised Eye,Speed Ball,,Red,Signature
 450,The Greatest,Halo,,,,Speed Ball,Purple Suit,USA,Signature
-451,The Greatest,Crown The GOAT,Sweat,Medal,,Postage Stamp,,Black,Signature
+451,The Greatest,Crown GOAT,Sweat,Medal,,Postage Stamp,,Black,Signature
 452,The Greatest,,Sweat,Dosbrak Bandana,Bruised Eye,Speed Ball,,USA,Signature
 453,The Greatest,,,Medal,Wayfarers,,Navy Suit,Solana,Signature
 454,Butterflies and Bees,Hat,Sweat,,,,,Orange,Signature
-455,The Greatest,Crown The GOAT,Sweat,Medal,Bruised Eye,Red Gloves,,Orange,Signature
+455,The Greatest,Crown GOAT,Sweat,Medal,Bruised Eye,Red Gloves,,Orange,Signature
 456,The Greatest,,Scratch,Locked,Wayfarers,,Black Suit,Gold,Signature
 457,The Greatest,,,Locked,,Towel,Peach Suit,Gold,Signature
 458,The Greatest,,,,,Red Gloves,,USA,Signature
-459,The Greatest,Crown The GOAT,,Dosbrak Bandana,,,Purple Suit,USA,Signature
+459,The Greatest,Crown GOAT,,Dosbrak Bandana,,,Purple Suit,USA,Signature
 460,The Greatest,,Sweat,,Bruised Eye,Lightbulbs & Wings,,Gold,Signature
 461,The Greatest,,Scratch,,Wayfarers,Red Gloves,Navy Suit,Gold,Signature
 462,The Greatest,,,,,Shook Up The World,,Red,Signature
@@ -471,7 +471,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 469,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Towel,Navy Suit,USA,Signature
 470,Underwater,,,,,,,Solana,Signature
 471,The Greatest,Halo,Sweat,,Wayfarers,,,Gold,Signature
-472,The Greatest,Crown The GOAT,Scratch,,,Mirror,Navy Suit,Gold,Signature
+472,The Greatest,Crown GOAT,Scratch,,,Mirror,Navy Suit,Gold,Signature
 473,The Greatest,Halo,,Medal,,Postage Stamp,,USA,Signature
 474,The Greatest,,Sweat,,Bruised Eye,Shook Up The World,,Black,Signature
 475,The Greatest,,,,,Red Gloves,Peach Suit,Black,Signature
@@ -480,30 +480,30 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 478,The Greatest,,,,Laser Eyes,Black Gloves,Gown,Purple,Signature
 479,Underwater,,Sweat,,,Postage Stamp,,Black,Signature
 480,The Greatest,Halo,,,,Diamond Gloves,Peach Suit,Red,Signature
-481,Butterflies and Bees,Crown The GOAT,,,,Postage Stamp,,Purple,Signature
+481,Butterflies and Bees,Crown GOAT,,,,Postage Stamp,,Purple,Signature
 482,The Greatest,,,,,Shook Up The World,Navy Suit,Black,Signature
 483,Butterflies and Bees,Sparring Headgear,,,,Towel,Elvis Gown,Black,Signature
-484,The Greatest,Crown The GOAT,,Medal,,Red Gloves,Navy Suit,Gold,Signature
+484,The Greatest,Crown GOAT,,Medal,,Red Gloves,Navy Suit,Gold,Signature
 485,Butterflies and Bees,,,GOAT Mouthguard,Bruised Eye,Towel,Gown,Gold,Signature
-486,The Greatest,Crown The GOAT,,,,Red Gloves,Peach Suit,Gold,Signature
+486,The Greatest,Crown GOAT,,,,Red Gloves,Peach Suit,Gold,Signature
 487,The Greatest,,Scratch,,Wayfarers,,Gown,Black,Signature
-488,The Greatest,Crown The GOAT,,,,,Navy Suit,Black,Signature
+488,The Greatest,Crown GOAT,,,,,Navy Suit,Black,Signature
 489,Underwater,Halo,,Medal,Wayfarers,Black Gloves,Navy Suit,Purple,Signature
-490,The Greatest,Crown The GOAT,,Medal,,Postage Stamp,Peach Suit,Red,Signature
+490,The Greatest,Crown GOAT,,Medal,,Postage Stamp,Peach Suit,Red,Signature
 491,The Greatest,Halo,Moustache,,Laser Eyes,Microphones,Navy Suit,USA,Signature
-492,Underwater,Crown The GOAT,,,,Speed Ball,Elvis Gown,Purple,Signature
+492,Underwater,Crown GOAT,,,,Speed Ball,Elvis Gown,Purple,Signature
 493,The Greatest,Hat,,,Bruised Eye,Towel,,Red,Signature
 494,The Greatest,Hat,,,,Speed Ball,Black Suit,USA,Signature
 495,The Greatest,Sparring Headgear,,Locked,,Microphones,Purple Suit,Orange,Signature
 496,The Greatest,Sparring Headgear,Moustache,,,,Navy Suit,Black,Signature
-497,Underwater,Crown The GOAT,,Medal,,Red Gloves,,Solana,Signature
+497,Underwater,Crown GOAT,,Medal,,Red Gloves,,Solana,Signature
 498,Butterflies and Bees,,,GOAT Mouthguard,Wayfarers,Black Gloves,Navy Suit,Gold,Signature
 499,Butterflies and Bees,,Scratch,Medal,,,Navy Suit,Orange,Signature
 500,The Greatest,,Sweat,,,Towel,,Gold,Signature
 501,The Greatest,Hat,,,,Shook Up The World,Navy Suit,USA,Signature
 502,Butterflies and Bees,Halo,Sweat,,Bruised Eye,Black Gloves,,Purple,Signature
 503,The Greatest,Halo,Scratch,,Wayfarers,Towel,Purple Suit,Black,Signature
-504,The Greatest,Crown The GOAT,,Locked,,Shook Up The World,Elvis Gown,Orange,Signature
+504,The Greatest,Crown GOAT,,Locked,,Shook Up The World,Elvis Gown,Orange,Signature
 505,The Greatest,Hat,,,,Towel,Peach Suit,Black,Signature
 506,The Greatest,,,,,Postage Stamp,Purple Suit,Orange,Signature
 507,The Greatest,,Sweat,,,Microphones,,Orange,Signature
@@ -512,12 +512,12 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 510,The Greatest,Hat,,,,Red Gloves,Gown,Gold,Signature
 511,The Greatest,Hat,,GOAT Mouthguard,,Black Gloves,Navy Suit,Black,Signature
 512,The Greatest,,Sweat,Medal,Wayfarers,Black Gloves,,Gold,Signature
-513,The Greatest,Crown The GOAT,,,,Shook Up The World,Gold Suit,Black,Signature
+513,The Greatest,Crown GOAT,,,,Shook Up The World,Gold Suit,Black,Signature
 514,The Greatest,Hat,Scratch,Medal,,Mirror,Navy Suit,Solana,Signature
-515,The Greatest,Crown The GOAT,,,Bruised Eye,,Gown,Gold,Signature
+515,The Greatest,Crown GOAT,,,Bruised Eye,,Gown,Gold,Signature
 516,The Greatest,,,,,Shook Up The World,,Red,Signature
 517,The Greatest,Sparring Headgear,,,,Red Gloves,Purple Suit,Black,Signature
-518,Butterflies and Bees,Crown The GOAT,,,Bruised Eye,Towel,Navy Suit,Black,Signature
+518,Butterflies and Bees,Crown GOAT,,,Bruised Eye,Towel,Navy Suit,Black,Signature
 519,Underwater,Halo,Sweat,,,Speed Ball,,Black,Signature
 520,The Greatest,,,Locked,Laser Eyes,Shook Up The World,Peach Suit,Orange,Signature
 521,The Greatest,,Sweat,,,Mirror,,Gold,Signature
@@ -529,7 +529,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 527,The Greatest,,Sweat,Medal,Wayfarers,Black Gloves,,Black,Signature
 528,The Greatest,Sparring Headgear,,,,Postage Stamp,,Orange,Signature
 529,The Greatest,,Sweat,,,Towel,,Gold,Signature
-530,The Greatest,Crown The GOAT,,Medal,Wayfarers,Red Gloves,Black Suit,Gold,Signature
+530,The Greatest,Crown GOAT,,Medal,Wayfarers,Red Gloves,Black Suit,Gold,Signature
 531,Butterflies and Bees,,Scratch,,Wayfarers,Black Gloves,,Red,Signature
 532,The Greatest,Sparring Headgear,,,,,Gold Suit,Red,Signature
 533,The Greatest,,,,Laser Eyes,Postage Stamp,Peach Suit,Gold,Signature
@@ -540,11 +540,11 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 538,The Greatest,Hat,,Medal,,Speed Ball,Gold Suit,Orange,Signature
 539,The Greatest,,,GOAT Mouthguard,,Red Gloves,Gold Suit,Orange,Signature
 540,The Greatest,Hat,,,Laser Eyes,Speed Ball,Purple Suit,Red,Signature
-541,The Greatest,Crown The GOAT,,,Bruised Eye,Towel,,Black,Signature
+541,The Greatest,Crown GOAT,,,Bruised Eye,Towel,,Black,Signature
 542,Butterflies and Bees,Sparring Headgear,Sweat,,Bruised Eye,Red Gloves,,Gold,Signature
 543,The Greatest,Hat,Moustache,,,Red Gloves,Navy Suit,Red,Signature
 544,Butterflies and Bees,,,,,Towel,Black Suit,Black,Signature
-545,Underwater,Crown The GOAT,,,,Towel,Peach Suit,Black,Signature
+545,Underwater,Crown GOAT,,,,Towel,Peach Suit,Black,Signature
 546,Underwater,,Sweat,,,Towel,,Purple,Signature
 547,The Greatest,Hat,,,,Towel,Navy Suit,USA,Signature
 548,Butterflies and Bees,,Sweat,,Bruised Eye,Postage Stamp,,USA,Signature
@@ -553,7 +553,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 551,Butterflies and Bees,,,,Wayfarers,,Peach Suit,Red,Signature
 552,The Greatest,,,,,Red Gloves,Purple Suit,Black,Signature
 553,Underwater,,,Medal,Wayfarers,,,Solana,Signature
-554,The Greatest,Crown The GOAT,,Medal,Bruised Eye,Shook Up The World,Black Suit,Black,Signature
+554,The Greatest,Crown GOAT,,Medal,Bruised Eye,Shook Up The World,Black Suit,Black,Signature
 555,Underwater,,,,Bruised Eye,Black Gloves,Gold Suit,Black,Signature
 556,Butterflies and Bees,,Scratch,,Laser Eyes,Black Gloves,,Black,Signature
 557,The Greatest,Hat,Scratch,GOAT Mouthguard,,Red Gloves,Black Suit,Solana,Signature
@@ -577,14 +577,14 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 575,The Greatest,Sparring Headgear,,,,Microphones,Purple Suit,Orange,Signature
 576,The Greatest,,,,,Towel,,Purple,Signature
 577,The Greatest,Halo,,GOAT Mouthguard,Wayfarers,Speed Ball,Peach Suit,Black,Signature
-578,The Greatest,Crown The GOAT,,,Laser Eyes,Red Gloves,Gown,Orange,Signature
+578,The Greatest,Crown GOAT,,,Laser Eyes,Red Gloves,Gown,Orange,Signature
 579,The Greatest,,,Medal,Wayfarers,Towel,Black Suit,Black,Signature
 580,The Greatest,,Sweat,,,Shook Up The World,,Black,Signature
 581,The Greatest,Sparring Headgear,Sweat,GOAT Mouthguard,,Mirror,,Red,Signature
 582,The Greatest,,,GOAT Mouthguard,,,Navy Suit,Purple,Signature
 583,The Greatest,Sparring Headgear,,,,,Navy Suit,Orange,Signature
 584,Underwater,Hat,,Medal,Bruised Eye,Black Gloves,,Purple,Signature
-585,Butterflies and Bees,Crown The GOAT,,,Laser Eyes,,Peach Suit,Orange,Signature
+585,Butterflies and Bees,Crown GOAT,,,Laser Eyes,,Peach Suit,Orange,Signature
 586,The Greatest,Hat,Sweat,,,Speed Ball,,Gold,Signature
 587,The Greatest,,Sweat,Medal,Wayfarers,Shook Up The World,,Black,Signature
 588,The Greatest,,Sweat,GOAT Mouthguard,,Postage Stamp,,Red,Signature
@@ -610,19 +610,19 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 608,The Greatest,Hat,Sweat,Locked,,Microphones,,Red,Signature
 609,The Greatest,Hat,Scratch,,,Postage Stamp,Purple Suit,Black,Signature
 610,The Greatest,Hat,Sweat,,,Black Gloves,,Gold,Signature
-611,The Greatest,Crown The GOAT,,,,Microphones,Elvis Gown,Red,Signature
+611,The Greatest,Crown GOAT,,,,Microphones,Elvis Gown,Red,Signature
 612,The Greatest,,,,,Red Gloves,Purple Suit,USA,Signature
-613,The Greatest,Crown The GOAT,Sweat,,,,,Solana,Signature
+613,The Greatest,Crown GOAT,Sweat,,,,,Solana,Signature
 614,Butterflies and Bees,Halo,,,Laser Eyes,,Navy Suit,Purple,Signature
 615,The Greatest,Hat,Scratch,GOAT Mouthguard,,Speed Ball,Black Suit,Cabin,Signature
-616,The Greatest,Crown The GOAT,Moustache,,Laser Eyes,Red Gloves,Gown,Black,Signature
+616,The Greatest,Crown GOAT,Moustache,,Laser Eyes,Red Gloves,Gown,Black,Signature
 617,Butterflies and Bees,,,,,,Peach Suit,Purple,Signature
 618,The Greatest,Crown,Sweat,,,Microphones,,Purple,Signature
 619,The Greatest,,,Medal,Wayfarers,Black Gloves,Navy Suit,Gold,Signature
 620,Butterflies and Bees,,Scratch,,,,Peach Suit,Purple,Signature
 621,The Greatest,Hat,,Medal,Wayfarers,Speed Ball,Peach Suit,USA,Signature
-622,Butterflies and Bees,Crown The GOAT,,,Wayfarers,Black Gloves,Peach Suit,Solana,Signature
-623,Butterflies and Bees,Crown The GOAT,Moustache,Medal,Wayfarers,,Purple Suit,Orange,Signature
+622,Butterflies and Bees,Crown GOAT,,,Wayfarers,Black Gloves,Peach Suit,Solana,Signature
+623,Butterflies and Bees,Crown GOAT,Moustache,Medal,Wayfarers,,Purple Suit,Orange,Signature
 624,The Greatest,,,,Wayfarers,,Peach Suit,Orange,Signature
 625,The Greatest,,Sweat,GOAT Mouthguard,Bruised Eye,Mirror,,Red,Signature
 626,The Greatest,,,Medal,Laser Eyes,Speed Ball,Purple Suit,Orange,Signature
@@ -643,10 +643,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 641,The Greatest,,Sweat,GOAT Mouthguard,Bruised Eye,Speed Ball,,Purple,Signature
 642,The Greatest,,,Medal,Wayfarers,Black Gloves,Gown,Orange,Signature
 643,The Greatest,,Scratch,,Wayfarers,Microphones,Gown,Orange,Signature
-644,Underwater,Crown The GOAT,,Medal,,Shook Up The World,Gown,Black,Signature
+644,Underwater,Crown GOAT,,Medal,,Shook Up The World,Gown,Black,Signature
 645,The Greatest,Hat,,,Bruised Eye,Diamond Gloves,Gold Suit,Black,Signature
 646,The Greatest,,,,Laser Eyes,Black Gloves,,Red,Signature
-647,Underwater,Crown The GOAT,,,,Microphones,Black Suit,Solana,Signature
+647,Underwater,Crown GOAT,,,,Microphones,Black Suit,Solana,Signature
 648,The Greatest,,,GOAT Mouthguard,Wayfarers,Red Gloves,Elvis Gown,Black,Signature
 649,Butterflies and Bees,,,,,Speed Ball,Purple Suit,Solana,Signature
 650,The Greatest,Crown,,GOAT Mouthguard,,Towel,Peach Suit,Purple,Signature
@@ -655,7 +655,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 653,Underwater,,Sweat,Locked,,Towel,,Solana,Signature
 654,The Greatest,Crown,,GOAT Mouthguard,,Postage Stamp,,Orange,Signature
 655,Underwater,,Sweat,,,Towel,,Black,Signature
-656,Butterflies and Bees,Crown The GOAT,,Medal,,Red Gloves,Gold Suit,Purple,Signature
+656,Butterflies and Bees,Crown GOAT,,Medal,,Red Gloves,Gold Suit,Purple,Signature
 657,Butterflies and Bees,,,,,Speed Ball,Black Suit,Orange,Signature
 658,Underwater,,Sweat,Locked,Wayfarers,Postage Stamp,,Purple,Signature
 659,Underwater,,,,,Speed Ball,Peach Suit,Black,Signature
@@ -666,12 +666,12 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 664,The Greatest,,Sweat,,,Black Gloves,,Purple,Signature
 665,Underwater,Hat,,,,Speed Ball,Peach Suit,Solana,Signature
 666,Underwater,Halo,,,,Microphones,Gown,Black,Signature
-667,The Greatest,Crown The GOAT,Scratch,,,Red Gloves,,Gold,Signature
+667,The Greatest,Crown GOAT,Scratch,,,Red Gloves,,Gold,Signature
 668,The Greatest,,,,,Microphones,Peach Suit,Black,Signature
 669,The Greatest,,Sweat,,,Towel,,Purple,Signature
 670,The Greatest,,,,,Postage Stamp,Purple Suit,Solana,Signature
 671,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Microphones,Gown,Red,Signature
-672,The Greatest,Crown The GOAT,,,,Black Gloves,Navy Suit,Orange,Signature
+672,The Greatest,Crown GOAT,,,,Black Gloves,Navy Suit,Orange,Signature
 673,The Greatest,,,,,Red Gloves,Black Suit,Red,Signature
 674,Butterflies and Bees,Hat,,,,Postage Stamp,Black Suit,USA,Signature
 675,The Greatest,Sparring Headgear,,Medal,,Postage Stamp,Peach Suit,Black,Signature
@@ -710,7 +710,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 708,The Greatest,Hat,,,Bruised Eye,Red Gloves,Astronaut,Purple,Signature
 709,Underwater,Sparring Headgear,Scratch,,,Red Gloves,Navy Suit,Solana,Signature
 710,The Greatest,,Sweat,,,Postage Stamp,,Purple,Signature
-711,The Greatest,Crown The GOAT,,,Wayfarers,Speed Ball,Navy Suit,Black,Signature
+711,The Greatest,Crown GOAT,,,Wayfarers,Speed Ball,Navy Suit,Black,Signature
 712,The Greatest,Crown,Sweat,,Wayfarers,Black Gloves,,Red,Signature
 713,Butterflies and Bees,,Sweat,,,,,Black,Signature
 714,The Greatest,,,Medal,,Diamond Gloves,Purple Suit,Red,Signature
@@ -734,7 +734,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 732,Underwater,,,GOAT Mouthguard,Laser Eyes,,Peach Suit,Purple,Signature
 733,The Greatest,Sparring Headgear,,,,Red Gloves,Black Suit,USA,Signature
 734,Underwater,,,,,Red Gloves,Peach Suit,Solana,Signature
-735,The Greatest,Crown The GOAT,,,,,The King's Gown,Red,Signature
+735,The Greatest,Crown GOAT,,,,,The King's Gown,Red,Signature
 736,The Greatest,Sparring Headgear,,,,Red Gloves,Navy Suit,USA,Signature
 737,The Greatest,Hat,,,Wayfarers,Black Gloves,Navy Suit,Red,Signature
 738,The Greatest,,,GOAT Mouthguard,Wayfarers,Towel,,Gold,Signature
@@ -747,26 +747,26 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 745,The Greatest,,,,Wayfarers,Shook Up The World,Navy Suit,Black,Signature
 746,The Greatest,Sparring Headgear,,Dosbrak Bandana,,Speed Ball,Black Suit,Purple,Signature
 747,The Greatest,,Sweat,,,Towel,,Red,Signature
-748,The Greatest,Crown The GOAT,Scratch,GOAT Mouthguard,,,,Gold,Signature
+748,The Greatest,Crown GOAT,Scratch,GOAT Mouthguard,,,,Gold,Signature
 749,Underwater,,,,Laser Eyes,Black Gloves,Elvis Gown,Solana,Signature
 750,The Greatest,,,,,Mirror,Peach Suit,Purple,Signature
 751,The Greatest,,Sweat,Medal,,Speed Ball,,Purple,Signature
 752,Butterflies and Bees,,,,,Red Gloves,Purple Suit,USA,Signature
 753,The Greatest,,,GOAT Mouthguard,,Mirror,,Orange,Signature
 754,Butterflies and Bees,Hat,,,,Black Gloves,,Purple,Signature
-755,The Greatest,Crown The GOAT,,GOAT Mouthguard,Bruised Eye,Speed Ball,Gown,Black,Signature
+755,The Greatest,Crown GOAT,,GOAT Mouthguard,Bruised Eye,Speed Ball,Gown,Black,Signature
 756,Underwater,Hat,,GOAT Mouthguard,,Red Gloves,Gown,Solana,Signature
 757,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Black Gloves,Black Suit,USA,Signature
 758,The Greatest,Crown,,,,Speed Ball,Peach Suit,Black,Signature
 759,Butterflies and Bees,Hat,,,,Black Gloves,,Black,Signature
-760,Underwater,Crown The GOAT,,,,Towel,Navy Suit,Black,Signature
+760,Underwater,Crown GOAT,,,,Towel,Navy Suit,Black,Signature
 761,Underwater,,,,,Postage Stamp,Gown,Black,Signature
 762,Butterflies and Bees,,,Medal,,Speed Ball,,USA,Signature
 763,The Greatest,Sparring Headgear,,,,Diamond Gloves,Purple Suit,Orange,Signature
-764,The Greatest,Crown The GOAT,,Medal,,Black Gloves,The King's Gown,Black,Signature
-765,Underwater,Crown The GOAT,,,,Towel,,Solana,Signature
-766,Underwater,Crown The GOAT,,Medal,,Towel,Navy Suit,Black,Signature
-767,The Greatest,Crown The GOAT,Sweat,,,Black Gloves,,Gold,Signature
+764,The Greatest,Crown GOAT,,Medal,,Black Gloves,The King's Gown,Black,Signature
+765,Underwater,Crown GOAT,,,,Towel,,Solana,Signature
+766,Underwater,Crown GOAT,,Medal,,Towel,Navy Suit,Black,Signature
+767,The Greatest,Crown GOAT,Sweat,,,Black Gloves,,Gold,Signature
 768,Butterflies and Bees,Hat,,,,,Peach Suit,Gold,Signature
 769,The Greatest,Hat,,,,Towel,,Orange,Signature
 770,The Greatest,,Moustache,Locked,,Black Gloves,,Gold,Signature
@@ -780,10 +780,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 778,The Greatest,,,,,Shook Up The World,Gown,Purple,Signature
 779,The Greatest,,,GOAT Mouthguard,Wayfarers,Red Gloves,,Black,Signature
 780,The Greatest,Sparring Headgear,,,Bruised Eye,Microphones,Gold Suit,Black,Signature
-781,The Greatest,Crown The GOAT,,Medal,,Red Gloves,Navy Suit,Purple,Signature
+781,The Greatest,Crown GOAT,,Medal,,Red Gloves,Navy Suit,Purple,Signature
 782,The Greatest,Hat,,,,,Gold Suit,Black,Signature
 783,The Greatest,Hat,Scratch,,,,Navy Suit,Red,Signature
-784,The Greatest,Crown The GOAT,,,,Postage Stamp,Navy Suit,Orange,Signature
+784,The Greatest,Crown GOAT,,,,Postage Stamp,Navy Suit,Orange,Signature
 785,Butterflies and Bees,,,GOAT Mouthguard,Bruised Eye,,Navy Suit,Red,Signature
 786,Underwater,Sparring Headgear,,,,Towel,Navy Suit,Black,Signature
 787,The Greatest,Hat,,,,,Peach Suit,Red,Signature
@@ -803,13 +803,13 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 801,Underwater,,Sweat,GOAT Mouthguard,,,,Solana,Signature
 802,The Greatest,Halo,,,,Black Gloves,,Black,Signature
 803,The Greatest,Halo,,,Wayfarers,,Gown,Orange,Signature
-804,The Greatest,Crown The GOAT,Sweat,,Wayfarers,Speed Ball,,Purple,Signature
+804,The Greatest,Crown GOAT,Sweat,,Wayfarers,Speed Ball,,Purple,Signature
 805,The Greatest,Halo,Sweat,,Laser Eyes,Red Gloves,,Purple,Signature
 806,The Greatest,,,Locked,Wayfarers,Postage Stamp,Elvis Gown,Black,Signature
 807,The Greatest,Hat,,,Bruised Eye,Speed Ball,Gown,Red,Signature
 808,The Greatest,,,,,Speed Ball,,USA,Signature
 809,The Greatest,,Sweat,,Laser Eyes,Red Gloves,,Gold,Signature
-810,The Greatest,Crown The GOAT,,,,Red Gloves,,Gold,Signature
+810,The Greatest,Crown GOAT,,,,Red Gloves,,Gold,Signature
 811,Butterflies and Bees,,,,,Black Gloves,Gown,Gold,Signature
 812,The Greatest,,Sweat,,,Red Gloves,,Purple,Signature
 813,Underwater,Sparring Headgear,,,,Postage Stamp,Gown,Solana,Signature
@@ -830,17 +830,17 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 828,The Greatest,,Scratch,,Wayfarers,Red Gloves,Gown,Solana,Signature
 829,The Greatest,,Sweat,,,Mirror,,Orange,Signature
 830,The Greatest,,,GOAT Mouthguard,Bruised Eye,Shook Up The World,Navy Suit,Red,Signature
-831,The Greatest,Crown The GOAT,,,,Black Gloves,Navy Suit,Black,Signature
+831,The Greatest,Crown GOAT,,,,Black Gloves,Navy Suit,Black,Signature
 832,Butterflies and Bees,,,,,Black Gloves,,Solana,Signature
-833,Butterflies and Bees,Crown The GOAT,,,Wayfarers,Black Gloves,Peach Suit,Orange,Signature
+833,Butterflies and Bees,Crown GOAT,,,Wayfarers,Black Gloves,Peach Suit,Orange,Signature
 834,Butterflies and Bees,Sparring Headgear,Sweat,,,,,Orange,Signature
 835,Butterflies and Bees,Halo,,,,Red Gloves,Elvis Gown,Red,Signature
 836,The Greatest,Sparring Headgear,Sweat,Medal,Bruised Eye,,,Gold,Signature
 837,The Greatest,,,,,Speed Ball,Purple Suit,Red,Signature
 838,The Greatest,Hat,,,,Postage Stamp,Black Suit,Black,Signature
 839,The Greatest,,Moustache,,,Towel,,Purple,Signature
-840,The Greatest,Crown The GOAT,,,,Red Gloves,,USA,Signature
-841,Butterflies and Bees,Crown The GOAT,Sweat,GOAT Mouthguard,Bruised Eye,,,Gold,Signature
+840,The Greatest,Crown GOAT,,,,Red Gloves,,USA,Signature
+841,Butterflies and Bees,Crown GOAT,Sweat,GOAT Mouthguard,Bruised Eye,,,Gold,Signature
 842,Underwater,,,,Laser Eyes,,,Purple,Signature
 843,The Greatest,Crown,,,Wayfarers,Lightbulbs & Wings,Purple Suit,Orange,Signature
 844,Butterflies and Bees,,,,,Red Gloves,Elvis Gown,Purple,Signature
@@ -861,7 +861,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 859,The Greatest,Sparring Headgear,,,Laser Eyes,,Purple Suit,Black,Signature
 860,The Greatest,,,,Bruised Eye,Lightbulbs & Wings,Purple Suit,Orange,Signature
 861,The Greatest,Halo,Scratch,,Wayfarers,Red Gloves,Peach Suit,Purple,Signature
-862,The Greatest,Crown The GOAT,Scratch,GOAT Mouthguard,Laser Eyes,Red Gloves,Black Suit,Red,Signature
+862,The Greatest,Crown GOAT,Scratch,GOAT Mouthguard,Laser Eyes,Red Gloves,Black Suit,Red,Signature
 863,Underwater,,Sweat,,,Red Gloves,,Solana,Signature
 864,The Greatest,,Sweat,,,,,Solana,Signature
 865,Butterflies and Bees,Sparring Headgear,Scratch,,,Postage Stamp,Navy Suit,Orange,Signature
@@ -884,8 +884,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 882,Underwater,,,,,Black Gloves,Navy Suit,Solana,Signature
 883,Butterflies and Bees,,Scratch,,,Black Gloves,,Black,Signature
 884,The Greatest,,,,,Speed Ball,Elvis Gown,Gold,Signature
-885,The Greatest,Crown The GOAT,,Locked,,Red Gloves,Navy Suit,Black,Signature
-886,The Greatest,Crown The GOAT,Scratch,Medal,,,Navy Suit,USA,Signature
+885,The Greatest,Crown GOAT,,Locked,,Red Gloves,Navy Suit,Black,Signature
+886,The Greatest,Crown GOAT,Scratch,Medal,,,Navy Suit,USA,Signature
 887,The Greatest,,,GOAT Mouthguard,,,,Red,Signature
 888,The Greatest,,,Medal,,,Gown,Red,Signature
 889,Underwater,,Sweat,,Wayfarers,,,Purple,Signature
@@ -893,16 +893,16 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 891,The Greatest,,,,,Black Gloves,Gown,Red,Signature
 892,The Greatest,Halo,Sweat,,,Postage Stamp,,Red,Signature
 893,Butterflies and Bees,Sparring Headgear,,,,,Navy Suit,Purple,Signature
-894,The Greatest,Crown The GOAT,,,,Towel,Peach Suit,Purple,Signature
+894,The Greatest,Crown GOAT,,,,Towel,Peach Suit,Purple,Signature
 895,The Greatest,,Scratch,,,,Black Suit,Black,Signature
 896,Underwater,,Scratch,,Bruised Eye,Shook Up The World,Navy Suit,Solana,Signature
 897,Butterflies and Bees,,,,,,Elvis Gown,Black,Signature
 898,The Greatest,,,Locked,,Black Gloves,Peach Suit,Black,Signature
 899,Butterflies and Bees,,,,,Postage Stamp,Navy Suit,Black,Signature
-900,The Greatest,Crown The GOAT,,GOAT Mouthguard,,Speed Ball,Black Suit,Gold,Signature
+900,The Greatest,Crown GOAT,,GOAT Mouthguard,,Speed Ball,Black Suit,Gold,Signature
 901,Butterflies and Bees,Halo,,,,,Gown,Gold,Signature
 902,Butterflies and Bees,,Sweat,GOAT Mouthguard,,,,Purple,Signature
-903,The Greatest,Crown The GOAT,,,,Shook Up The World,Gown,Red,Signature
+903,The Greatest,Crown GOAT,,,,Shook Up The World,Gown,Red,Signature
 904,The Greatest,,,,,Mirror,Gown,Red,Signature
 905,Butterflies and Bees,,,,,Speed Ball,Navy Suit,Gold,Signature
 906,Underwater,Halo,,Medal,Wayfarers,Speed Ball,Black Suit,Solana,Signature
@@ -914,7 +914,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 912,The Greatest,,,,,Speed Ball,Gown,Red,Signature
 913,Butterflies and Bees,,,,,Postage Stamp,Black Suit,Gold,Signature
 914,The Greatest,Halo,,,Wayfarers,Speed Ball,Gold Suit,Black,Signature
-915,Butterflies and Bees,Crown The GOAT,,,,,Gown,Gold,Signature
+915,Butterflies and Bees,Crown GOAT,,,,,Gown,Gold,Signature
 916,The Greatest,Sparring Headgear,Sweat,,,Microphones,,Black,Signature
 917,Butterflies and Bees,Hat,,,Wayfarers,Black Gloves,,Purple,Signature
 918,Underwater,,,Locked,Wayfarers,Red Gloves,Navy Suit,Solana,Signature
@@ -925,59 +925,59 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 923,The Greatest,,,,,Black Gloves,Peach Suit,Gold,Signature
 924,The Greatest,,Sweat,,,Black Gloves,,Red,Signature
 925,Underwater,Hat,,,Wayfarers,,Gown,Black,Signature
-926,Butterflies and Bees,Crown The GOAT,Sweat,,,Black Gloves,,Red,Signature
-927,Underwater,Crown The GOAT,,,,,Elvis Gown,Purple,Signature
+926,Butterflies and Bees,Crown GOAT,Sweat,,,Black Gloves,,Red,Signature
+927,Underwater,Crown GOAT,,,,,Elvis Gown,Purple,Signature
 928,The Greatest,,Scratch,Medal,,Speed Ball,,Gold,Signature
 929,The Greatest,Hat,,,Wayfarers,,Elvis Gown,Gold,Signature
 930,Underwater,,,,Laser Eyes,Red Gloves,Astronaut,Solana,Signature
 931,The Greatest,,,,Bruised Eye,Speed Ball,Black Suit,Gold,Signature
 932,The Greatest,,Scratch,,,Postage Stamp,Black Suit,Black,Signature
 933,The Greatest,,Sweat,GOAT Mouthguard,,Shook Up The World,,Red,Signature
-934,The Greatest,Crown The GOAT,,,Wayfarers,Black Gloves,Navy Suit,Black,Signature
+934,The Greatest,Crown GOAT,,,Wayfarers,Black Gloves,Navy Suit,Black,Signature
 935,The Greatest,,,GOAT Mouthguard,,,Black Suit,Red,Signature
-936,Butterflies and Bees,Crown The GOAT,Moustache,,Bruised Eye,Red Gloves,Gown,Purple,Signature
-937,The Greatest,Crown The GOAT,,,,Red Gloves,Navy Suit,Red,Signature
+936,Butterflies and Bees,Crown GOAT,Moustache,,Bruised Eye,Red Gloves,Gown,Purple,Signature
+937,The Greatest,Crown GOAT,,,,Red Gloves,Navy Suit,Red,Signature
 938,Butterflies and Bees,,,,Wayfarers,Towel,Gown,Red,Signature
 939,The Greatest,Sparring Headgear,,,,,Navy Suit,Black,Signature
 940,Butterflies and Bees,Hat,Scratch,Medal,Laser Eyes,,Elvis Gown,Purple,Signature
-941,The Greatest,Crown The GOAT,,,,Towel,Navy Suit,Purple,Signature
+941,The Greatest,Crown GOAT,,,,Towel,Navy Suit,Purple,Signature
 942,Butterflies and Bees,,Moustache,,Wayfarers,Red Gloves,,Purple,Signature
 943,The Greatest,Sparring Headgear,,,,Red Gloves,Purple Suit,Red,Signature
 944,The Greatest,,,,,Red Gloves,Navy Suit,Gold,Signature
-945,Butterflies and Bees,Crown The GOAT,,,Wayfarers,Speed Ball,Black Suit,Solana,Signature
-946,Butterflies and Bees,Crown The GOAT,,,Wayfarers,,Purple Suit,Gold,Signature
+945,Butterflies and Bees,Crown GOAT,,,Wayfarers,Speed Ball,Black Suit,Solana,Signature
+946,Butterflies and Bees,Crown GOAT,,,Wayfarers,,Purple Suit,Gold,Signature
 947,The Greatest,,Sweat,,,Shook Up The World,,Red,Signature
 948,The Greatest,Sparring Headgear,,,Laser Eyes,,Gold Suit,Red,Signature
 949,The Greatest,,,,,Red Gloves,Black Suit,Red,Signature
 950,The Greatest,Hat,,,,Red Gloves,Navy Suit,Red,Signature
-951,Butterflies and Bees,Crown The GOAT,Sweat,,,Postage Stamp,,Gold,Signature
+951,Butterflies and Bees,Crown GOAT,Sweat,,,Postage Stamp,,Gold,Signature
 952,The Greatest,Sparring Headgear,,,,Postage Stamp,Navy Suit,Orange,Signature
-953,Butterflies and Bees,Crown The GOAT,Sweat,Medal,,Black Gloves,,Red,Signature
+953,Butterflies and Bees,Crown GOAT,Sweat,Medal,,Black Gloves,,Red,Signature
 954,Underwater,,,,,Speed Ball,Navy Suit,Solana,Signature
 955,The Greatest,Hat,Sweat,,,Shook Up The World,,Gold,Signature
 956,Butterflies and Bees,Hat,,GOAT Mouthguard,Wayfarers,,Black Suit,Gold,Signature
-957,The Greatest,Crown The GOAT,,,,Black Gloves,Black Suit,Red,Signature
+957,The Greatest,Crown GOAT,,,,Black Gloves,Black Suit,Red,Signature
 958,Butterflies and Bees,Hat,,Medal,Wayfarers,Speed Ball,Elvis Gown,Black,Signature
 959,Underwater,Crown,Scratch,Medal,Wayfarers,Shook Up The World,Navy Suit,Solana,Signature
 960,The Greatest,,,,,Mirror,Navy Suit,Gold,Signature
 961,The Greatest,,Sweat,,Wayfarers,,,Cabin,Signature
 962,Butterflies and Bees,Sparring Headgear,,Locked,,,,Gold,Signature
 963,Underwater,,Scratch,,Wayfarers,Red Gloves,,Solana,Signature
-964,Underwater,Crown The GOAT,,Medal,,,Navy Suit,Purple,Signature
+964,Underwater,Crown GOAT,,Medal,,,Navy Suit,Purple,Signature
 965,The Greatest,,,,,Speed Ball,Peach Suit,Black,Signature
 966,The Greatest,Halo,,GOAT Mouthguard,,Red Gloves,,Red,Signature
 967,Butterflies and Bees,,,,,Red Gloves,,Black,Signature
 968,Butterflies and Bees,Sparring Headgear,,,,Towel,Purple Suit,Black,Signature
 969,Underwater,,Sweat,,,,,Solana,Signature
 970,Butterflies and Bees,,,,Bruised Eye,Speed Ball,,Gold,Signature
-971,The Greatest,Crown The GOAT,,GOAT Mouthguard,Bruised Eye,Postage Stamp,Gold Suit,Red,Signature
+971,The Greatest,Crown GOAT,,GOAT Mouthguard,Bruised Eye,Postage Stamp,Gold Suit,Red,Signature
 972,The Greatest,Hat,,GOAT Mouthguard,,Lightbulbs & Wings,Peach Suit,Gold,Signature
-973,Underwater,Crown The GOAT,Sweat,GOAT Mouthguard,,Black Gloves,,Black,Signature
-974,The Greatest,Crown The GOAT,,,Bruised Eye,Shook Up The World,,Black,Signature
+973,Underwater,Crown GOAT,Sweat,GOAT Mouthguard,,Black Gloves,,Black,Signature
+974,The Greatest,Crown GOAT,,,Bruised Eye,Shook Up The World,,Black,Signature
 975,The Greatest,,,,Bruised Eye,,Peach Suit,Gold,Signature
 976,The Greatest,,,,,Black Gloves,Purple Suit,Black,Signature
 977,The Greatest,,,,,Speed Ball,Peach Suit,Purple,Signature
-978,The Greatest,Crown The GOAT,,,,Shook Up The World,,Red,Signature
+978,The Greatest,Crown GOAT,,,,Shook Up The World,,Red,Signature
 979,The Greatest,,,Medal,Wayfarers,Microphones,Elvis Gown,Red,Signature
 980,The Greatest,Hat,,,Bruised Eye,Towel,,Purple,Signature
 981,Butterflies and Bees,,,,,Black Gloves,Purple Suit,Black,Signature
@@ -987,7 +987,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 985,Underwater,,,,Laser Eyes,Shook Up The World,Purple Suit,Solana,Signature
 986,The Greatest,Sparring Headgear,Scratch,,,Red Gloves,Gold Suit,Black,Signature
 987,Butterflies and Bees,,Scratch,,,Black Gloves,Black Suit,Gold,Signature
-988,The Greatest,Crown The GOAT,,Medal,Bruised Eye,Postage Stamp,Gown,Orange,Signature
+988,The Greatest,Crown GOAT,,Medal,Bruised Eye,Postage Stamp,Gown,Orange,Signature
 989,The Greatest,,,Locked,,Speed Ball,Purple Suit,USA,Signature
 990,Butterflies and Bees,Hat,Scratch,,,Speed Ball,Black Suit,Gold,Signature
 991,Butterflies and Bees,Halo,Sweat,,Bruised Eye,,,Red,Signature
@@ -995,7 +995,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 993,The Greatest,,,,,,Black Suit,Purple,Signature
 994,Butterflies and Bees,Sparring Headgear,,,,Red Gloves,Black Suit,Gold,Signature
 995,The Greatest,,,,Wayfarers,,,Red,Signature
-996,The Greatest,Crown The GOAT,,Medal,,Towel,,Orange,Signature
+996,The Greatest,Crown GOAT,,Medal,,Towel,,Orange,Signature
 997,The Greatest,Hat,,GOAT Mouthguard,,Red Gloves,Elvis Gown,Black,Signature
 998,Butterflies and Bees,,,,,Speed Ball,Peach Suit,Gold,Signature
 999,The Greatest,Sparring Headgear,Sweat,Locked,,Speed Ball,,Black,Signature
@@ -1011,19 +1011,19 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1009,The Greatest,,Scratch,Medal,,,Gown,Orange,Signature
 1010,The Greatest,Halo,,,,Red Gloves,,Purple,Signature
 1011,The Greatest,Sparring Headgear,,Medal,,Red Gloves,Black Suit,Black,Signature
-1012,The Greatest,Crown The GOAT,,,,Shook Up The World,Elvis Gown,Solana,Signature
+1012,The Greatest,Crown GOAT,,,,Shook Up The World,Elvis Gown,Solana,Signature
 1013,The Greatest,,Scratch,,Bruised Eye,,,Red,Signature
-1014,Underwater,Crown The GOAT,,,,Red Gloves,Navy Suit,Purple,Signature
+1014,Underwater,Crown GOAT,,,,Red Gloves,Navy Suit,Purple,Signature
 1015,The Greatest,Hat,Sweat,GOAT Mouthguard,,Towel,,Orange,Signature
 1016,Underwater,Sparring Headgear,,,,,Navy Suit,Black,Signature
 1017,Butterflies and Bees,Sparring Headgear,,GOAT Mouthguard,,Towel,Gown,Purple,Signature
 1018,The Greatest,,,,,Microphones,Navy Suit,Red,Signature
-1019,The Greatest,Crown The GOAT,,,,Black Gloves,Gown,Red,Signature
+1019,The Greatest,Crown GOAT,,,,Black Gloves,Gown,Red,Signature
 1020,Butterflies and Bees,,Sweat,,Bruised Eye,Black Gloves,,Gold,Signature
-1021,The Greatest,Crown The GOAT,,,,Microphones,Elvis Gown,Red,Signature
+1021,The Greatest,Crown GOAT,,,,Microphones,Elvis Gown,Red,Signature
 1022,The Greatest,,Sweat,,,Microphones,,USA,Signature
 1023,Underwater,,,GOAT Mouthguard,,Towel,,Solana,Signature
-1024,The Greatest,Crown The GOAT,Scratch,Medal,Wayfarers,Speed Ball,Navy Suit,Solana,Signature
+1024,The Greatest,Crown GOAT,Scratch,Medal,Wayfarers,Speed Ball,Navy Suit,Solana,Signature
 1025,The Greatest,,,,Laser Eyes,,,Orange,Signature
 1026,The Greatest,Sparring Headgear,,,,Speed Ball,Elvis Gown,Red,Signature
 1027,The Greatest,,,,Bruised Eye,Mirror,Peach Suit,Gold,Signature
@@ -1043,7 +1043,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1041,Underwater,,,,Bruised Eye,,Navy Suit,Purple,Signature
 1042,Butterflies and Bees,,,,Wayfarers,Towel,Purple Suit,Black,Signature
 1043,The Greatest,Sparring Headgear,,Medal,,,Navy Suit,Black,Signature
-1044,Underwater,Crown The GOAT,,GOAT Mouthguard,,Black Gloves,Navy Suit,Solana,Signature
+1044,Underwater,Crown GOAT,,GOAT Mouthguard,,Black Gloves,Navy Suit,Solana,Signature
 1045,Butterflies and Bees,,,,,,Peach Suit,Gold,Signature
 1046,The Greatest,Hat,,GOAT Mouthguard,,Black Gloves,Navy Suit,Gold,Signature
 1047,Butterflies and Bees,Sparring Headgear,,,,Towel,Navy Suit,Orange,Signature
@@ -1054,10 +1054,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1052,The Greatest,Hat,,Locked,,Towel,,Red,Signature
 1053,Butterflies and Bees,,,Locked,Wayfarers,,Black Suit,Orange,Signature
 1054,Butterflies and Bees,,Sweat,Medal,Laser Eyes,,,Solana,Signature
-1055,The Greatest,Crown The GOAT,Sweat,,Bruised Eye,Speed Ball,,Red,Signature
+1055,The Greatest,Crown GOAT,Sweat,,Bruised Eye,Speed Ball,,Red,Signature
 1056,The Greatest,Hat,,,Bruised Eye,Lightbulbs & Wings,Purple Suit,Orange,Signature
 1057,The Greatest,,,,,Red Gloves,Black Suit,Black,Signature
-1058,Underwater,Crown The GOAT,,,,Lightbulbs & Wings,,Solana,Signature
+1058,Underwater,Crown GOAT,,,,Lightbulbs & Wings,,Solana,Signature
 1059,Underwater,Hat,,Locked,Wayfarers,Red Gloves,Navy Suit,Black,Signature
 1060,The Greatest,,,GOAT Mouthguard,,Black Gloves,Navy Suit,Purple,Signature
 1061,The Greatest,,,Medal,Wayfarers,,Black Suit,Gold,Signature
@@ -1071,7 +1071,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1069,The Greatest,,Scratch,,,Black Gloves,Peach Suit,Red,Signature
 1070,The Greatest,Hat,,,,Red Gloves,Purple Suit,Black,Signature
 1071,The Greatest,,,,Wayfarers,,Gold Suit,Gold,Signature
-1072,Butterflies and Bees,Crown The GOAT,,,,Towel,Gold Suit,Gold,Signature
+1072,Butterflies and Bees,Crown GOAT,,,,Towel,Gold Suit,Gold,Signature
 1073,The Greatest,,Sweat,,Bruised Eye,Speed Ball,,Black,Signature
 1074,Underwater,,Sweat,Locked,,Red Gloves,,Black,Signature
 1075,The Greatest,,,,Bruised Eye,Red Gloves,Gown,Orange,Signature
@@ -1081,16 +1081,16 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1079,Underwater,Sparring Headgear,Sweat,,,,,Black,Signature
 1080,The Greatest,,,Medal,,Shook Up The World,Navy Suit,Orange,Signature
 1081,Butterflies and Bees,Sparring Headgear,,Dosbrak Bandana,,Black Gloves,,Solana,Signature
-1082,The Greatest,Crown The GOAT,,,Laser Eyes,,Gown,Red,Signature
+1082,The Greatest,Crown GOAT,,,Laser Eyes,,Gown,Red,Signature
 1083,The Greatest,,,,,Speed Ball,Navy Suit,Red,Signature
 1084,The Greatest,Hat,,GOAT Mouthguard,Wayfarers,Red Gloves,,Orange,Signature
 1085,The Greatest,,Scratch,,,,Gown,Gold,Signature
 1086,Underwater,Halo,Sweat,,,Black Gloves,,Solana,Signature
 1087,The Greatest,,Scratch,,,Red Gloves,Peach Suit,Orange,Signature
 1088,Butterflies and Bees,Sparring Headgear,,,,,Gown,Orange,Signature
-1089,Butterflies and Bees,Crown The GOAT,Sweat,Medal,,,,Red,Signature
+1089,Butterflies and Bees,Crown GOAT,Sweat,Medal,,,,Red,Signature
 1090,Butterflies and Bees,Sparring Headgear,Sweat,,Bruised Eye,Speed Ball,,Orange,Signature
-1091,Underwater,Crown The GOAT,,GOAT Mouthguard,,Shook Up The World,,Solana,Signature
+1091,Underwater,Crown GOAT,,GOAT Mouthguard,,Shook Up The World,,Solana,Signature
 1092,The Greatest,,,,,Red Gloves,Peach Suit,USA,Signature
 1093,Underwater,,Sweat,Medal,Bruised Eye,Shook Up The World,,Solana,Signature
 1094,The Greatest,,,,,Black Gloves,,Red,Signature
@@ -1099,10 +1099,10 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1097,The Greatest,,,GOAT Mouthguard,,,Black Suit,Orange,Signature
 1098,The Greatest,,,,Laser Eyes,,Navy Suit,Gold,Signature
 1099,The Greatest,Sparring Headgear,,,Bruised Eye,Postage Stamp,Gown,Orange,Signature
-1100,The Greatest,Crown The GOAT,,,,Towel,Navy Suit,Purple,Signature
+1100,The Greatest,Crown GOAT,,,,Towel,Navy Suit,Purple,Signature
 1101,Underwater,,Sweat,,,,,Solana,Signature
-1102,The Greatest,Crown The GOAT,,,,Mirror,Peach Suit,Black,Signature
-1103,Butterflies and Bees,Crown The GOAT,,,Bruised Eye,Speed Ball,,Orange,Signature
+1102,The Greatest,Crown GOAT,,,,Mirror,Peach Suit,Black,Signature
+1103,Butterflies and Bees,Crown GOAT,,,Bruised Eye,Speed Ball,,Orange,Signature
 1104,The Greatest,Sparring Headgear,,GOAT Mouthguard,,,Navy Suit,Purple,Signature
 1105,The Greatest,Hat,Sweat,,Bruised Eye,Mirror,,Black,Signature
 1106,Butterflies and Bees,Sparring Headgear,Scratch,,,,Peach Suit,Black,Signature
@@ -1137,7 +1137,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1135,Butterflies and Bees,Sparring Headgear,,,,Towel,Navy Suit,Red,Signature
 1136,The Greatest,,,Medal,,Microphones,Peach Suit,Gold,Signature
 1137,The Greatest,,,Medal,,Red Gloves,Peach Suit,Black,Signature
-1138,The Greatest,Crown The GOAT,,,,,Elvis Gown,Orange,Signature
+1138,The Greatest,Crown GOAT,,,,,Elvis Gown,Orange,Signature
 1139,The Greatest,Sparring Headgear,,Medal,,Black Gloves,Elvis Gown,Black,Signature
 1140,The Greatest,Sparring Headgear,,,Laser Eyes,,Navy Suit,Purple,Signature
 1141,The Greatest,Hat,,,,Postage Stamp,Navy Suit,Black,Signature
@@ -1148,7 +1148,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1146,The Greatest,Sparring Headgear,,,Bruised Eye,,Purple Suit,Black,Signature
 1147,The Greatest,,Sweat,,Bruised Eye,Mirror,,Gold,Signature
 1148,The Greatest,,,,,Black Gloves,Black Suit,Red,Signature
-1149,Butterflies and Bees,Crown The GOAT,Sweat,,Wayfarers,,,Black,Signature
+1149,Butterflies and Bees,Crown GOAT,Sweat,,Wayfarers,,,Black,Signature
 1150,The Greatest,,,,,Shook Up The World,,Red,Signature
 1151,Butterflies and Bees,Halo,,,,Red Gloves,,Red,Signature
 1152,The Greatest,,,GOAT Mouthguard,Bruised Eye,Towel,Gown,Black,Signature
@@ -1158,30 +1158,30 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1156,Underwater,Crown,,Locked,,Red Gloves,Elvis Gown,Purple,Signature
 1157,Butterflies and Bees,,,,Bruised Eye,,Purple Suit,Red,Signature
 1158,The Greatest,,,,Bruised Eye,Towel,Gown,USA,Signature
-1159,Underwater,Crown The GOAT,Sweat,,,Black Gloves,,Solana,Signature
+1159,Underwater,Crown GOAT,Sweat,,,Black Gloves,,Solana,Signature
 1160,The Greatest,,Sweat,,,Towel,,Red,Signature
-1161,The Greatest,Crown The GOAT,,,Wayfarers,Towel,Purple Suit,Orange,Signature
+1161,The Greatest,Crown GOAT,,,Wayfarers,Towel,Purple Suit,Orange,Signature
 1162,The Greatest,,Scratch,,Bruised Eye,Red Gloves,Purple Suit,Purple,Signature
 1163,Butterflies and Bees,,,,,,Peach Suit,Orange,Signature
 1164,The Greatest,Hat,,,Laser Eyes,Towel,Gold Suit,Solana,Signature
 1165,Butterflies and Bees,Hat,,,,,Navy Suit,Solana,Signature
 1166,Butterflies and Bees,,,GOAT Mouthguard,,Towel,,Red,Signature
-1167,Underwater,Crown The GOAT,,,Bruised Eye,Shook Up The World,Gown,Solana,Signature
+1167,Underwater,Crown GOAT,,,Bruised Eye,Shook Up The World,Gown,Solana,Signature
 1168,The Greatest,,,,,Black Gloves,,Solana,Signature
-1169,The Greatest,Crown The GOAT,,,,Black Gloves,Gown,Orange,Signature
+1169,The Greatest,Crown GOAT,,,,Black Gloves,Gown,Orange,Signature
 1170,The Greatest,,Sweat,,,Red Gloves,,Red,Signature
 1171,Butterflies and Bees,,,Medal,,,Peach Suit,Black,Signature
 1172,Butterflies and Bees,,Scratch,,,,Navy Suit,Gold,Signature
 1173,The Greatest,Halo,,,,,Astronaut,USA,Signature
 1174,The Greatest,Hat,Moustache,,,Towel,,Gold,Signature
 1175,The Greatest,,,,,Red Gloves,Elvis Gown,Red,Signature
-1176,The Greatest,Crown The GOAT,,,,,Black Suit,Black,Signature
+1176,The Greatest,Crown GOAT,,,,,Black Suit,Black,Signature
 1177,The Greatest,,,GOAT Mouthguard,,,Navy Suit,Solana,Signature
 1178,The Greatest,Hat,Sweat,,,Towel,,Gold,Signature
 1179,Butterflies and Bees,Hat,,,Bruised Eye,,Gold Suit,Purple,Signature
 1180,The Greatest,,,Medal,,Black Gloves,Peach Suit,Red,Signature
 1181,Butterflies and Bees,Sparring Headgear,,,,Towel,,Black,Signature
-1182,The Greatest,Crown The GOAT,,,Laser Eyes,Black Gloves,Navy Suit,Black,Signature
+1182,The Greatest,Crown GOAT,,,Laser Eyes,Black Gloves,Navy Suit,Black,Signature
 1183,Butterflies and Bees,Hat,,,,,,Solana,Signature
 1184,The Greatest,Sparring Headgear,,Medal,,,Black Suit,Orange,Signature
 1185,The Greatest,,Scratch,Locked,,Red Gloves,Peach Suit,Purple,Signature
@@ -1194,21 +1194,21 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1192,The Greatest,Sparring Headgear,,Dosbrak Bandana,,Black Gloves,,Black,Signature
 1193,Underwater,Halo,Sweat,,,Microphones,,Solana,Signature
 1194,Butterflies and Bees,,,,,Postage Stamp,Navy Suit,Red,Signature
-1195,The Greatest,Crown The GOAT,,,Wayfarers,Speed Ball,Black Suit,Solana,Signature
+1195,The Greatest,Crown GOAT,,,Wayfarers,Speed Ball,Black Suit,Solana,Signature
 1196,Underwater,,,,,Mirror,Gown,Solana,Signature
 1197,The Greatest,,,,,Mirror,Gold Suit,Gold,Signature
-1198,The Greatest,Crown The GOAT,Sweat,,,Mirror,,Black,Signature
-1199,Butterflies and Bees,Crown The GOAT,,,Wayfarers,,,Black,Signature
+1198,The Greatest,Crown GOAT,Sweat,,,Mirror,,Black,Signature
+1199,Butterflies and Bees,Crown GOAT,,,Wayfarers,,,Black,Signature
 1200,The Greatest,,,Locked,,,,Gold,Signature
 1201,The Greatest,Sparring Headgear,,,Laser Eyes,,,Orange,Signature
 1202,Underwater,Sparring Headgear,,,Bruised Eye,Black Gloves,,Solana,Signature
-1203,Butterflies and Bees,Crown The GOAT,,,Wayfarers,Red Gloves,Purple Suit,Black,Signature
+1203,Butterflies and Bees,Crown GOAT,,,Wayfarers,Red Gloves,Purple Suit,Black,Signature
 1204,The Greatest,Hat,,,Wayfarers,Lightbulbs & Wings,Peach Suit,Cabin,Signature
 1205,Underwater,,,,Wayfarers,Black Gloves,Gown,Solana,Signature
 1206,Butterflies and Bees,Hat,Scratch,,,Red Gloves,Navy Suit,Gold,Signature
 1207,The Greatest,Hat,Sweat,,Wayfarers,Black Gloves,,Orange,Signature
 1208,The Greatest,Hat,Scratch,Locked,,Speed Ball,Purple Suit,Orange,Signature
-1209,The Greatest,Crown The GOAT,Scratch,Medal,,Shook Up The World,Black Suit,Orange,Signature
+1209,The Greatest,Crown GOAT,Scratch,Medal,,Shook Up The World,Black Suit,Orange,Signature
 1210,Butterflies and Bees,,,,,,Black Suit,Purple,Signature
 1211,The Greatest,,Scratch,,Bruised Eye,,Gown,Black,Signature
 1212,Butterflies and Bees,Hat,Scratch,Medal,Bruised Eye,Towel,Navy Suit,Orange,Signature
@@ -1219,16 +1219,16 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1217,The Greatest,,,,,Microphones,Purple Suit,Gold,Signature
 1218,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Mirror,Purple Suit,Purple,Signature
 1219,The Greatest,Hat,Sweat,GOAT Mouthguard,,Black Gloves,,Purple,Signature
-1220,Butterflies and Bees,Crown The GOAT,,,,,Navy Suit,Gold,Signature
+1220,Butterflies and Bees,Crown GOAT,,,,,Navy Suit,Gold,Signature
 1221,The Greatest,,Sweat,,,Black Gloves,,Orange,Signature
 1222,Butterflies and Bees,,,,,Speed Ball,Gown,Red,Signature
 1223,The Greatest,Sparring Headgear,,,Laser Eyes,Black Gloves,Purple Suit,Gold,Signature
-1224,Underwater,Crown The GOAT,,Medal,,Red Gloves,Astronaut,Solana,Signature
+1224,Underwater,Crown GOAT,,Medal,,Red Gloves,Astronaut,Solana,Signature
 1225,The Greatest,Hat,,,Wayfarers,Towel,Navy Suit,Black,Signature
 1226,The Greatest,,,Dosbrak Bandana,Wayfarers,Speed Ball,Gown,Red,Signature
 1227,The Greatest,Sparring Headgear,Scratch,,Bruised Eye,,Peach Suit,Red,Signature
 1228,The Greatest,Hat,,,,Shook Up The World,Peach Suit,Black,Signature
-1229,Butterflies and Bees,Crown The GOAT,Sweat,,,Towel,,Red,Signature
+1229,Butterflies and Bees,Crown GOAT,Sweat,,,Towel,,Red,Signature
 1230,Butterflies and Bees,,,,,,Purple Suit,Red,Signature
 1231,The Greatest,,Scratch,,,,Peach Suit,Purple,Signature
 1232,The Greatest,,,,Bruised Eye,Mirror,Purple Suit,Black,Signature
@@ -1236,13 +1236,13 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1234,The Greatest,,,,,Shook Up The World,Navy Suit,Black,Signature
 1235,The Greatest,Halo,,,,Shook Up The World,Gold Suit,Black,Signature
 1236,The Greatest,,,,,Black Gloves,Gold Suit,Purple,Signature
-1237,The Greatest,Crown The GOAT,Scratch,,Bruised Eye,Speed Ball,Gown,Black,Signature
+1237,The Greatest,Crown GOAT,Scratch,,Bruised Eye,Speed Ball,Gown,Black,Signature
 1238,The Greatest,,,,,,Black Suit,Gold,Signature
 1239,The Greatest,,,,Wayfarers,Shook Up The World,Elvis Gown,Red,Signature
 1240,The Greatest,,,GOAT Mouthguard,Bruised Eye,Microphones,Black Suit,Orange,Signature
 1241,The Greatest,,Sweat,Locked,Wayfarers,Speed Ball,,Red,Signature
 1242,The Greatest,Hat,Scratch,,,Black Gloves,Peach Suit,Gold,Signature
-1243,Butterflies and Bees,Crown The GOAT,Sweat,,,,,Gold,Signature
+1243,Butterflies and Bees,Crown GOAT,Sweat,,,,,Gold,Signature
 1244,Butterflies and Bees,,,,,Black Gloves,Purple Suit,USA,Signature
 1245,The Greatest,,,,,Red Gloves,Peach Suit,Gold,Signature
 1246,The Greatest,,,,Wayfarers,Towel,,Orange,Signature
@@ -1251,9 +1251,9 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1249,The Greatest,,,GOAT Mouthguard,Bruised Eye,Black Gloves,Gown,Orange,Signature
 1250,Underwater,Sparring Headgear,Scratch,Medal,Bruised Eye,,,Solana,Signature
 1251,The Greatest,Hat,Scratch,,,Towel,Elvis Gown,Red,Signature
-1252,The Greatest,Crown The GOAT,,,,,,Red,Signature
-1253,The Greatest,Crown The GOAT,,Medal,,,Elvis Gown,Orange,Signature
-1254,Butterflies and Bees,Crown The GOAT,,,,Red Gloves,Purple Suit,Red,Signature
+1252,The Greatest,Crown GOAT,,,,,,Red,Signature
+1253,The Greatest,Crown GOAT,,Medal,,,Elvis Gown,Orange,Signature
+1254,Butterflies and Bees,Crown GOAT,,,,Red Gloves,Purple Suit,Red,Signature
 1255,The Greatest,Hat,Moustache,GOAT Mouthguard,,Postage Stamp,Black Suit,Gold,Signature
 1256,The Greatest,,Sweat,,,,,Gold,Signature
 1257,Underwater,Sparring Headgear,Sweat,,,Speed Ball,,Solana,Signature
@@ -1269,8 +1269,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1267,The Greatest,,,,Wayfarers,Towel,,Purple,Signature
 1268,The Greatest,,,GOAT Mouthguard,,Shook Up The World,Gown,Orange,Signature
 1269,The Greatest,Sparring Headgear,,,,,Navy Suit,Purple,Signature
-1270,The Greatest,Crown The GOAT,,,,Speed Ball,Peach Suit,Orange,Signature
-1271,The Greatest,Crown The GOAT,,,,Towel,Purple Suit,Black,Signature
+1270,The Greatest,Crown GOAT,,,,Speed Ball,Peach Suit,Orange,Signature
+1271,The Greatest,Crown GOAT,,,,Towel,Purple Suit,Black,Signature
 1272,The Greatest,,,,Laser Eyes,Towel,Black Suit,Orange,Signature
 1273,The Greatest,,Scratch,Medal,Laser Eyes,Postage Stamp,Navy Suit,Gold,Signature
 1274,The Greatest,Hat,,,Wayfarers,Shook Up The World,Purple Suit,Purple,Signature
@@ -1316,8 +1316,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1314,The Greatest,,,,Bruised Eye,Postage Stamp,,Purple,Signature
 1315,Underwater,,,,,Mirror,,Solana,Signature
 1316,The Greatest,,,,Wayfarers,,Black Suit,Orange,Signature
-1317,Butterflies and Bees,Crown The GOAT,Sweat,,Wayfarers,Postage Stamp,,Purple,Signature
-1318,Underwater,Crown The GOAT,,GOAT Mouthguard,Laser Eyes,Postage Stamp,Gown,Black,Signature
+1317,Butterflies and Bees,Crown GOAT,Sweat,,Wayfarers,Postage Stamp,,Purple,Signature
+1318,Underwater,Crown GOAT,,GOAT Mouthguard,Laser Eyes,Postage Stamp,Gown,Black,Signature
 1319,Underwater,,,,,Red Gloves,Navy Suit,Solana,Signature
 1320,The Greatest,Sparring Headgear,,,Bruised Eye,Postage Stamp,Black Suit,Orange,Signature
 1321,The Greatest,Sparring Headgear,,GOAT Mouthguard,Bruised Eye,Microphones,Navy Suit,Red,Signature
@@ -1330,7 +1330,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1328,Underwater,,,,,Black Gloves,Gown,Purple,Signature
 1329,Butterflies and Bees,,,Medal,,Towel,Elvis Gown,Black,Signature
 1330,The Greatest,,,,,,Purple Suit,Orange,Signature
-1331,The Greatest,Crown The GOAT,,,,,Gown,Purple,Signature
+1331,The Greatest,Crown GOAT,,,,,Gown,Purple,Signature
 1332,The Greatest,,,,,Towel,Peach Suit,Black,Signature
 1333,The Greatest,Halo,,,,Postage Stamp,Peach Suit,Orange,Signature
 1334,The Greatest,,,,Wayfarers,,Gold Suit,Red,Signature
@@ -1340,7 +1340,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1338,The Greatest,,,,,Red Gloves,Gold Suit,Purple,Signature
 1339,The Greatest,,,GOAT Mouthguard,Wayfarers,Speed Ball,,Purple,Signature
 1340,Butterflies and Bees,,,Medal,Bruised Eye,Speed Ball,Peach Suit,Red,Signature
-1341,The Greatest,Crown The GOAT,Sweat,,,Black Gloves,,Red,Signature
+1341,The Greatest,Crown GOAT,Sweat,,,Black Gloves,,Red,Signature
 1342,Underwater,Sparring Headgear,,GOAT Mouthguard,Laser Eyes,Speed Ball,Purple Suit,Solana,Signature
 1343,The Greatest,,Sweat,,Wayfarers,Speed Ball,,Black,Signature
 1344,The Greatest,Hat,Sweat,,Wayfarers,Red Gloves,,Black,Signature
@@ -1350,19 +1350,19 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1348,Butterflies and Bees,Sparring Headgear,Sweat,,,,,Black,Signature
 1349,Butterflies and Bees,Sparring Headgear,Sweat,,,,,Black,Signature
 1350,The Greatest,Hat,,,,,,Orange,Signature
-1351,The Greatest,Crown The GOAT,Sweat,GOAT Mouthguard,,Red Gloves,,Gold,Signature
-1352,The Greatest,Crown The GOAT,Sweat,,,Red Gloves,,Gold,Signature
-1353,Underwater,Crown The GOAT,,,Bruised Eye,Mirror,Gown,Solana,Signature
+1351,The Greatest,Crown GOAT,Sweat,GOAT Mouthguard,,Red Gloves,,Gold,Signature
+1352,The Greatest,Crown GOAT,Sweat,,,Red Gloves,,Gold,Signature
+1353,Underwater,Crown GOAT,,,Bruised Eye,Mirror,Gown,Solana,Signature
 1354,The Greatest,Halo,,Dosbrak Bandana,,Microphones,Elvis Gown,Cabin,Signature
 1355,The Greatest,,Scratch,,,Black Gloves,The King's Gown,Purple,Signature
 1356,The Greatest,,,,Laser Eyes,Black Gloves,Navy Suit,Orange,Signature
 1357,The Greatest,Hat,Sweat,,,,,Gold,Signature
-1358,The Greatest,Crown The GOAT,,,Wayfarers,Lightbulbs & Wings,Elvis Gown,Gold,Signature
+1358,The Greatest,Crown GOAT,,,Wayfarers,Lightbulbs & Wings,Elvis Gown,Gold,Signature
 1359,Butterflies and Bees,,Sweat,,,Towel,,Purple,Signature
 1360,The Greatest,,Scratch,,Wayfarers,Black Gloves,Purple Suit,Gold,Signature
 1361,Underwater,Hat,,,Bruised Eye,Speed Ball,Gown,Black,Signature
-1362,Underwater,Crown The GOAT,,,,,Purple Suit,Black,Signature
-1363,Butterflies and Bees,Crown The GOAT,,,Bruised Eye,,Peach Suit,Red,Signature
+1362,Underwater,Crown GOAT,,,,,Purple Suit,Black,Signature
+1363,Butterflies and Bees,Crown GOAT,,,Bruised Eye,,Peach Suit,Red,Signature
 1364,The Greatest,Hat,Scratch,GOAT Mouthguard,Wayfarers,Black Gloves,Purple Suit,Orange,Signature
 1365,The Greatest,Crown,,Medal,Wayfarers,Black Gloves,Navy Suit,Black,Signature
 1366,Butterflies and Bees,Sparring Headgear,,GOAT Mouthguard,Bruised Eye,,Gown,Orange,Signature
@@ -1383,12 +1383,12 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1381,The Greatest,Sparring Headgear,Sweat,,,Speed Ball,,Black,Signature
 1382,The Greatest,Sparring Headgear,,,,Red Gloves,,Purple,Signature
 1383,The Greatest,,,Medal,,Mirror,Navy Suit,Black,Signature
-1384,The Greatest,Crown The GOAT,,,,Towel,Black Suit,Orange,Signature
+1384,The Greatest,Crown GOAT,,,,Towel,Black Suit,Orange,Signature
 1385,The Greatest,Halo,Scratch,,,Towel,,Red,Signature
 1386,The Greatest,,Moustache,,Laser Eyes,Shook Up The World,Gown,Purple,Signature
 1387,Butterflies and Bees,,Sweat,,,,,Black,Signature
 1388,The Greatest,Hat,Sweat,,,,,Gold,Signature
-1389,Underwater,Crown The GOAT,,,,Black Gloves,Gown,Black,Signature
+1389,Underwater,Crown GOAT,,,,Black Gloves,Gown,Black,Signature
 1390,Butterflies and Bees,,,,,,Peach Suit,USA,Signature
 1391,The Greatest,Halo,,,Laser Eyes,Postage Stamp,,Solana,Signature
 1392,The Greatest,,,,,,,Black,Signature
@@ -1406,13 +1406,13 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1404,The Greatest,,,GOAT Mouthguard,Wayfarers,Towel,Gown,Red,Signature
 1405,Butterflies and Bees,,Scratch,,,,Navy Suit,Purple,Signature
 1406,The Greatest,Halo,Sweat,,Wayfarers,Red Gloves,,Black,Signature
-1407,The Greatest,Crown The GOAT,,,,,Elvis Gown,Gold,Signature
+1407,The Greatest,Crown GOAT,,,,,Elvis Gown,Gold,Signature
 1408,Butterflies and Bees,,Sweat,,Laser Eyes,Towel,,Orange,Signature
 1409,The Greatest,,,,,Towel,,Red,Signature
 1410,The Greatest,,,,,,Gold Suit,Red,Signature
 1411,Butterflies and Bees,,Moustache,Medal,,Towel,Navy Suit,Orange,Signature
-1412,Butterflies and Bees,Crown The GOAT,,,Bruised Eye,Black Gloves,,Orange,Signature
-1413,Underwater,Crown The GOAT,,,,Red Gloves,Black Suit,Purple,Signature
+1412,Butterflies and Bees,Crown GOAT,,,Bruised Eye,Black Gloves,,Orange,Signature
+1413,Underwater,Crown GOAT,,,,Red Gloves,Black Suit,Purple,Signature
 1414,The Greatest,Crown,,,Wayfarers,Speed Ball,Purple Suit,USA,Signature
 1415,The Greatest,,Scratch,GOAT Mouthguard,Bruised Eye,,Purple Suit,Gold,Signature
 1416,Underwater,,Sweat,,Wayfarers,Towel,,Solana,Signature
@@ -1421,14 +1421,14 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1419,The Greatest,,Sweat,,,,,Gold,Signature
 1420,The Greatest,Halo,Scratch,,Laser Eyes,Postage Stamp,,Black,Signature
 1421,Underwater,,,,Bruised Eye,Red Gloves,,Black,Signature
-1422,The Greatest,Crown The GOAT,,,Laser Eyes,Mirror,Black Suit,Gold,Signature
+1422,The Greatest,Crown GOAT,,,Laser Eyes,Mirror,Black Suit,Gold,Signature
 1423,Butterflies and Bees,,,,,Towel,Gold Suit,Purple,Signature
 1424,Butterflies and Bees,Sparring Headgear,Scratch,Medal,,,Navy Suit,Purple,Signature
 1425,The Greatest,,,GOAT Mouthguard,,,The King's Gown,Orange,Signature
 1426,The Greatest,,,Medal,Wayfarers,Shook Up The World,,Black,Signature
 1427,The Greatest,,Sweat,,Bruised Eye,Mirror,,Purple,Signature
 1428,Underwater,Sparring Headgear,,GOAT Mouthguard,,Black Gloves,Black Suit,Black,Signature
-1429,Butterflies and Bees,Crown The GOAT,,GOAT Mouthguard,,Postage Stamp,,Solana,Signature
+1429,Butterflies and Bees,Crown GOAT,,GOAT Mouthguard,,Postage Stamp,,Solana,Signature
 1430,The Greatest,,Sweat,Medal,,Black Gloves,,Black,Signature
 1431,The Greatest,,,GOAT Mouthguard,,Black Gloves,Purple Suit,Black,Signature
 1432,Butterflies and Bees,,,Medal,,Speed Ball,,Red,Signature
@@ -1449,25 +1449,25 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1447,The Greatest,,,GOAT Mouthguard,,Towel,,Gold,Signature
 1448,The Greatest,Hat,,,Laser Eyes,Black Gloves,Navy Suit,Purple,Signature
 1449,The Greatest,,,,,Speed Ball,Peach Suit,Purple,Signature
-1450,The Greatest,Crown The GOAT,Scratch,,,Mirror,Navy Suit,Orange,Signature
+1450,The Greatest,Crown GOAT,Scratch,,,Mirror,Navy Suit,Orange,Signature
 1451,The Greatest,,Sweat,Locked,Wayfarers,Towel,,Gold,Signature
 1452,Underwater,,,,Laser Eyes,Mirror,Gown,Purple,Signature
 1453,Underwater,,Sweat,,Wayfarers,Red Gloves,,Solana,Signature
-1454,The Greatest,Crown The GOAT,,,Wayfarers,Postage Stamp,Navy Suit,Orange,Signature
+1454,The Greatest,Crown GOAT,,,Wayfarers,Postage Stamp,Navy Suit,Orange,Signature
 1455,The Greatest,Hat,,GOAT Mouthguard,Bruised Eye,Postage Stamp,,Purple,Signature
 1456,Underwater,,Sweat,,Laser Eyes,Red Gloves,,Solana,Signature
-1457,The Greatest,Crown The GOAT,,Medal,Wayfarers,Black Gloves,Gown,Gold,Signature
+1457,The Greatest,Crown GOAT,,Medal,Wayfarers,Black Gloves,Gown,Gold,Signature
 1458,Underwater,,,Medal,,Microphones,Gown,Solana,Signature
 1459,The Greatest,,,,,Mirror,Black Suit,Gold,Signature
 1460,Underwater,Sparring Headgear,,,,Black Gloves,,Solana,Signature
-1461,The Greatest,Crown The GOAT,,,Bruised Eye,Red Gloves,,Black,Signature
+1461,The Greatest,Crown GOAT,,,Bruised Eye,Red Gloves,,Black,Signature
 1462,The Greatest,Hat,,,,Towel,,Black,Signature
 1463,Underwater,Hat,,,,Black Gloves,,Black,Signature
 1464,The Greatest,,Sweat,,,Red Gloves,,Red,Signature
 1465,The Greatest,Sparring Headgear,,,,Microphones,Gold Suit,Orange,Signature
 1466,The Greatest,Hat,Sweat,,Laser Eyes,Towel,,Orange,Signature
 1467,The Greatest,,,,,Postage Stamp,Navy Suit,USA,Signature
-1468,The Greatest,Crown The GOAT,,,Bruised Eye,Postage Stamp,Purple Suit,Red,Signature
+1468,The Greatest,Crown GOAT,,,Bruised Eye,Postage Stamp,Purple Suit,Red,Signature
 1469,The Greatest,Halo,Sweat,,,Black Gloves,,Black,Signature
 1470,The Greatest,Hat,Scratch,Dosbrak Bandana,,Shook Up The World,Black Suit,Orange,Signature
 1471,The Greatest,Halo,,,,,Navy Suit,Purple,Signature
@@ -1476,11 +1476,11 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1474,The Greatest,,,,Wayfarers,Towel,Purple Suit,Purple,Signature
 1475,Underwater,Hat,,GOAT Mouthguard,,Postage Stamp,,Black,Signature
 1476,The Greatest,,Sweat,,,Red Gloves,,Orange,Signature
-1477,The Greatest,Crown The GOAT,Scratch,GOAT Mouthguard,,Red Gloves,Navy Suit,Red,Signature
+1477,The Greatest,Crown GOAT,Scratch,GOAT Mouthguard,,Red Gloves,Navy Suit,Red,Signature
 1478,Underwater,,,,Laser Eyes,Towel,Gown,Solana,Signature
 1479,The Greatest,Hat,,,,Microphones,Black Suit,Red,Signature
-1480,The Greatest,Crown The GOAT,,Medal,,Speed Ball,Gown,Red,Signature
-1481,The Greatest,Crown The GOAT,,Medal,,,Navy Suit,Orange,Signature
+1480,The Greatest,Crown GOAT,,Medal,,Speed Ball,Gown,Red,Signature
+1481,The Greatest,Crown GOAT,,Medal,,,Navy Suit,Orange,Signature
 1482,The Greatest,,,,,Postage Stamp,Black Suit,Purple,Signature
 1483,The Greatest,Sparring Headgear,,,,Red Gloves,Navy Suit,Black,Signature
 1484,The Greatest,,,,,Shook Up The World,Gown,Black,Signature
@@ -1489,7 +1489,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1487,Butterflies and Bees,Sparring Headgear,,,Laser Eyes,Towel,,Gold,Signature
 1488,The Greatest,Hat,,,,Black Gloves,Peach Suit,Black,Signature
 1489,Underwater,,Sweat,,Wayfarers,Towel,,Solana,Signature
-1490,Butterflies and Bees,Crown The GOAT,,GOAT Mouthguard,Bruised Eye,,Gown,Red,Signature
+1490,Butterflies and Bees,Crown GOAT,,GOAT Mouthguard,Bruised Eye,,Gown,Red,Signature
 1491,Underwater,Sparring Headgear,Scratch,,,Red Gloves,Peach Suit,Solana,Signature
 1492,Butterflies and Bees,,,,,Black Gloves,Navy Suit,Orange,Signature
 1493,The Greatest,Hat,,,,,Peach Suit,Red,Signature
@@ -1507,15 +1507,15 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1505,The Greatest,,Scratch,,Bruised Eye,Mirror,Purple Suit,Purple,Signature
 1506,The Greatest,,,Medal,Bruised Eye,,Elvis Gown,Red,Signature
 1507,The Greatest,Crown,Sweat,GOAT Mouthguard,,Towel,,Solana,Signature
-1508,The Greatest,Crown The GOAT,,,Bruised Eye,Black Gloves,,Orange,Signature
+1508,The Greatest,Crown GOAT,,,Bruised Eye,Black Gloves,,Orange,Signature
 1509,The Greatest,,,,,Mirror,Navy Suit,Red,Signature
-1510,The Greatest,Crown The GOAT,,GOAT Mouthguard,Bruised Eye,Black Gloves,Purple Suit,Black,Signature
-1511,Butterflies and Bees,Crown The GOAT,,Medal,,,Gold Suit,Purple,Signature
+1510,The Greatest,Crown GOAT,,GOAT Mouthguard,Bruised Eye,Black Gloves,Purple Suit,Black,Signature
+1511,Butterflies and Bees,Crown GOAT,,Medal,,,Gold Suit,Purple,Signature
 1512,The Greatest,,,,,Speed Ball,Navy Suit,Red,Signature
 1513,Underwater,,,,,Lightbulbs & Wings,Black Suit,Solana,Signature
 1514,The Greatest,Hat,,,,Black Gloves,,Gold,Signature
-1515,The Greatest,Crown The GOAT,,,,Postage Stamp,Purple Suit,Purple,Signature
-1516,Butterflies and Bees,Crown The GOAT,,,,Towel,Navy Suit,Orange,Signature
+1515,The Greatest,Crown GOAT,,,,Postage Stamp,Purple Suit,Purple,Signature
+1516,Butterflies and Bees,Crown GOAT,,,,Towel,Navy Suit,Orange,Signature
 1517,The Greatest,Sparring Headgear,,,,Black Gloves,Black Suit,Purple,Signature
 1518,The Greatest,Halo,,,,Red Gloves,Gown,Black,Signature
 1519,The Greatest,Sparring Headgear,,,,Towel,,USA,Signature
@@ -1525,7 +1525,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1523,Butterflies and Bees,Hat,,GOAT Mouthguard,Wayfarers,Speed Ball,,Purple,Signature
 1524,Butterflies and Bees,Sparring Headgear,Sweat,,,,,Black,Signature
 1525,The Greatest,,Sweat,,Bruised Eye,Black Gloves,,Red,Signature
-1526,The Greatest,Crown The GOAT,,,Wayfarers,Towel,Purple Suit,Red,Signature
+1526,The Greatest,Crown GOAT,,,Wayfarers,Towel,Purple Suit,Red,Signature
 1527,Underwater,Hat,,,,Mirror,Gown,Solana,Signature
 1528,Butterflies and Bees,Sparring Headgear,,,Laser Eyes,Speed Ball,Navy Suit,Orange,Signature
 1529,The Greatest,,Sweat,GOAT Mouthguard,Wayfarers,Black Gloves,,Gold,Signature
@@ -1543,8 +1543,8 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1541,Butterflies and Bees,Halo,Scratch,,,Postage Stamp,Black Suit,Gold,Signature
 1542,The Greatest,,,,Wayfarers,,Navy Suit,Orange,Signature
 1543,The Greatest,,,,Wayfarers,Red Gloves,Purple Suit,Purple,Signature
-1544,The Greatest,Crown The GOAT,,,Wayfarers,Microphones,Astronaut,Purple,Signature
-1545,The Greatest,Crown The GOAT,,,,Towel,Gown,Red,Signature
+1544,The Greatest,Crown GOAT,,,Wayfarers,Microphones,Astronaut,Purple,Signature
+1545,The Greatest,Crown GOAT,,,,Towel,Gown,Red,Signature
 1546,The Greatest,,Sweat,,Bruised Eye,Black Gloves,,Red,Signature
 1547,Butterflies and Bees,Hat,Sweat,GOAT Mouthguard,Wayfarers,Towel,,Cabin,Signature
 1548,Butterflies and Bees,Sparring Headgear,,,,Black Gloves,Astronaut,Red,Signature
@@ -1561,7 +1561,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1559,The Greatest,Sparring Headgear,,,,Red Gloves,Navy Suit,USA,Signature
 1560,The Greatest,,Sweat,,,,,Black,Signature
 1561,The Greatest,,,,,Speed Ball,Navy Suit,USA,Signature
-1562,Butterflies and Bees,Crown The GOAT,,,,,,Orange,Signature
+1562,Butterflies and Bees,Crown GOAT,,,,,,Orange,Signature
 1563,Underwater,Halo,,,,,Black Suit,Solana,Signature
 1564,The Greatest,,,,,Microphones,,Red,Signature
 1565,The Greatest,,Sweat,,Bruised Eye,Postage Stamp,,Solana,Signature
@@ -1582,17 +1582,17 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1580,Butterflies and Bees,,,,Wayfarers,,,Gold,Signature
 1581,The Greatest,Sparring Headgear,Moustache,,,,Navy Suit,Gold,Signature
 1582,The Greatest,,,,Wayfarers,Speed Ball,Navy Suit,Black,Signature
-1583,Butterflies and Bees,Crown The GOAT,Sweat,,Wayfarers,Postage Stamp,,Purple,Signature
+1583,Butterflies and Bees,Crown GOAT,Sweat,,Wayfarers,Postage Stamp,,Purple,Signature
 1584,Underwater,,,,,,Peach Suit,Solana,Signature
 1585,The Greatest,,,Locked,,Speed Ball,Navy Suit,Purple,Signature
 1586,The Greatest,,,,,Towel,Gown,Orange,Signature
-1587,Butterflies and Bees,Crown The GOAT,Scratch,Locked,Bruised Eye,Red Gloves,Gown,Black,Signature
+1587,Butterflies and Bees,Crown GOAT,Scratch,Locked,Bruised Eye,Red Gloves,Gown,Black,Signature
 1588,Butterflies and Bees,,,GOAT Mouthguard,,Speed Ball,Gown,Red,Signature
 1589,Butterflies and Bees,,,,Laser Eyes,,,Black,Signature
-1590,The Greatest,Crown The GOAT,,Medal,,,Navy Suit,Red,Signature
-1591,Butterflies and Bees,Crown The GOAT,,,Wayfarers,,,Gold,Signature
+1590,The Greatest,Crown GOAT,,Medal,,,Navy Suit,Red,Signature
+1591,Butterflies and Bees,Crown GOAT,,,Wayfarers,,,Gold,Signature
 1592,Butterflies and Bees,Sparring Headgear,,,,Towel,Navy Suit,Orange,Signature
-1593,The Greatest,Crown The GOAT,,,,Lightbulbs & Wings,,Red,Signature
+1593,The Greatest,Crown GOAT,,,,Lightbulbs & Wings,,Red,Signature
 1594,Butterflies and Bees,,,GOAT Mouthguard,,Red Gloves,Elvis Gown,USA,Signature
 1595,Butterflies and Bees,,Sweat,,,Black Gloves,,Red,Signature
 1596,Butterflies and Bees,,,,,,Gold Suit,Gold,Signature
@@ -1606,12 +1606,12 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1604,The Greatest,,Sweat,Medal,,,,Purple,Signature
 1605,Butterflies and Bees,Halo,Sweat,,,Towel,,Black,Signature
 1606,The Greatest,Hat,,,,Red Gloves,Purple Suit,USA,Signature
-1607,The Greatest,Crown The GOAT,,,Bruised Eye,Mirror,,Gold,Signature
+1607,The Greatest,Crown GOAT,,,Bruised Eye,Mirror,,Gold,Signature
 1608,The Greatest,,,Locked,,Red Gloves,Purple Suit,Gold,Signature
 1609,The Greatest,,Sweat,,,Speed Ball,,Black,Signature
 1610,Butterflies and Bees,Hat,,,Bruised Eye,,,Orange,Signature
 1611,The Greatest,,,,,Red Gloves,Navy Suit,Purple,Signature
-1612,The Greatest,Crown The GOAT,,,,,,Orange,Signature
+1612,The Greatest,Crown GOAT,,,,,,Orange,Signature
 1613,Underwater,,Sweat,,,Red Gloves,,Purple,Signature
 1614,The Greatest,,,,,Lightbulbs & Wings,Peach Suit,Red,Signature
 1615,The Greatest,Hat,,,Wayfarers,Speed Ball,Navy Suit,Purple,Signature
@@ -1643,7 +1643,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1641,Butterflies and Bees,,,GOAT Mouthguard,Wayfarers,,Navy Suit,USA,Signature
 1642,Underwater,Hat,,Locked,,Postage Stamp,Purple Suit,Purple,Signature
 1643,The Greatest,,,,,Towel,Gown,Black,Signature
-1644,Butterflies and Bees,Crown The GOAT,,GOAT Mouthguard,,,Peach Suit,Black,Signature
+1644,Butterflies and Bees,Crown GOAT,,GOAT Mouthguard,,,Peach Suit,Black,Signature
 1645,Underwater,Halo,,Medal,,Black Gloves,Peach Suit,USA,Signature
 1646,The Greatest,Hat,Sweat,,Laser Eyes,Microphones,,Orange,Signature
 1647,The Greatest,,Sweat,,Laser Eyes,Towel,,Purple,Signature
@@ -1652,23 +1652,23 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1650,The Greatest,,Sweat,,,Black Gloves,,Red,Signature
 1651,Butterflies and Bees,,,,,,,Purple,Signature
 1652,The Greatest,Hat,Sweat,,,Red Gloves,,Gold,Signature
-1653,The Greatest,Crown The GOAT,,GOAT Mouthguard,,,Peach Suit,Purple,Signature
+1653,The Greatest,Crown GOAT,,GOAT Mouthguard,,,Peach Suit,Purple,Signature
 1654,Butterflies and Bees,Sparring Headgear,,,Laser Eyes,Towel,Navy Suit,Gold,Signature
 1655,Butterflies and Bees,Sparring Headgear,,,Laser Eyes,Towel,Elvis Gown,Solana,Signature
 1656,Butterflies and Bees,,,,,Black Gloves,Black Suit,Black,Signature
 1657,The Greatest,,Sweat,,Bruised Eye,,,Black,Signature
 1658,Butterflies and Bees,,Scratch,,,Speed Ball,,Orange,Signature
-1659,The Greatest,Crown The GOAT,Moustache,,Bruised Eye,Shook Up The World,,Gold,Signature
+1659,The Greatest,Crown GOAT,Moustache,,Bruised Eye,Shook Up The World,,Gold,Signature
 1660,The Greatest,,Sweat,,,Microphones,,Gold,Signature
 1661,The Greatest,,Sweat,,Laser Eyes,,,Red,Signature
 1662,Butterflies and Bees,Halo,,,,Black Gloves,Black Suit,Solana,Signature
 1663,The Greatest,,,Medal,Wayfarers,Postage Stamp,,Red,Signature
-1664,Underwater,Crown The GOAT,Sweat,,Bruised Eye,,,Solana,Signature
+1664,Underwater,Crown GOAT,Sweat,,Bruised Eye,,,Solana,Signature
 1665,The Greatest,,,GOAT Mouthguard,Bruised Eye,Postage Stamp,Purple Suit,Orange,Signature
 1666,The Greatest,,Moustache,,,Black Gloves,Gown,Red,Signature
 1667,The Greatest,,,,,Speed Ball,Peach Suit,Black,Signature
-1668,The Greatest,Crown The GOAT,,,Bruised Eye,Red Gloves,Gown,Red,Signature
-1669,The Greatest,Crown The GOAT,,Medal,,,Black Suit,Orange,Signature
+1668,The Greatest,Crown GOAT,,,Bruised Eye,Red Gloves,Gown,Red,Signature
+1669,The Greatest,Crown GOAT,,Medal,,,Black Suit,Orange,Signature
 1670,The Greatest,,,,Bruised Eye,Black Gloves,Gown,Red,Signature
 1671,The Greatest,Hat,,,,Postage Stamp,Navy Suit,Solana,Signature
 1672,The Greatest,,,Medal,,Shook Up The World,Gold Suit,Black,Signature
@@ -1677,20 +1677,20 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1675,The Greatest,,,,,,Navy Suit,Orange,Signature
 1676,The Greatest,,,,,Lightbulbs & Wings,Gown,Gold,Signature
 1677,The Greatest,,,Medal,,Black Gloves,Astronaut,Orange,Signature
-1678,Butterflies and Bees,Crown The GOAT,,,,Towel,Gown,Black,Signature
+1678,Butterflies and Bees,Crown GOAT,,,,Towel,Gown,Black,Signature
 1679,The Greatest,,,Medal,,,,Orange,Signature
 1680,Butterflies and Bees,Hat,,GOAT Mouthguard,Wayfarers,Black Gloves,Navy Suit,Black,Signature
-1681,The Greatest,Crown The GOAT,,,,Speed Ball,Navy Suit,Black,Signature
+1681,The Greatest,Crown GOAT,,,,Speed Ball,Navy Suit,Black,Signature
 1682,Underwater,,Sweat,Medal,,Towel,,Solana,Signature
-1683,The Greatest,Crown The GOAT,Sweat,,,Speed Ball,,USA,Signature
+1683,The Greatest,Crown GOAT,Sweat,,,Speed Ball,,USA,Signature
 1684,Butterflies and Bees,,,,,Black Gloves,Gold Suit,Red,Signature
 1685,Butterflies and Bees,Halo,Sweat,,,Speed Ball,,Gold,Signature
-1686,Butterflies and Bees,Crown The GOAT,,,Laser Eyes,Towel,Elvis Gown,Red,Signature
+1686,Butterflies and Bees,Crown GOAT,,,Laser Eyes,Towel,Elvis Gown,Red,Signature
 1687,The Greatest,,,,,Postage Stamp,Purple Suit,Black,Signature
 1688,The Greatest,,,,Bruised Eye,Speed Ball,Purple Suit,Orange,Signature
-1689,The Greatest,Crown The GOAT,Sweat,,,Postage Stamp,,Gold,Signature
-1690,Butterflies and Bees,Crown The GOAT,,Medal,,Speed Ball,Elvis Gown,Purple,Signature
-1691,The Greatest,Crown The GOAT,,Medal,,Black Gloves,Purple Suit,Orange,Signature
+1689,The Greatest,Crown GOAT,Sweat,,,Postage Stamp,,Gold,Signature
+1690,Butterflies and Bees,Crown GOAT,,Medal,,Speed Ball,Elvis Gown,Purple,Signature
+1691,The Greatest,Crown GOAT,,Medal,,Black Gloves,Purple Suit,Orange,Signature
 1692,The Greatest,,Sweat,GOAT Mouthguard,,Speed Ball,,Gold,Signature
 1693,The Greatest,,Scratch,,,Red Gloves,Peach Suit,Purple,Signature
 1694,The Greatest,Hat,,,Bruised Eye,Black Gloves,Navy Suit,Purple,Signature
@@ -1699,7 +1699,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1697,Underwater,Halo,,,,Red Gloves,Purple Suit,Black,Signature
 1698,The Greatest,,Sweat,,,Red Gloves,,Orange,Signature
 1699,The Greatest,,Scratch,Medal,,Speed Ball,Peach Suit,Red,Signature
-1700,The Greatest,Crown The GOAT,Sweat,,Wayfarers,,,USA,Signature
+1700,The Greatest,Crown GOAT,Sweat,,Wayfarers,,,USA,Signature
 1701,The Greatest,,,,Bruised Eye,Diamond Gloves,Purple Suit,Gold,Signature
 1702,Butterflies and Bees,Sparring Headgear,,,,Red Gloves,,Black,Signature
 1703,The Greatest,Hat,,Medal,,Postage Stamp,Black Suit,Cabin,Signature
@@ -1708,7 +1708,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1706,The Greatest,Sparring Headgear,,,,Red Gloves,,Orange,Signature
 1707,The Greatest,,,,,Speed Ball,Navy Suit,Orange,Signature
 1708,The Greatest,,,Medal,Bruised Eye,Shook Up The World,,Solana,Signature
-1709,The Greatest,Crown The GOAT,Sweat,Medal,,Mirror,,Gold,Signature
+1709,The Greatest,Crown GOAT,Sweat,Medal,,Mirror,,Gold,Signature
 1710,Butterflies and Bees,Hat,,,,Speed Ball,Navy Suit,Red,Signature
 1711,Underwater,Sparring Headgear,Scratch,,,Black Gloves,Gold Suit,Purple,Signature
 1712,The Greatest,Hat,,,,Mirror,Peach Suit,Cabin,Signature
@@ -1720,7 +1720,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1718,The Greatest,,,GOAT Mouthguard,Laser Eyes,Black Gloves,Gown,Red,Signature
 1719,The Greatest,Hat,,,Wayfarers,Black Gloves,Gold Suit,Red,Signature
 1720,The Greatest,,,,,Mirror,Peach Suit,Black,Signature
-1721,Butterflies and Bees,Crown The GOAT,,,Bruised Eye,Black Gloves,Peach Suit,Black,Signature
+1721,Butterflies and Bees,Crown GOAT,,,Bruised Eye,Black Gloves,Peach Suit,Black,Signature
 1722,The Greatest,Hat,,,,Speed Ball,,Purple,Signature
 1723,The Greatest,,,,,Towel,Elvis Gown,Red,Signature
 1724,The Greatest,,,,Wayfarers,Towel,Navy Suit,Red,Signature
@@ -1748,20 +1748,20 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1746,The Greatest,Sparring Headgear,,Medal,,Speed Ball,Elvis Gown,Purple,Signature
 1747,The Greatest,,,Locked,,Red Gloves,,Black,Signature
 1748,Butterflies and Bees,Hat,,,Wayfarers,,Peach Suit,Purple,Signature
-1749,Butterflies and Bees,Crown The GOAT,,,Laser Eyes,Red Gloves,Gold Suit,Purple,Signature
+1749,Butterflies and Bees,Crown GOAT,,,Laser Eyes,Red Gloves,Gold Suit,Purple,Signature
 1750,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Red Gloves,,Orange,Signature
-1751,The Greatest,Crown The GOAT,,,Bruised Eye,Shook Up The World,Peach Suit,Gold,Signature
+1751,The Greatest,Crown GOAT,,,Bruised Eye,Shook Up The World,Peach Suit,Gold,Signature
 1752,Underwater,Crown,,,,Speed Ball,Navy Suit,Solana,Signature
 1753,Underwater,Hat,,GOAT Mouthguard,,Shook Up The World,,Solana,Signature
 1754,The Greatest,,Sweat,Medal,Wayfarers,Towel,,Black,Signature
 1755,The Greatest,,,Medal,Laser Eyes,,,USA,Signature
 1756,The Greatest,,,Medal,,Shook Up The World,,Red,Signature
-1757,The Greatest,Crown The GOAT,Scratch,,,,Black Suit,Orange,Signature
+1757,The Greatest,Crown GOAT,Scratch,,,,Black Suit,Orange,Signature
 1758,Butterflies and Bees,Crown,,Locked,,,Black Suit,Red,Signature
 1759,The Greatest,,Sweat,,Bruised Eye,Black Gloves,,USA,Signature
 1760,The Greatest,,Scratch,,Wayfarers,Speed Ball,,Black,Signature
 1761,Underwater,,,Medal,,Postage Stamp,,Solana,Signature
-1762,Butterflies and Bees,Crown The GOAT,Scratch,,,Black Gloves,Black Suit,Black,Signature
+1762,Butterflies and Bees,Crown GOAT,Scratch,,,Black Gloves,Black Suit,Black,Signature
 1763,The Greatest,Sparring Headgear,,GOAT Mouthguard,,Red Gloves,Peach Suit,Black,Signature
 1764,Butterflies and Bees,Hat,,GOAT Mouthguard,,,Purple Suit,Gold,Signature
 1765,Butterflies and Bees,Hat,,,Bruised Eye,,,Black,Signature
@@ -1770,9 +1770,9 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1768,The Greatest,Halo,Sweat,Medal,,Speed Ball,,Black,Signature
 1769,The Greatest,,,,Wayfarers,Red Gloves,Purple Suit,Black,Signature
 1770,Underwater,,Scratch,GOAT Mouthguard,Wayfarers,Speed Ball,Black Suit,Black,Signature
-1771,Underwater,Crown The GOAT,,,,Black Gloves,Purple Suit,Solana,Signature
+1771,Underwater,Crown GOAT,,,,Black Gloves,Purple Suit,Solana,Signature
 1772,Butterflies and Bees,,Sweat,,Wayfarers,Black Gloves,,Gold,Signature
-1773,The Greatest,Crown The GOAT,,Medal,Wayfarers,Black Gloves,Black Suit,USA,Signature
+1773,The Greatest,Crown GOAT,,Medal,Wayfarers,Black Gloves,Black Suit,USA,Signature
 1774,Butterflies and Bees,,Sweat,,,Diamond Gloves,,Purple,Signature
 1775,The Greatest,Hat,,,,Speed Ball,,Orange,Signature
 1776,The Greatest,,,,,,Navy Suit,Red,Signature
@@ -1802,12 +1802,12 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1800,The Greatest,Hat,Sweat,,,Microphones,,Gold,Signature
 1801,Butterflies and Bees,Halo,,,Laser Eyes,Black Gloves,Navy Suit,Solana,Signature
 1802,The Greatest,Hat,Scratch,GOAT Mouthguard,,,Peach Suit,Red,Signature
-1803,The Greatest,Crown The GOAT,,,Laser Eyes,Speed Ball,Navy Suit,Orange,Signature
+1803,The Greatest,Crown GOAT,,,Laser Eyes,Speed Ball,Navy Suit,Orange,Signature
 1804,The Greatest,Sparring Headgear,,Medal,,Black Gloves,Gown,Purple,Signature
 1805,Underwater,Sparring Headgear,,,,,Navy Suit,Black,Signature
 1806,The Greatest,Hat,Sweat,,Laser Eyes,Towel,,Red,Signature
-1807,Underwater,Crown The GOAT,Sweat,GOAT Mouthguard,,Red Gloves,,Purple,Signature
-1808,The Greatest,Crown The GOAT,Sweat,,,,,Black,Signature
+1807,Underwater,Crown GOAT,Sweat,GOAT Mouthguard,,Red Gloves,,Purple,Signature
+1808,The Greatest,Crown GOAT,Sweat,,,,,Black,Signature
 1809,The Greatest,,Scratch,,,Speed Ball,Black Suit,Red,Signature
 1810,Underwater,Hat,Sweat,,,Red Gloves,,Purple,Signature
 1811,Underwater,Hat,Scratch,,Bruised Eye,Red Gloves,Navy Suit,Black,Signature
@@ -1816,7 +1816,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1814,The Greatest,,,Locked,,Red Gloves,Navy Suit,Red,Signature
 1815,Butterflies and Bees,,,GOAT Mouthguard,,Postage Stamp,Navy Suit,Black,Signature
 1816,The Greatest,,,,,Postage Stamp,Peach Suit,Black,Signature
-1817,The Greatest,Crown The GOAT,,,Wayfarers,Shook Up The World,Peach Suit,Red,Signature
+1817,The Greatest,Crown GOAT,,,Wayfarers,Shook Up The World,Peach Suit,Red,Signature
 1818,The Greatest,,Sweat,,,Microphones,,Purple,Signature
 1819,The Greatest,,,,,,,Black,Signature
 1820,The Greatest,Hat,,,,Red Gloves,Navy Suit,Black,Signature
@@ -1827,14 +1827,14 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1825,The Greatest,Hat,,,,Black Gloves,Navy Suit,Purple,Signature
 1826,The Greatest,Halo,Sweat,Medal,Bruised Eye,Black Gloves,,Orange,Signature
 1827,The Greatest,,,,,Black Gloves,Gown,Cabin,Signature
-1828,The Greatest,Crown The GOAT,Scratch,GOAT Mouthguard,,Shook Up The World,Elvis Gown,Black,Signature
+1828,The Greatest,Crown GOAT,Scratch,GOAT Mouthguard,,Shook Up The World,Elvis Gown,Black,Signature
 1829,The Greatest,,,,Wayfarers,Towel,Purple Suit,Orange,Signature
 1830,Underwater,Sparring Headgear,,,,Red Gloves,Black Suit,Solana,Signature
 1831,The Greatest,,,,Wayfarers,,,Black,Signature
 1832,The Greatest,,,,,Microphones,Navy Suit,Black,Signature
 1833,Butterflies and Bees,Sparring Headgear,Sweat,,,Black Gloves,,Red,Signature
 1834,Butterflies and Bees,Sparring Headgear,Scratch,GOAT Mouthguard,,,Navy Suit,Gold,Signature
-1835,Butterflies and Bees,Crown The GOAT,Sweat,Locked,,,,USA,Signature
+1835,Butterflies and Bees,Crown GOAT,Sweat,Locked,,,,USA,Signature
 1836,Butterflies and Bees,Hat,Sweat,Locked,,Speed Ball,,Orange,Signature
 1837,Underwater,,,,,,,Solana,Signature
 1838,The Greatest,Hat,,GOAT Mouthguard,,Mirror,Purple Suit,Red,Signature
@@ -1846,16 +1846,16 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1844,The Greatest,,Scratch,,Bruised Eye,Red Gloves,Peach Suit,Black,Signature
 1845,The Greatest,,,Locked,Wayfarers,Black Gloves,Navy Suit,Red,Signature
 1846,The Greatest,,Scratch,,,Red Gloves,Peach Suit,Gold,Signature
-1847,The Greatest,Crown The GOAT,,,,Black Gloves,,Purple,Signature
+1847,The Greatest,Crown GOAT,,,,Black Gloves,,Purple,Signature
 1848,The Greatest,,,,Laser Eyes,Black Gloves,Navy Suit,USA,Signature
 1849,Butterflies and Bees,Halo,,,,,Peach Suit,Orange,Signature
-1850,The Greatest,Crown The GOAT,,,Laser Eyes,Black Gloves,Navy Suit,Orange,Signature
+1850,The Greatest,Crown GOAT,,,Laser Eyes,Black Gloves,Navy Suit,Orange,Signature
 1851,Underwater,,,,,Black Gloves,Gown,Black,Signature
 1852,The Greatest,,Scratch,,Bruised Eye,Shook Up The World,Purple Suit,Gold,Signature
 1853,Butterflies and Bees,Hat,,Medal,Bruised Eye,Speed Ball,Black Suit,Orange,Signature
 1854,Butterflies and Bees,,,,,Speed Ball,Navy Suit,Gold,Signature
 1855,The Greatest,Hat,,,Wayfarers,,Gold Suit,Gold,Signature
-1856,The Greatest,Crown The GOAT,,,,Black Gloves,Gold Suit,Purple,Signature
+1856,The Greatest,Crown GOAT,,,,Black Gloves,Gold Suit,Purple,Signature
 1857,The Greatest,,,,Wayfarers,Shook Up The World,Elvis Gown,Orange,Signature
 1858,Butterflies and Bees,,Sweat,,Wayfarers,Towel,,Purple,Signature
 1859,The Greatest,Sparring Headgear,Scratch,,,,Purple Suit,Orange,Signature
@@ -1879,7 +1879,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1877,The Greatest,,,,,Postage Stamp,Peach Suit,Black,Signature
 1878,Underwater,,,,,Mirror,Navy Suit,Solana,Signature
 1879,The Greatest,Hat,Sweat,Medal,,Black Gloves,,Orange,Signature
-1880,The Greatest,Crown The GOAT,Sweat,,Bruised Eye,Black Gloves,,Purple,Signature
+1880,The Greatest,Crown GOAT,Sweat,,Bruised Eye,Black Gloves,,Purple,Signature
 1881,The Greatest,,,,,Towel,Gold Suit,Purple,Signature
 1882,Butterflies and Bees,,,,,Postage Stamp,Gown,Red,Signature
 1883,The Greatest,Sparring Headgear,,Medal,Laser Eyes,Black Gloves,Navy Suit,Orange,Signature
@@ -1893,7 +1893,7 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1891,Butterflies and Bees,,,,Wayfarers,Speed Ball,Black Suit,Black,Signature
 1892,The Greatest,,,,,Postage Stamp,,Red,Signature
 1893,The Greatest,,Sweat,,,Red Gloves,,Black,Signature
-1894,The Greatest,Crown The GOAT,,,Laser Eyes,,Black Suit,Black,Signature
+1894,The Greatest,Crown GOAT,,,Laser Eyes,,Black Suit,Black,Signature
 1895,The Greatest,,,GOAT Mouthguard,,Towel,Black Suit,Black,Signature
 1896,The Greatest,Hat,,,,Black Gloves,Navy Suit,USA,Signature
 1897,The Greatest,,Sweat,GOAT Mouthguard,,Speed Ball,,Red,Signature
@@ -1910,20 +1910,20 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1908,Butterflies and Bees,,,,Wayfarers,,Black Suit,Orange,Signature
 1909,The Greatest,Crown,,,Wayfarers,Postage Stamp,Peach Suit,Black,Signature
 1910,Butterflies and Bees,,,GOAT Mouthguard,,Red Gloves,,Purple,Signature
-1911,Butterflies and Bees,Crown The GOAT,,,,,Purple Suit,Orange,Signature
+1911,Butterflies and Bees,Crown GOAT,,,,,Purple Suit,Orange,Signature
 1912,Underwater,,,,,Mirror,Elvis Gown,Solana,Signature
 1913,The Greatest,Sparring Headgear,Scratch,,Bruised Eye,Postage Stamp,Black Suit,Gold,Signature
 1914,Underwater,Sparring Headgear,,,,Red Gloves,Gown,Solana,Signature
 1915,The Greatest,Sparring Headgear,,,Bruised Eye,Microphones,Navy Suit,Purple,Signature
 1916,Butterflies and Bees,,,,,Black Gloves,Peach Suit,Red,Signature
-1917,The Greatest,Crown The GOAT,,,,,Black Suit,USA,Signature
+1917,The Greatest,Crown GOAT,,,,,Black Suit,USA,Signature
 1918,The Greatest,,,Medal,,Speed Ball,Purple Suit,Red,Signature
 1919,The Greatest,Hat,Scratch,,Wayfarers,Postage Stamp,Navy Suit,Purple,Signature
 1920,The Greatest,,Sweat,Medal,Bruised Eye,Postage Stamp,,Orange,Signature
 1921,The Greatest,,,Locked,,,Peach Suit,Red,Signature
 1922,The Greatest,,Sweat,GOAT Mouthguard,,Postage Stamp,,USA,Signature
 1923,Butterflies and Bees,,Sweat,,,,,Solana,Signature
-1924,The Greatest,Crown The GOAT,Scratch,,,Speed Ball,Gown,Orange,Signature
+1924,The Greatest,Crown GOAT,Scratch,,,Speed Ball,Gown,Orange,Signature
 1925,Butterflies and Bees,,Sweat,,,,,Purple,Signature
 1926,Butterflies and Bees,,,,,Postage Stamp,Peach Suit,Black,Signature
 1927,The Greatest,,,,Laser Eyes,Postage Stamp,Black Suit,Black,Signature
@@ -1962,15 +1962,15 @@ ID,Base,Head,Face,Mouth,Eyes,Accessory,Clothing,Background,Signature
 1960,Underwater,,,,,Towel,Peach Suit,Solana,Signature
 1961,Butterflies and Bees,Hat,,,Wayfarers,Diamond Gloves,Navy Suit,Purple,Signature
 1962,The Greatest,,Sweat,,,Towel,,Red,Signature
-1963,Underwater,Crown The GOAT,Sweat,,Wayfarers,,,Solana,Signature
-1964,The Greatest,Crown The GOAT,,,Laser Eyes,Postage Stamp,,Red,Signature
+1963,Underwater,Crown GOAT,Sweat,,Wayfarers,,,Solana,Signature
+1964,The Greatest,Crown GOAT,,,Laser Eyes,Postage Stamp,,Red,Signature
 1965,Butterflies and Bees,Sparring Headgear,,GOAT Mouthguard,,Red Gloves,Peach Suit,Black,Signature
 1966,The Greatest,,,,,Red Gloves,The King's Gown,Gold,Signature
-1967,The Greatest,Crown The GOAT,,,,Red Gloves,Purple Suit,Orange,Signature
+1967,The Greatest,Crown GOAT,,,,Red Gloves,Purple Suit,Orange,Signature
 1968,Underwater,,,,,Black Gloves,,Solana,Signature
 1969,Butterflies and Bees,Hat,,,Wayfarers,,Navy Suit,Red,Signature
 1970,The Greatest,,,,,Black Gloves,Purple Suit,Black,Signature
-1971,Underwater,Crown The GOAT,,,,Mirror,Gown,Solana,Signature
+1971,Underwater,Crown GOAT,,,,Mirror,Gown,Solana,Signature
 1972,The Greatest,Sparring Headgear,,Medal,Bruised Eye,Black Gloves,Gown,Solana,Signature
 1973,The Greatest,Sparring Headgear,,,,Mirror,,Black,Signature
 1974,The Greatest,Halo,Sweat,,Laser Eyes,Speed Ball,,Orange,Signature
