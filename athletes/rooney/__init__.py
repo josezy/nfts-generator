@@ -62,7 +62,7 @@ TRAITS = {
         "Red Jersey Torn": 2,
         "Astronaut": 1,
     },
-    "Backgrounds": {
+    "Background": {
         "Green": 20,
         "Black": 20,
         "Red": 20,
