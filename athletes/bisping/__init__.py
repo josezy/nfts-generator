@@ -73,22 +73,41 @@ TRAITS = {
         "Count's Lair": 0.8,
     },
     "Signature": {
-        "Signature": 100,
+        "Dosbrak": 100,
     }
 }
 
 def conditions(traits):
 
+# IF Butcher THEN no Accessories, DJ Mikey B, Announcer, Sparring Headgear, Dosbrak Bandana
+# IF Butcher THEN no Gold Terminator
+# IF Butcher THEN no Red Terminator
     if traits['Clothing'] == 'Butcher':
         traits['Accessory'] = None
         traits['Head'] = None
+        traits['Face'] = None
         if traits['Mouth'] == 'Dosbrak Bandana':
             traits['Mouth'] = 'Diamond Grill'
 
+# IF Bald base THEN no No Astronaut
     if traits['Base'] == 'Bald' and traits['Clothing'] == 'Astronaut':
         traits['Clothing'] = 'The Count'
 
+# IF Wayfarers THEN no Sparring Headgear, Announcer, DJ Mikey B
     if traits['Eyes'] == 'Wayfarers':
         traits['Head'] = None
+
+# IF Sparring Headgear THEN no Bruised Eye
+    if traits['Head'] == 'Sparring Headgear' and traits['Eyes'] == 'Bruised Eye':
+        traits['Eyes'] = None
+
+# IF Bruised Eye THEN no Gold Terminator
+# IF Bruised Eye THEN no Red Terminator
+    if traits['Eyes'] == 'Bruised Eye':
+        traits['Face'] = None
+
+# IF Sparring Headgear THEN no "Bloody Body, Jiu Jitsu Robe, Tattoo, Butcher, Patriot Flag, Astronaut
+    if traits['Head'] == 'Sparring Headgear':
+        traits['Clothing'] = None
 
     return traits
