@@ -1,5 +1,5 @@
 INFO = {
-    "address": "",
+    "address": "ali-wallet-address",
     "name": "Muhammad Ali",
 }
 

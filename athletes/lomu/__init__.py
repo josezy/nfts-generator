@@ -1,5 +1,5 @@
 INFO = {
-    "address": "",
+    "address": "lomu-wallet-address",
     "name": "Jonah Lomu",
 }
 
@@ -71,8 +71,8 @@ TRAITS = {
         "Gold": 4.2,
         "New Zealand": 0.8,
     },
-    "signature": {
-        "signature": 100,
+    "Signature": {
+        "Signature": 100,
     },
 }
 

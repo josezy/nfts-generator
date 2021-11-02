@@ -1,16 +1,16 @@
 
 INFO = {
-    "address": "",
+    "address": "rooney-wallet-address",
     "name": "Wayne Rooney",
 }
 
 TRAITS = {
-    "base": {
+    "Base": {
         "Standard": 64,
         "Old": 23,
         "Young": 13,
     },
-    "head": {
+    "Head": {
         None: 54,
         "BA Snapback": 14,
         "Wooly Hat": 13,
@@ -18,26 +18,26 @@ TRAITS = {
         "Title Crown": 6,
         "Crown": 1,
     },
-    "face": {
+    "Face": {
         None: 68,
         "Sweat": 20,
         "England Paint": 10,
         "Ad Beard": 2,
     },
-    "mouth": {
+    "Mouth": {
         None: 72,
         "Gold Mouthguard": 12,
         "Medal": 11,
         "Diamond Grill": 4.75,
         "Dosbrak Bandana": 0.25,
     },
-    "eye": {
+    "Eyes": {
         None: 62,
         "Wayfarers": 18,
         "Bloody Eye": 13,
         "Laser Eyes": 7,
     },
-    "accessories": {
+    "Accessory": {
         None: 15,
         "Captain Armband": 15,
         "Yellow Ball": 14,
@@ -50,7 +50,7 @@ TRAITS = {
         "Boot Award": 2.5,
         "Diamond Ball": 1,
     },
-    "clothes": {
+    "Clothing": {
         "White Jersey": 20,
         "Red Jersey": 19,
         "Blue Jersey": 14,
