@@ -13,7 +13,7 @@ TRAITS = {
         None: 54,
         "Hat": 14,
         "Sparring Headgear": 13,
-        "Crown The GOAT": 12,
+        "Crown GOAT": 12,
         "Halo": 6,
         "Crown": 1,
     },
