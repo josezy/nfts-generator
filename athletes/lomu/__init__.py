@@ -18,10 +18,10 @@ TRAITS = {
         "Crown": 1,
     },
     "Face": {
-        None: 68,
-        "Sweat": 20,
-        "Bane": 10,
-        "Haka": 2,
+        None: 64,
+        "Haka": 24,
+        "Sweat": 10,
+        "Bane": 2,
     },
     "Mouth": {
         None: 72,
@@ -109,6 +109,20 @@ def conditions(traits):
 
     # IF Dosbrak Bandana THEN no Haka
     if traits["Mouth"] == "Dosbrak Bandana":
+        traits["Face"] = None
+
+    # IF Wayfarers THEN no Bane
+    if traits["Eyes"] == "Wayfarers" and traits["Face"] == "Bane":
+        traits["Face"] = None
+
+    # IF Blue Suit THEN no Sweat
+    # IF Black Tie THEN no Sweat
+    # IF Astronaut THEN no Sweat
+    if traits["Clothing"] in ["Blue Suit", "Black Tie", "Astronaut"] and traits["Face"] == "Sweat":
+        traits["Face"] = None
+
+    # IF Shirt THEN no Sweat
+    if traits["Clothing"] == "Shirt" and traits["Face"] == "Sweat":
         traits["Face"] = None
 
     return traits
