@@ -41,7 +41,7 @@ TRAITS = {
         "Captain Armband": 15,
         "Pigskin Ball": 14,
         "Yellow Card": 12,
-        "Please Buy Rooney": 11,
+        "Red Card": 11,
         "Confetti": 10,
         "Fire Ball": 8,
         "League Trophy": 7,
@@ -79,7 +79,7 @@ TRAITS = {
 
 def conditions(traits):
 
-    # IF Young Base THEN no No Astronaut
+    # IF Young THEN no Astronaut
     if traits["Base"] == "Young" and traits["Clothing"] == "Astronaut":
         traits["Clothing"] = "Red Jersey Torn"
 
@@ -134,5 +134,9 @@ def conditions(traits):
     # IF Winner Hat THEN no White Jersey
     if traits["Head"] == "Winner Hat" and traits["Clothing"] in ["Blue Jersey", "White Jersey"]:
         traits["Clothing"] = "Red Jersey"
+
+    # IF Bloody Eye THEN no League Trophy
+    if traits["Eyes"] == "Bloody Eye" and traits["Accessory"] == "League Trophy":
+        traits["Accessory"] = None
 
     return traits
