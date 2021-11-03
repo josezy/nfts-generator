@@ -18,6 +18,14 @@ def reset_visibility(psd):
         else:
             layer.visible = False
 
+def set_deeper_visible(psd):
+    for layer in psd:
+        if layer.is_group():
+            layer.visible = True
+            set_deeper_visible(layer)
+        else:
+            layer.visible = True
+
 
 def generate_nft_traits(traits, athlete_conditions):
     nft_traits = {}
@@ -47,7 +55,9 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
             sublayer = [l for l in layer if l.name.strip() == traits[layer.name.upper()]]
             if len(sublayer) == 1:
                 sublayer[0].visible = True
-                # if sublayer is a group, set all group layers to visible (for Ali's Underwater trait)
+                # if sublayer is a group, set all sublayers to visible (special filters)
+                if sublayer.is_group():
+                    set_deeper_visible(sublayer)
 
         psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
@@ -165,7 +175,23 @@ def main(
     else:
         with typer.progressbar(range(count)) as progress:
             for _ in progress:
-                nft_traits.append(generate_nft_traits(_athlete.TRAITS, _athlete.conditions))
+                new_trait = {}
+                is_unique = False
+                while not is_unique:
+                    new_trait = generate_nft_traits(_athlete.TRAITS, _athlete.conditions)
+
+                    duplicate_found = False
+                    for existing_trait in nft_traits:
+                        et_json = json.dumps(existing_trait)
+                        nt_json = json.dumps(new_trait)
+                        if et_json == nt_json:
+                            duplicate_found = True
+                            break
+
+                    if not duplicate_found:
+                        is_unique = True
+
+                nft_traits.append(new_trait)
 
     if not generate:
         with open(csv_filename, "w") as f:
