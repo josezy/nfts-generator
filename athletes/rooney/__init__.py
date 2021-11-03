@@ -41,7 +41,7 @@ TRAITS = {
         "Captain Armband": 15,
         "Pigskin Ball": 14,
         "Yellow Card": 12,
-        "League Medals": 11,
+        "Please Buy Rooney": 11,
         "Confetti": 10,
         "Fire Ball": 8,
         "League Trophy": 7,
@@ -128,5 +128,11 @@ def conditions(traits):
     if traits["Clothing"] in ["Managers", "White Jersey", "Blue Jersey", "Patriot Flag", "Black Jersey"]:
         if traits["Accessory"] in ["League Trophy", "European Trophy"]:
             traits["Accessory"] = "Fire Ball"
+
+    # IF England paint THEN no Clothing trait
+    # IF Winner Hat THEN no Blue Jersey
+    # IF Winner Hat THEN no White Jersey
+    if traits["Head"] == "Winner Hat" and traits["Clothing"] in ["Blue Jersey", "White Jersey"]:
+        traits["Clothing"] = "Red Jersey"
 
     return traits
