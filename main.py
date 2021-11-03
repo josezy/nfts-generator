@@ -44,6 +44,11 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
 
     if not only_metadata:
         for layer in psd[0]:
+            # Special Ali underwater case
+            if layer.name == "Underwater folder" and traits["BASE"] == "Underwater":
+                set_deeper_visible(layer)
+                continue
+
             if layer.name.upper() not in traits:
                 continue
 

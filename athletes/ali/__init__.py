@@ -34,7 +34,7 @@ TRAITS = {
         None: 62,
         "Wayfarers": 18,
         "Bruised Eye": 13,
-        "Laser Eyes": 7,
+        "Side Eyes": 7,
     },
     "Accessory": {
         None: 15,
@@ -71,73 +71,110 @@ TRAITS = {
         "USA": 4.2,
         "Cabin": 0.8,
     },
-    "signature copy": {
-        "signature copy": 100,
+    "Signature": {
+        "Dosbrak": 100,
     },
 }
 
 
-def conditions(traits):
+def conditions(t):
 
     # IF Sweat THEN no No clothing trait
-    if traits["Face"] == "Sweat":
-        traits["Clothing"] = None
+    if t["Face"] == "Sweat":
+        t["Clothing"] = None
 
     # IF Butterflies & Bees THEN no Shook Up The World
     # IF Butterflies & Bees THEN no Microphones
     # IF Butterflies & Bees THEN no Lightbulbs & Wings
     # IF Butterflies & Bees THEN no Mirror
     # IF Butterflies & Bees THEN no The King's Gown
-    if traits["Base"] == "Butterflies & Bees":
-        if traits["Accessory"] in [
+    if t["Base"] == "Butterflies & Bees":
+        if t["Accessory"] in [
             "Shook Up The World",
             "Microphones",
             "Lightbulbs & Wings",
             "Mirror",
         ]:
-            traits["Accessory"] = None
-        if traits["Clothing"] == "The King's Gown":
-            traits["Clothing"] = None
+            t["Accessory"] = None
+        if t["Clothing"] == "The King's Gown":
+            t["Clothing"] = None
 
     # IF Sparring Headgear THEN no Shook Up The World
     # IF Sparring Headgear THEN no Wayfarers
-    if traits["Head"] == "Sparring Headgear":
-        if traits["Accessory"] == "Shook Up The World":
-            traits["Accessory"] = None
-        if traits["Eyes"] == "Wayfarers":
-            traits["Eyes"] = None
+    if t["Head"] == "Sparring Headgear":
+        if t["Accessory"] == "Shook Up The World":
+            t["Accessory"] = None
+        if t["Eyes"] == "Wayfarers":
+            t["Eyes"] = None
 
     # IF Dosbrak Bandana THEN no Mirror
     # IF Locked THEN no Mirror
     # IF Wayfarers THEN no Mirror
     if (
-        traits["Mouth"] in ["Dosbrak Bandana", "Locked"]
-        or traits["Eyes"] == "Wayfarers"
+        t["Mouth"] in ["Dosbrak Bandana", "Locked"]
+        or t["Eyes"] == "Wayfarers"
     ):
-        if traits["Accessory"] == "Mirror":
-            traits["Accessory"] = None
+        if t["Accessory"] == "Mirror":
+            t["Accessory"] = None
 
     # IF Astronaut THEN no Lightbulbs & Wings
     if (
-        traits["Clothing"] == "Astronaut"
-        and traits["Accessory"] == "Lightbulbs & Wings"
+        t["Clothing"] == "Astronaut"
+        and t["Accessory"] == "Lightbulbs & Wings"
     ):
-        traits["Accessory"] = None
+        t["Accessory"] = None
 
     # IF The King's Gown THEN no Lightbulbs & Wings
     if (
-        traits["Clothing"] == "The King's Gown"
-        and traits["Accessory"] == "Lightbulbs & Wings"
+        t["Clothing"] == "The King's Gown"
+        and t["Accessory"] == "Lightbulbs & Wings"
     ):
-        traits["Accessory"] = None
+        t["Accessory"] = None
 
     # IF Underwater THEN no No Cabin, Gold, Orange, Red backgrounds
-    if traits["Base"] == "Underwater" and traits["Background"] in [
+    if t["Base"] == "Underwater" and t["Background"] in [
         "Cabin",
         "Gold",
         "Orange",
         "Red",
     ]:
-        traits["Background"] = "Solana"
+        t["Background"] = "Solana"
 
-    return traits
+    # IF Gown THEN no Towel
+    if t["Clothing"] == "Gown" and t["Accessory"] == "Towel":
+        t["Accessory"] = None
+
+    # IF Sparring Headgear THEN no Mirror
+    if t["Head"] == "Sparring Headgear" and t["Accessory"] == "Mirror":
+        t["Accessory"] = None
+
+    # IF Halo THEN no Postage Stamp
+    if t["Head"] == "Halo" and t["Accessory"] == "Postage Stamp":
+        t["Accessory"] = None
+
+    # IF The King's Gown THEN no Towel
+    if t["Clothing"] == "The King's Gown" and t["Accessory"] == "Towel":
+        t["Accessory"] = None
+
+    # IF Locked THEN no Sparring Headgear
+    # IF Locked THEN no Postage Stamp
+    # IF Locked THEN no Shook Up The World
+    if t["Mouth"] == "Locked":
+        if t["Head"] == "Sparring Headgear":
+            t["Head"] = None
+        if t["Accessory"] in ["Postage Stamp", "Shook Up The World"]:
+            t["Accessory"] = None
+
+    # IF Dosbrak Bandana THEN no Mirror
+    if t["Mouth"] == "Dosbrak Bandana" and t["Accessory"] == "Mirror":
+        t["Accessory"] = None
+
+    # IF Towel THEN no Clothing
+    if t["Accessory"] == "Towel":
+        t["Clothing"] = None
+
+    # IF Side Eyes THEN no Locked
+    if t["Eyes"] == "Side Eyes" and t["Mouth"] == "Locked":
+        t["Mouth"] = None
+
+    return t
