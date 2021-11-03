@@ -106,8 +106,31 @@ def conditions(traits):
     if traits["Eyes"] == "Bruised Eye":
         traits["Face"] = None
 
-    # IF Sparring Headgear THEN no "Bloody Body, Jiu Jitsu Robe, Tattoo, Butcher, Patriot Flag, Astronaut
+    # IF Sparring Headgear THEN no Bloody Body, Jiu Jitsu Robe, Tattoo, Butcher, Patriot Flag, Astronaut
     if traits["Head"] == "Sparring Headgear":
         traits["Clothing"] = None
+
+    # IF No clothing trait THEN no Wayfarers
+    if not traits["Clothing"] and traits["Eyes"] == "Wayfarers":
+        traits["Eyes"] = None
+
+    # IF Butcher THEN no Microphone
+    # IF Announcer THEN no Microphone
+    # IF Bald Mike THEN no Microphone
+    if (
+        traits["Clothing"] == "Butcher"
+        or traits["Head"] == "Announcer"
+        or traits["Base"] == "Bald"
+    ):
+        if traits["Accessory"] == "Microphone":
+            traits["Accessory"] = None
+
+    # IF Patriot Flag THEN no Cigar
+    if traits["Clothing"] == "Patriot Flag" and traits["Mouth"] == "Cigar":
+        traits["Mouth"] = None
+
+    # IF Astronaut THEN no DJ Mikey B
+    if traits["Clothing"] == "Astronaut" and traits["Head"] == "DJ Mikey B":
+        traits["Head"] = None
 
     return traits
