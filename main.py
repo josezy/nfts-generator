@@ -52,7 +52,7 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
         psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
     json_data = {
-        "name": f"{athlete_info.get('name')} Ed. {filename}",
+        "name": "Blockasset Legends",
         "symbol": "",
         "seller_fee_basis_points": 0,
         "image": f"{filename}.png",
@@ -72,6 +72,8 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
         "attributes": [
             {"trait_type": trait_name, "value": trait_value or "No trait"}
             for trait_name, trait_value in traits.items()
+        ] + [
+            {"trait_type": "LEGEND", "value": athlete_info.get('name')}
         ],
     }
     with open(f"{output_path}/{filename}.json", "w") as outfile:
