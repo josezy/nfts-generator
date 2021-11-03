@@ -22,6 +22,8 @@ python main.py {bisping,rooney,etc...} --generate --multiprocess
 
 ## Candy machine setup
 
+Required tools Solana CLI
+
 [Metaplex Candy Machine + Custom SPL Token](https://docs.google.com/document/d/1ZJsbLJXKCAqUsOU6a0Jk-yOuSYi-uOMYdQZIILGsvxE/mobilebasic)
 
 #### SPL token creation
@@ -30,6 +32,11 @@ spl-token create-token --decimals 0 > token-output.txt
 spl-token create-account <TOKEN> > account-treasury.txt
 spl-token mint <TOKEN> 10000 <ACCOUNT>
 spl-token authorize <TOKEN> mint --disable
+```
+
+### Transfer SPL tokens
+```
+spl-token transfer --fee-payer ~/.config/solana/devnet.json <TOKEN> <AMOUNT> <DEST_ADDRESS>
 ```
 
 #### Creating the Candy Machine
