@@ -18,8 +18,8 @@ TRAITS = {
         "Crown": 1,
     },
     "Face": {
-        None: 68,
-        "Sweat": 20,
+        None: 64,
+        "Sweat": 24,
         "Scratch": 10,
         "Moustache": 2,
     },

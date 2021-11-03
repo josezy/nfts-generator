@@ -18,8 +18,8 @@ TRAITS = {
         "Crown": 1,
     },
     "Face": {
-        None: 68,
-        "Bloody": 20,
+        None: 64,
+        "Bloody": 24,
         "Red Terminator": 10,
         "Gold Terminator": 2,
     },
