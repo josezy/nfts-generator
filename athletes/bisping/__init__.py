@@ -82,12 +82,15 @@ def conditions(traits):
     # IF Butcher THEN no Accessories, DJ Mikey B, Announcer, Sparring Headgear, Dosbrak Bandana
     # IF Butcher THEN no Gold Terminator
     # IF Butcher THEN no Red Terminator
+    # IF Butcher THEN no Wayfarers
     if traits["Clothing"] == "Butcher":
         traits["Accessory"] = None
         traits["Head"] = None
         traits["Face"] = None
         if traits["Mouth"] == "Dosbrak Bandana":
             traits["Mouth"] = "Diamond Grill"
+        if traits["Eyes"] == "Wayfarers":
+            traits["Eyes"] = None
 
     # IF Bald base THEN no No Astronaut
     if traits["Base"] == "Bald" and traits["Clothing"] == "Astronaut":
@@ -107,8 +110,14 @@ def conditions(traits):
         traits["Face"] = None
 
     # IF Sparring Headgear THEN no Bloody Body, Jiu Jitsu Robe, Tattoo, Butcher, Patriot Flag, Astronaut
+    # IF Sparring Headgear THEN no Wayfarers
+    # IF Sparring Headgear THEN no Microphone
     if traits["Head"] == "Sparring Headgear":
         traits["Clothing"] = None
+        if traits["Eyes"] == "Wayfarers":
+            traits["Eyes"] = None
+        if traits["Accessory"] == "Microphone":
+            traits["Accessory"] = None
 
     # IF No clothing trait THEN no Wayfarers
     if not traits["Clothing"] and traits["Eyes"] == "Wayfarers":
@@ -117,8 +126,11 @@ def conditions(traits):
     # IF Butcher THEN no Microphone
     # IF Announcer THEN no Microphone
     # IF Bald Mike THEN no Microphone
+    # IF No clothing trait THEN no Microphone
+    # IF Astronaut THEN no Microphone
     if (
-        traits["Clothing"] == "Butcher"
+        not traits["Clothing"]
+        or traits["Clothing"] in ["Butcher", "Astronaut"]
         or traits["Head"] == "Announcer"
         or traits["Base"] == "Bald"
     ):
@@ -129,8 +141,20 @@ def conditions(traits):
     if traits["Clothing"] == "Patriot Flag" and traits["Mouth"] == "Cigar":
         traits["Mouth"] = None
 
+    # IF Announcer THEN no Cigar
+    if traits["Head"] == "Announcer" and traits["Mouth"] == "Cigar":
+        traits["Mouth"] = None
+
     # IF Astronaut THEN no DJ Mikey B
     if traits["Clothing"] == "Astronaut" and traits["Head"] == "DJ Mikey B":
         traits["Head"] = None
+
+    # IF Bald Mike THEN no DJ Mikey B
+    if traits["Base"] == "Bald" and traits["Head"] == "DJ Mikey B":
+        traits["Head"] = None
+
+    # IF Microphone THEN no Bloody Body, Jiu Jitsu Robe, Tattoo, Butcher, Patriot Flag, Astronaut
+    if traits["Accessory"] == "Microphone" and traits["Clothing"] in ["Bloody Body", "Jiu Jitsu Robe", "Tattoo", "Butcher", "Patriot Flag", "Astronaut"]:
+        traits["Clothing"] = "Suit"
 
     return traits
