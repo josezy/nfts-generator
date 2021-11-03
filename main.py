@@ -56,8 +56,8 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
             if len(sublayer) == 1:
                 sublayer[0].visible = True
                 # if sublayer is a group, set all sublayers to visible (special filters)
-                if sublayer.is_group():
-                    set_deeper_visible(sublayer)
+                if sublayer[0].is_group():
+                    set_deeper_visible(sublayer[0])
 
         psd.composite(force=True).save(f"{output_path}/{filename}.png")
 
