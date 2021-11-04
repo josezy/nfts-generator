@@ -11,10 +11,10 @@ TRAITS = {
     },
     "Head": {
         None: 54,
-        "BA Snapback ": 14,
-        "Hockey Helmet black": 13,
+        "BA Snapback": 14,
+        "Black Helmet": 13,
         "Russian Hat": 12,
-        "Hocky Helmet Gold": 6,
+        "Gold Helmet": 6,
         "Crown": 1,
     },
     "Face": {
@@ -86,8 +86,5 @@ def conditions(t):
     # IF Red Helmet THEN no Wayfarers
     if t["Head"] in ["Gold Helmet", "Red Helmet"] and t["Eyes"] == "Wayfarers":
         t["Wayfarers"] = None
-
-    # IF Ice Ice Ovi THEN no Frozen
-    # Frozen trait does not exists
 
     return t
