@@ -68,7 +68,7 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
 
     json_data = {
         "name": "Blockasset Legends",
-        "symbol": "",
+        "symbol": "LEGENDS",
         "seller_fee_basis_points": 7 * 100,
         "image": f"{filename}.png",
         "properties": {
