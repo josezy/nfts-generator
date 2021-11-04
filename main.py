@@ -74,7 +74,7 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
         "properties": {
             "creators": [
                 {
-                    "address": "6Ai61gQBy4uRahRpkNm6ZbVyvUjGtBgm1ns9qu4xAL5N",
+                    "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
                     "share": 100,
                 },
             ],
