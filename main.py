@@ -128,6 +128,7 @@ def main(
     only_metadata: bool = False,
     multiprocess: bool = False,
     trait_id: Optional[int] = None,
+    trait_ids: str = "",
 ):
     typer.echo(f'Working with {athlete}')
     nft_traits = []
@@ -142,13 +143,17 @@ def main(
         typer.echo(f"Using {psd_filename} and {csv_filename}")
         if multiprocess:
 
-            with open(csv_filename) as fp:
-                total_traits = len(fp.readlines()) - 1
+            if trait_ids:
+                l = list(map(int, trait_ids.split(",")))
+                total_traits = len(trait_ids)
+            else:
+                with open(csv_filename) as fp:
+                    total_traits = len(fp.readlines()) - 1
+                l = list(range(total_traits))
 
             worker_pool = []
             worker_count = multiprocessing.cpu_count()
 
-            l = list(range(total_traits))
             splited = [l[i::worker_count] for i in range(worker_count)]
 
             for i in range(worker_count):
@@ -168,13 +173,18 @@ def main(
                 p.join()
 
         else:
+            if trait_ids:
+                t_list = list(map(int, trait_ids.split(",")))
+            else:
+                t_list = [] if trait_id is None else [trait_id]
+
             generate_editions(
                 csv_filename,
                 psd_filename,
                 output_path,
                 _athlete.INFO,
                 only_metadata,
-                traits_list=[] if trait_id is None else [trait_id]
+                traits_list=t_list
             )
 
     else:
