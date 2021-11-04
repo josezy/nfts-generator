@@ -71,6 +71,8 @@ def generate_candy_machine_edition(psd, traits, output_path, athlete_info, only_
         "symbol": "LEGENDS",
         "seller_fee_basis_points": 7 * 100,
         "image": f"{filename}.png",
+        "external_url": "https://blockasset.co/",
+        "description": "Blockasset Verified Legends Collection by Dosbrak.",
         "properties": {
             "creators": [
                 {
