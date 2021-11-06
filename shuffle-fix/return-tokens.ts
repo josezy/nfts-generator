@@ -11,12 +11,12 @@ const RUST_PATH = '~/Desktop/blockasset/metaplex/rust/target/debug'
 const RPC_ENDPOINT = 'https://cmnftdrop7299eedc071c.genesysgo.net/'
 
 const new_md_name = 'Exiled Lomus'
-
+// NEW ROYALTIES WALLET: 7gCSg1V47AvDZ2UvjsKKWJTsoBJFasg2mFSiCEENo5HC
 for (const holder of holders) {
 
   if (!holder['metadataUpdated']) {
     console.log(`Updating metadata for mint ${holder.mint_account}`)
-    const metadataCmd = `${RUST_PATH}/metaplex-token-metadata-test-client update_metadata_accounts --url ${RPC_ENDPOINT} --mint ${holder.mint_account} --keypair ${KEYPAIR} --name '${new_md_name}''`
+    const metadataCmd = `${RUST_PATH}/metaplex-token-metadata-test-client update_metadata_accounts --url ${RPC_ENDPOINT} --mint ${holder.mint_account} --keypair ${KEYPAIR} --name '${new_md_name}'`
     try {
       const resultMd = execSync(metadataCmd)
       console.log(resultMd)
@@ -38,6 +38,6 @@ for (const holder of holders) {
   //   }
   // }
 
-  fs.writeFileSync('./processed_holders.json', JSON.stringify(holders));
+  fs.writeFileSync('./holders.json', JSON.stringify(holders));
 }
 
