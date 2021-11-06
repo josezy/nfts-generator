@@ -10,3 +10,5 @@ editions
 __pycache__
 
 .grive
+node_modules/
+test/
