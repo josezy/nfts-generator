@@ -26,6 +26,7 @@ for (const holder of holders) {
     }
   }
 
+  // Uncomment at your own risk
   // if (!holder['tokenReturned']) {
   //   console.log(`Returning token to ${holder.owner_wallet}`)
   //   try {
